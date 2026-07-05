@@ -1,3 +1,0 @@
-# Java Basics Ebook
-
-Deploying...
