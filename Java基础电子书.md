@@ -44,11 +44,11 @@
 
 #### 1.1 Java基础全程脉络图
 
-<img src="assets/ch01_images/Java基础全程脉络图.jpg" alt="Java基础全程脉络图" style="zoom: 50%;" />
+<img src="assets/ch01_images/Java基础全程脉络图.webp" alt="Java基础全程脉络图" style="zoom: 50%;" />
 
 #### 1.2 本章专题与脉络
 
-<img src="assets/ch01_images/第1阶段：Java基本语法-第01章.jpg" alt="第1阶段：Java基本语法-第01章" style="zoom: 45%;" />
+<img src="assets/ch01_images/第1阶段：Java基本语法-第01章.webp" alt="第1阶段：Java基本语法-第01章" style="zoom: 45%;" />
 
 ### 2. 抽丝剥茧话Java
 
@@ -56,15 +56,15 @@
 
 - `麦可思研究院`发布了《**2022年中国大学生就业报告**》，针对2021届毕业生收入较高的本科专业排行榜：
 
-<img src="assets/ch01_images/37cb4fd26b284de3913374e9660e870d.jpeg" alt="img" style="zoom: 50%;" />
+<img src="assets/ch01_images/37cb4fd26b284de3913374e9660e870d.webp" alt="img" style="zoom: 50%;" />
 
 - `麦可思研究院`发布过《**2021年中国大学生就业报告**》，应届本科毕业生就业数量较大的前十位行业类的就业质量：
 
-  <img src="assets/ch01_images/jiuyezhiliang1.jpg" alt="jiuyezhiliang1" style="zoom: 67%;" />
+  <img src="assets/ch01_images/jiuyezhiliang1.webp" alt="jiuyezhiliang1" style="zoom: 67%;" />
 
 - 报告还对毕业三年后的2017届毕业生所在十大行业进行了统计：
 
-<img src="assets/ch01_images/jiuyezhiliang2.jpg" alt="jiuyezhiliang2" style="zoom: 60%;" />
+<img src="assets/ch01_images/jiuyezhiliang2.webp" alt="jiuyezhiliang2" style="zoom: 60%;" />
 
 - 从国家统计局发布的2021年全国平均工资来看，不管在城镇非私营单位还是私营单位，`IT业均为最高`。
 
@@ -72,7 +72,7 @@
 
 过去不能代表未来！互联网是否依旧靠谱？！
 
-<img src="assets/ch01_images/image-20220523002428542.jpg" alt="image-20220523002428542" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20220523002428542.webp" alt="image-20220523002428542" style="zoom:80%;" />
 
 > 2014 年至 2018 年间，我国网民规模从 6.49 亿增长为 8.29 亿，增幅为 `27.5%`。同一时间段，全国移动互联网接入的流量却从 20.6EB 增长到了 711.1EB，增幅达 `3352%`（获取和处理的信息量大幅增加）。 
 >
@@ -82,7 +82,7 @@
 
 #### 2.3 IT行业岗位分析
 
-<img src="assets/ch01_images/image-20220522234544537.jpg" alt="image-20220522234544537" style="zoom: 80%;" />
+<img src="assets/ch01_images/image-20220522234544537.webp" alt="image-20220522234544537" style="zoom: 80%;" />
 
 **软件开发，是进入互联网IT圈最好的选择之一！**
 
@@ -93,25 +93,25 @@
 
 #### 2.4 软件开发之Java开发
 
-![image-20220504101615999](assets/ch01_images/image-20220504101615999.jpg)
+![image-20220504101615999](assets/ch01_images/image-20220504101615999.webp)
 
-![image-20220608160444947](assets/ch01_images/image-20220608160444947.jpg)
+![image-20220608160444947](assets/ch01_images/image-20220608160444947.webp)
 
 - **移动应用领域（集成Android平台）**：Java在Android端是主要开发的语言，占有重要的地位。
 
-  <img src="assets/ch01_images/image-20220511092649122.jpg" alt="image-20220511092649122" style="zoom: 65%;" />
+  <img src="assets/ch01_images/image-20220511092649122.webp" alt="image-20220511092649122" style="zoom: 65%;" />
 
-  <img src="assets/ch01_images/20220608_160310.jpg" alt="20220608_160310" style="zoom:67%;" />
+  <img src="assets/ch01_images/20220608_160310.webp" alt="20220608_160310" style="zoom:67%;" />
 
 - **企业级应用领域（JavaEE后台）**：用来开发企业级的应用程序，大型网站如淘宝、京东、12306，以及各大物流、银行、金融、社交、医疗、交通、各种OA系统等都是用JavaEE技术开发的。
 
-  <img src="assets/ch01_images/image-20220511090528043.jpg" alt="image-20220511090528043" style="zoom:67%;" />
+  <img src="assets/ch01_images/image-20220511090528043.webp" alt="image-20220511090528043" style="zoom:67%;" />
 
 - **大数据分析、人工智能领域**：流行的大数据框架，如Hadoop、Flink都是用Java编写的。Spark使用Scala编写，但可以用Java开发应用。
 
-  <img src="assets/ch01_images/image-20220511091647358.jpg" alt="image-20220511091647358" style="zoom:70%;" />
+  <img src="assets/ch01_images/image-20220511091647358.webp" alt="image-20220511091647358" style="zoom:70%;" />
 
-  ![image-20220513233529610](assets/ch01_images/image-20220513233529610.jpg)
+  ![image-20220513233529610](assets/ch01_images/image-20220513233529610.webp)
 
   > Eversoft公司在提到2022年Java发展趋势时写道：
   >
@@ -133,11 +133,11 @@
 
 #### 2.6 八卦一下程序员
 
-<img src="assets/ch01_images/image-20220602105134523.jpg" alt="image-20220602105134523" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20220602105134523.webp" alt="image-20220602105134523" style="zoom:80%;" />
 
 还可以是：
 
-![image-20220602105213557](assets/ch01_images/image-20220602105213557.jpg)
+![image-20220602105213557](assets/ch01_images/image-20220602105213557.webp)
 
 #### 2.7 Java系列课程体系
 
@@ -145,7 +145,7 @@
 
 #### 2.8 Java职业晋升路线图
 
-![技术发展路线](assets/ch01_images/技术发展路线.jpg)
+![技术发展路线](assets/ch01_images/技术发展路线.webp)
 
 薪资数据统计来源：拉勾网
 
@@ -153,7 +153,7 @@
 
 #### 3.1 计算机组成：硬件+软件
 
-![image-20220524152902812](assets/ch01_images/image-20220524152902812.jpg)
+![image-20220524152902812](assets/ch01_images/image-20220524152902812.webp)
 
 #### 3.2 CPU、内存与硬盘
 
@@ -169,17 +169,17 @@
   - 具体的：保存从硬盘读取的数据，提供给CPU使用；保存CPU的一些临时执行结果，以便CPU下次使用或保存到硬盘。
   - 断电后数据丢失。
 
-![image-20220731234604511](assets/ch01_images/image-20220731234604511.jpg)
+![image-20220731234604511](assets/ch01_images/image-20220731234604511.webp)
 
 #### 3.3 输入设备：键盘输入
 
 - 熟悉指法
 
-<img src="assets/ch01_images/image-20220517100223784.jpg" alt="image-20220517100223784" style="zoom: 80%;" />
+<img src="assets/ch01_images/image-20220517100223784.webp" alt="image-20220517100223784" style="zoom: 80%;" />
 
 不熟悉键盘的小伙伴，可以“`金山打字通`”走起了。坚决杜绝`二指禅`！！
 
-<img src="assets/ch01_images/image-20220517100543176.jpg" alt="image-20220517100543176" style="zoom:67%;" />
+<img src="assets/ch01_images/image-20220517100543176.webp" alt="image-20220517100543176" style="zoom:67%;" />
 
 ### 4. 软件相关介绍
 
@@ -191,11 +191,11 @@
 
 系统软件：
 
-![image-20220522215226273](assets/ch01_images/image-20220522215226273.jpg)
+![image-20220522215226273](assets/ch01_images/image-20220522215226273.webp)
 
 应用软件：
 
-![macdesk](assets/ch01_images/macdesk.jpg)
+![macdesk](assets/ch01_images/macdesk.webp)
 
 #### 4.2 人机交互方式
 
@@ -215,7 +215,7 @@ DOS（Disk Operating System，磁盘操作系统）是Microsoft公司在Windows�
 
 - 按下Windows+R键盘，打开运行窗口，输入cmd回车，进入到DOS的操作窗口。
 
-  <img src="assets/ch01_images/image-20220520100110104.jpg" alt="image-20220520100110104" style="zoom:80%;" />
+  <img src="assets/ch01_images/image-20220520100110104.webp" alt="image-20220520100110104" style="zoom:80%;" />
 
 **常用指令：**
 
@@ -272,7 +272,7 @@ DOS（Disk Operating System，磁盘操作系统）是Microsoft公司在Windows�
 
   * 这种语言本质上是计算机能识别的唯一语言，人类很难理解。可以大胆想象"`此时的程序员99.9%都是异类！`"
 
-    ![image-20220309223406537](assets/ch01_images/image-20220309223406537.jpg)
+    ![image-20220309223406537](assets/ch01_images/image-20220309223406537.webp)
 
 * **第二代：汇编语言（相当于人类的青铜&铁器时代）**
 
@@ -282,7 +282,7 @@ DOS（Disk Operating System，磁盘操作系统）是Microsoft公司在Windows�
 
   * 缺点：汇编语言是`面向机器的`，不同计算机机型特点不同，因此会有不同的汇编语言，彼此之间`不能通用`。程序不易移植，较难调试。
 
-    <img src="assets/ch01_images/image-20220309223725671.jpg" alt="image-20220309223725671" style="zoom:67%;" />
+    <img src="assets/ch01_images/image-20220309223725671.webp" alt="image-20220309223725671" style="zoom:67%;" />
 
   * 比起机器语言，汇编大大进步了，是机器语言向更高级的语言进化的`桥梁`。目前仍然应用于工业电子编程领域、软件的加密解密、计算机病毒分析等。
 
@@ -290,13 +290,13 @@ DOS（Disk Operating System，磁盘操作系统）是Microsoft公司在Windows�
 
   * 高级语言发展于20世纪50年代中叶到70年代，是一种`接近于人们使用习惯`的程序设计语言。它允许程序员使用`接近日常英语`的指令来编写程序，程序中的符号和算式也与`日常用的数学式子`差不多，接近于自然语言和数学语言，容易为人们掌握。比如：
 
-    ![image-20211218092541175](assets/ch01_images/image-20211218092541175.jpg)
+    ![image-20211218092541175](assets/ch01_images/image-20211218092541175.webp)
 
   * 高级语言`独立于机器`，有一定的通用性；计算机不能直接识别和执行用高级语言编写的程序，需要使用编译器或者解释器，`转换为机器语言`才能被识别和执行。
 
-<img src="assets/ch01_images/image-20211218092630678.jpg" alt="image-20211218092630678" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20211218092630678.webp" alt="image-20211218092630678" style="zoom:80%;" />
 
-![image-20211218092541075](assets/ch01_images/image-20211218092541075.jpg)
+![image-20211218092541075](assets/ch01_images/image-20211218092541075.webp)
 
 此外，高级语言按照程序设计方法的不同，又分为：`面向过程的语言`、`面向对象的语言`。
 
@@ -312,19 +312,19 @@ DOS（Disk Operating System，磁盘操作系统）是Microsoft公司在Windows�
 
 TIOBE （https://www.tiobe.com/tiobe-index/）是一个流行编程语言排行，每月更新。排名权重基于世界范围内 工程师数量，Google、Bing、Yahoo! 、Wikipedia、Amazon、Youtube和百度这些主流的搜索引擎，也将作为排名权重的参考指标。
 
-![image-20221027112824724](assets/ch01_images/image-20221027112824724.jpg)
+![image-20221027112824724](assets/ch01_images/image-20221027112824724.webp)
 
 计算机语言走势
 
-![image-20221027113511832](assets/ch01_images/image-20221027113511832.jpg)
+![image-20221027113511832](assets/ch01_images/image-20221027113511832.webp)
 
 #### 5.4 编程语言，该学哪个？
 
-<img src="assets/ch01_images/image-20220310151657860.jpg" alt="image-20220310151657860" style="zoom: 50%;" />
+<img src="assets/ch01_images/image-20220310151657860.webp" alt="image-20220310151657860" style="zoom: 50%;" />
 
 网传的编程语言鄙视链：
 
-![image-20220310151750665](assets/ch01_images/image-20220310151750665.jpg)
+![image-20220310151750665](assets/ch01_images/image-20220310151750665.webp)
 
 - C语言：万物之源
 
@@ -404,7 +404,7 @@ Gosling团队率先创造了这个语言，并命名为“`Oak`"（起名的原�
 
 随着20世纪90年代互联网的发展，Sun公司发现该语言在互联网上应用的前景，于是改造了Oak，于1995年5月以Java的名称正式发布。（Java是印度尼西亚`爪哇岛`的英文名称，因盛产咖啡而闻名。）
 
-![image-20220309230839100](assets/ch01_images/image-20220309230839100.jpg)
+![image-20220309230839100](assets/ch01_images/image-20220309230839100.webp)
 
 **发展阶段：**
 
@@ -431,7 +431,7 @@ Gosling团队率先创造了这个语言，并命名为“`Oak`"（起名的原�
 
 #### 6.3 Java之父
 
-<img src="assets/ch01_images/image-20220310152923961.jpg" alt="image-20220310152923961" style="zoom:67%;" />
+<img src="assets/ch01_images/image-20220310152923961.webp" alt="image-20220310152923961" style="zoom:67%;" />
 
 - `詹姆斯·高斯林(James Gosling)`先生以“Java 技术之父”而闻名于世。他是Java 技术的创始人，他亲手设计了Java语言，并开发了Java编译器和Java虚拟机，使Java成为了世界上最流行的开发语言。
 - James Gosling于1984 年加入Sun公司，并一直服务于Sun公司，直至2010年前后，Sun被Oracle并购而加入Oracle，担任客户端软件集团的首席技术官; 2010年4月从Oracle离职。
@@ -442,7 +442,7 @@ Gosling团队率先创造了这个语言，并命名为“`Oak`"（起名的原�
 
 > SUN是一家`极具创新能力`的公司，2001年 “9.11”以前，SUN公司市值`超过1000亿`美元。 但是没能利用Java构建一个强有力、可变现的生态系统，没打好Java这张牌。此后，互联网泡沫破裂，硬件需求大幅减少，它的市值在一个月之内跌幅超过90%。**SUN公司的成长用了20年，而衰落只用了1年！**
 
-<img src="assets/ch01_images/image-20220309230923533.jpg" alt="image-20220309230923533" style="zoom: 67%;" />
+<img src="assets/ch01_images/image-20220309230923533.webp" alt="image-20220309230923533" style="zoom: 67%;" />
 
 - **Oracle 与 Google**
 
@@ -470,7 +470,7 @@ Gosling团队率先创造了这个语言，并命名为“`Oak`"（起名的原�
 9. }
 ```
 
-![image-20221027145908490](assets/ch01_images/image-20221027145908490.jpg)
+![image-20221027145908490](assets/ch01_images/image-20221027145908490.webp)
 
 #### 6.5 Java技术体系平台
 
@@ -487,7 +487,7 @@ Gosling团队率先创造了这个语言，并命名为“`Oak`"（起名的原�
   - JavaME是JavaSE的内伸，精简了JavaSE 的核心类库，同时也提供自己的扩展类。增加了适合微小装置的类库：javax.microedition.io.*等。
   - 此版本以前称为J2ME
 
-![image-20211218093009884](assets/ch01_images/image-20211218093009884.jpg)
+![image-20211218093009884](assets/ch01_images/image-20211218093009884.webp)
 
 > 注意：
 >
@@ -502,9 +502,9 @@ Gosling团队率先创造了这个语言，并命名为“`Oak`"（起名的原�
 
 如下是Java 8.0 Platform：
 
-![](assets/ch01_images/JDKJRE.jpg)
+![](assets/ch01_images/JDKJRE.webp)
 
-<img src="assets/ch01_images/image-20220310200731185.jpg" alt="image-20220310200731185" style="zoom:67%;" />
+<img src="assets/ch01_images/image-20220310200731185.webp" alt="image-20220310200731185" style="zoom:67%;" />
 
 > 小结：
 >
@@ -514,11 +514,11 @@ Gosling团队率先创造了这个语言，并命名为“`Oak`"（起名的原�
 
 #### 7.2 JDK版本选择
 
-<img src="assets/ch01_images/image-20221108221057540.jpg" alt="image-20221108221057540" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20221108221057540.webp" alt="image-20221108221057540" style="zoom:80%;" />
 
 ***
 
-![image-20220310201541841](assets/ch01_images/image-20220310201541841.jpg)
+![image-20220310201541841](assets/ch01_images/image-20220310201541841.webp)
 
 - 自Java 8版本发布以来，其后的每次更新，都会有小伙伴高呼：**Java8 YYDS！**
 - 论坛的声音：“`你发任你发，我用Java 8！`”
@@ -527,7 +527,7 @@ Gosling团队率先创造了这个语言，并命名为“`Oak`"（起名的原�
 
 JRebel 于2022年4月前后发布了《2022 年Java生态系统状况报告》，报告中提到使用Java11 的占比最多，Java 8 紧随其后，如下图。而此前2020年的报告显示，Java8占比达到了`84.48%`。
 
-![d315](assets/ch01_images/d315.jpeg)
+![d315](assets/ch01_images/d315.webp)
 
 > 我的分析：
 >
@@ -541,7 +541,7 @@ JRebel 于2022年4月前后发布了《2022 年Java生态系统状况报告》�
 
 ***
 
-<img src="assets/ch01_images/image-20220428151952049.jpg" alt="image-20220428151952049" style="zoom: 67%;" />
+<img src="assets/ch01_images/image-20220428151952049.webp" alt="image-20220428151952049" style="zoom: 67%;" />
 
 **Spring框架说话：**
 
@@ -554,7 +554,7 @@ JRebel 于2022年4月前后发布了《2022 年Java生态系统状况报告》�
 
 Spring 官方说明：`https://spring.io/blog/2022/01/20/spring-boot-3-0-0-m1-is-now-available`
 
-![image-20220527155439683](assets/ch01_images/image-20220527155439683.jpg)
+![image-20220527155439683](assets/ch01_images/image-20220527155439683.webp)
 
 > 意味着：springboot3.0 是需要用java17和spring6.0为基础建设。如果从企业选型最新springboot3.0作为架构来说，它搭配jdk17肯定是标配了。
 >
@@ -564,39 +564,39 @@ Spring 官方说明：`https://spring.io/blog/2022/01/20/spring-boot-3-0-0-m1-is
 * 下载网址（Oracle公司官网）：www.oracle.com
 * 下载步骤：如图所示，在官网底部选择Developers开发者
 
-![1572254490435](assets/ch01_images/下载1.jpg)
+![1572254490435](assets/ch01_images/下载1.webp)
 
 （1）在Developers页面中间的技术分类部分，选择`Java`，单击进入，如图所示：
 
-<img src="assets/ch01_images/image-20211019110551338.jpg" alt="image-20211019110551338" style="zoom: 50%;" />
+<img src="assets/ch01_images/image-20211019110551338.webp" alt="image-20211019110551338" style="zoom: 50%;" />
 
 （2）这里展示的是最新Java版本，例如Java17。单击`Download Java`，然后选择具体的版本下载。
 
-<img src="assets/ch01_images/image-20211019110843394.jpg" alt="image-20211019110843394" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20211019110843394.webp" alt="image-20211019110843394" style="zoom:80%;" />
 
 （3）选择Download Java按钮后
 
-![image-20211019111110242](assets/ch01_images/image-20211019111110242.jpg)
+![image-20211019111110242](assets/ch01_images/image-20211019111110242.webp)
 
 （4）如果想安装Java8 可以选择如下位置：
 
-<img src="assets/ch01_images/image-20211019111150970.jpg" alt="image-20211019111150970" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20211019111150970.webp" alt="image-20211019111150970" style="zoom:80%;" />
 
 （5）选择Accept License Agreement，
 
-<img src="assets/ch01_images/image-20211019111252989.jpg" alt="image-20211019111252989" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20211019111252989.webp" alt="image-20211019111252989" style="zoom:80%;" />
 
 （6）注册或登录后下载：
 
-<img src="assets/ch01_images/image-20211019111922387.jpg" alt="image-20211019111922387" style="zoom:50%;" />
+<img src="assets/ch01_images/image-20211019111922387.webp" alt="image-20211019111922387" style="zoom:50%;" />
 
 （7）如果需要安装其它版本，可以选择Java archive：
 
-<img src="assets/ch01_images/image-20220801004606762.jpg" alt="image-20220801004606762" style="zoom: 67%;" />
+<img src="assets/ch01_images/image-20220801004606762.webp" alt="image-20220801004606762" style="zoom: 67%;" />
 
 接着进行选择下载即可：
 
-<img src="assets/ch01_images/image-20220801004648997.jpg" alt="image-20220801004648997" style="zoom:67%;" />
+<img src="assets/ch01_images/image-20220801004648997.webp" alt="image-20220801004648997" style="zoom:67%;" />
 
 #### 7.4 JDK的安装
 
@@ -609,21 +609,21 @@ Spring 官方说明：`https://spring.io/blog/2022/01/20/spring-boot-3-0-0-m1-is
 
 （1）双击`jdk-17_windows-x64_bin.exe`文件，并单击下一步，如图所示：
 
-![image-20220303083718546](assets/ch01_images/image-20220303083718546.jpg)
+![image-20220303083718546](assets/ch01_images/image-20220303083718546.webp)
 
 （2）修改安装路径，单击更改，如图所示：
 
-![image-20220303083759546](assets/ch01_images/image-20220303083759546.jpg)
+![image-20220303083759546](assets/ch01_images/image-20220303083759546.webp)
 
 （3）将安装路径修改为`D:\develop_tools\jdk\jdk-17.0.2\`，并单击下一步，如图所示：
 
-![image-20220303083845794](assets/ch01_images/image-20220303083845794.jpg)
+![image-20220303083845794](assets/ch01_images/image-20220303083845794.webp)
 
 （4）稍后几秒，安装完成，如图所示：
 
-![image-20220303083905277](assets/ch01_images/image-20220303083905277.jpg)
+![image-20220303083905277](assets/ch01_images/image-20220303083905277.webp)
 
-![image-20220303083931309](assets/ch01_images/image-20220303083931309.jpg)
+![image-20220303083931309](assets/ch01_images/image-20220303083931309.webp)
 
 #### 7.5 配置path环境变量
 
@@ -641,11 +641,11 @@ Spring 官方说明：`https://spring.io/blog/2022/01/20/spring-boot-3-0-0-m1-is
 
 我们在`C:\Users\songhk`目录下使用javac命令，结果如下：
 
-![image-20220310223852720](assets/ch01_images/image-20220310223852720.jpg)
+![image-20220310223852720](assets/ch01_images/image-20220310223852720.webp)
 
 我们在JDK的安装目录的bin目录下使用javac命令，结果如下：
 
-<img src="assets/ch01_images/image-20220607113708022.jpg" alt="image-20220607113708022" style="zoom:75%;" />
+<img src="assets/ch01_images/image-20220607113708022.webp" alt="image-20220607113708022" style="zoom:75%;" />
 
 我们不可能每次使用java.exe，javac.exe等工具的时候都进入到JDK的安装目录下，太麻烦了。这时就需要配置path环境变量。
 
@@ -655,35 +655,35 @@ Spring 官方说明：`https://spring.io/blog/2022/01/20/spring-boot-3-0-0-m1-is
 
 （1）打开桌面上的计算机，进入后在左侧找到`此电脑`，单击鼠标`右键`，选择`属性`，如图所示：
 
-![image-20220310224844837](assets/ch01_images/image-20220310224844837.jpg)
+![image-20220310224844837](assets/ch01_images/image-20220310224844837.webp)
 
 （2）选择`高级系统设置`，如图所示：
 
-![image-20220310224912273](assets/ch01_images/image-20220310224912273.jpg)
+![image-20220310224912273](assets/ch01_images/image-20220310224912273.webp)
 
 （3）在`高级`选项卡，单击`环境变量`，如图所示：
 
-![image-20220310224952745](assets/ch01_images/image-20220310224952745.jpg)
+![image-20220310224952745](assets/ch01_images/image-20220310224952745.webp)
 
 （4）在`系统变量`中，选中`Path` 环境变量，`双击`或者`点击编辑` ,如图所示：
 
-![image-20220310225023208](assets/ch01_images/image-20220310225023208.jpg)
+![image-20220310225023208](assets/ch01_images/image-20220310225023208.webp)
 
 （5）点击`新建`，填入`D:\develop_tools\jdk\jdk1.8.0_271\bin`  ，并将此值`上移`到变量列表的首位。如图所示：
 
 - 编辑模式1：
 
-<img src="assets/ch01_images/image-20220607114102135.jpg" alt="image-20220607114102135" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20220607114102135.webp" alt="image-20220607114102135" style="zoom:80%;" />
 
 - 编辑模式2：（注意，结尾需要有英文模式下的;）
 
-![image-20220929104547925](assets/ch01_images/image-20220929104547925.jpg)
+![image-20220929104547925](assets/ch01_images/image-20220929104547925.webp)
 
 （6）环境变量配置完成，**重新开启**DOS命令行，在任意目录下输入`javac` 或`java`命令或`java -version`，运行成功。
 
-<img src="assets/ch01_images/image-20220607114432286.jpg" alt="image-20220607114432286" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20220607114432286.webp" alt="image-20220607114432286" style="zoom:80%;" />
 
-<img src="assets/ch01_images/image-20220607114517652.jpg" alt="image-20220607114517652" style="zoom:90%;" />
+<img src="assets/ch01_images/image-20220607114517652.webp" alt="image-20220607114517652" style="zoom:90%;" />
 
 
 
@@ -692,39 +692,39 @@ Spring 官方说明：`https://spring.io/blog/2022/01/20/spring-boot-3-0-0-m1-is
 
 （1）打开桌面上的计算机，进入后在左侧找到`计算机`，单击鼠标`右键`，选择`属性`，如图所示：
 
-![image-20220310224844837](assets/ch01_images/image-20220310224844837.jpg)
+![image-20220310224844837](assets/ch01_images/image-20220310224844837.webp)
 
 （2）选择`高级系统设置`，如图所示：
 
-![image-20220310224912273](assets/ch01_images/image-20220310224912273.jpg)
+![image-20220310224912273](assets/ch01_images/image-20220310224912273.webp)
 
 （3）在`高级`选项卡，单击`环境变量`，如图所示：
 
-![image-20220310224952745](assets/ch01_images/image-20220310224952745.jpg)
+![image-20220310224952745](assets/ch01_images/image-20220310224952745.webp)
 
 （4）在`系统变量`中，单击`新建` ，创建新的环境变量，如图所示：
 
-<img src="assets/ch01_images/image-20220310225245208.jpg" alt="image-20220310225245208" style="zoom:90%;" />
+<img src="assets/ch01_images/image-20220310225245208.webp" alt="image-20220310225245208" style="zoom:90%;" />
 
 （5）变量名输入`JAVA_HOME`，变量值输入 `D:\develop_tools\jdk\jdk1.8.0_271` ，单击`确定`，如图所示：
 
-<img src="assets/ch01_images/image-20220607114800372.jpg" alt="image-20220607114800372" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20220607114800372.webp" alt="image-20220607114800372" style="zoom:80%;" />
 
 （6）选中`Path` 环境变量，`双击`或者`点击编辑` ，如图所示：
 
-![image-20220310225023208](assets/ch01_images/image-20220310225023208.jpg)
+![image-20220310225023208](assets/ch01_images/image-20220310225023208.webp)
 
 （7）在变量值的最前面，键入`%JAVA_HOME%\bin`。如图所示：
 
-<img src="assets/ch01_images/image-20220607114953758.jpg" alt="image-20220607114953758" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20220607114953758.webp" alt="image-20220607114953758" style="zoom:80%;" />
 
 > 注意：强烈建议将%JAVA_HOME%\bin声明在path环境变量中所有变量的最前面！
 
 （8）环境变量配置完成，**重启**DOS命令行，在任意目录下输入`javac` 或`java`命令或`java -version`，运行成功。
 
-<img src="assets/ch01_images/image-20220607114432286.jpg" alt="image-20220607114432286" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20220607114432286.webp" alt="image-20220607114432286" style="zoom:80%;" />
 
-<img src="assets/ch01_images/image-20220607114517652.jpg" alt="image-20220607114517652" style="zoom:90%;" />
+<img src="assets/ch01_images/image-20220607114517652.webp" alt="image-20220607114517652" style="zoom:90%;" />
 
 
 
@@ -734,23 +734,23 @@ Spring 官方说明：`https://spring.io/blog/2022/01/20/spring-boot-3-0-0-m1-is
 
 **小结如下：**
 
-![image-20220607115255562](assets/ch01_images/image-20220607115255562.jpg)
+![image-20220607115255562](assets/ch01_images/image-20220607115255562.webp)
 
 ##### 7.5.4 JDK17配置方案：自动配置
 
 不管大家有没有提前安装JDK8或其它版本JDK，在我们安装完JDK17之后，理应按JDK8的方式配置path环境变量。但是，我们发现在安装完JDK17以后，配置环境变量之前，执行CMD指令：
 
-<img src="assets/ch01_images/image-20220607115700870.jpg" alt="image-20220607115700870" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20220607115700870.webp" alt="image-20220607115700870" style="zoom:80%;" />
 
 竟然成功了！而且是17.0.2版本。因为JDK17在安装之后，自动进行了环境变量的配置。如下：
 
-<img src="assets/ch01_images/image-20220607115840388.jpg" alt="image-20220607115840388" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20220607115840388.webp" alt="image-20220607115840388" style="zoom:80%;" />
 
 这里建议，将JDK17安装的路径，设置为JAVA_HOME，并将`%JAVA_HOME%\bin`上移到首位。
 
-<img src="assets/ch01_images/image-20221110142710972.jpg" alt="image-20221110142710972" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20221110142710972.webp" alt="image-20221110142710972" style="zoom:80%;" />
 
-<img src="assets/ch01_images/image-20221110142734279.jpg" alt="image-20221110142734279" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20221110142734279.webp" alt="image-20221110142734279" style="zoom:80%;" />
 
 > 思考：如果你仍然希望在JDK8下开发Java程序？如何做呢？
 
@@ -765,13 +765,13 @@ Java程序开发三步骤：**编写**、**编译**、**运行**。
 - 通过 javac.exe 命令对该 java 文件进行**编译**，生成一个或多个字节码文件
 - 通过 java.exe 命令对生成的 class 文件进行**运行**
 
-![image-20220310230210728](assets/ch01_images/image-20220310230210728.jpg)
+![image-20220310230210728](assets/ch01_images/image-20220310230210728.webp)
 
 #### 8.2 编写
 
 （1）在`D:\JavaSE\chapter01` 目录下新建文本文件，完整的文件名修改为`HelloWorld.java`，其中文件名为`HelloWorld`，后缀名必须为`.java`。
 
-<img src="assets/ch01_images/image-20220801010222222.jpg" alt="image-20220801010222222" style="zoom:90%;" />
+<img src="assets/ch01_images/image-20220801010222222.webp" alt="image-20220801010222222" style="zoom:90%;" />
 
 （2）用记事本或editplus等文本编辑器打开（虽然记事本也可以，但是没有关键字颜色标识，不利于初学者学习）
 
@@ -789,11 +789,11 @@ class HelloChina {
 
 - 友情提示2：
 
-<img src="assets/ch01_images/image-20220310230618659.jpg" alt="image-20220310230618659" style="zoom:67%;" />
+<img src="assets/ch01_images/image-20220310230618659.webp" alt="image-20220310230618659" style="zoom:67%;" />
 
 或
 
-<img src="assets/ch01_images/image-20220521173215013.jpg" alt="image-20220521173215013" style="zoom:90%;" />
+<img src="assets/ch01_images/image-20220521173215013.webp" alt="image-20220521173215013" style="zoom:90%;" />
 
 第一个`HelloWord` 源程序就编写完成了，但是这个文件是程序员编写的，JVM是看不懂的，也就不能运行，因此我们必须将编写好的`Java源文件` 编译成JVM可以看懂的`字节码文件` ，也就是`.class`文件。
 
@@ -803,7 +803,7 @@ class HelloChina {
 
 使用文件资源管理器打开`D:\JavaSE\chapter01`目录，然后在地址栏输入cmd。
 
-<img src="assets/ch01_images/image-20220801010435144.jpg" alt="image-20220801010435144" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20220801010435144.webp" alt="image-20220801010435144" style="zoom:80%;" />
 
 命令：
 
@@ -817,7 +817,7 @@ javac Java源文件名.后缀名java
 javac HelloWorld.java
 ```
 
-<img src="assets/ch01_images/image-20220801010840640.jpg" alt="image-20220801010840640" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20220801010840640.webp" alt="image-20220801010840640" style="zoom:80%;" />
 
 编译成功后，命令行没有任何提示。打开`D:\JavaSE\chapter01`目录，发现产生了一个新的文件 `HelloChina.class`，该文件就是编译后的文件，是Java的可运行文件，称为**字节码文件**，有了字节码文件，就可以运行程序了。 
 
@@ -849,7 +849,7 @@ java HelloChina
 >
 > java HelloChina.class
 
-<img src="assets/ch01_images/image-20220801011104381.jpg" alt="image-20220801011104381" style="zoom:80%;" />
+<img src="assets/ch01_images/image-20220801011104381.webp" alt="image-20220801011104381" style="zoom:80%;" />
 
 ### 9. Java开发工具
 
@@ -857,13 +857,13 @@ java HelloChina
 
 - 级别一：文本开发工具
 
-<img src="assets/ch01_images/image-20220513185907022.jpg" alt="image-20220513185907022" style="zoom:50%;" />
+<img src="assets/ch01_images/image-20220513185907022.webp" alt="image-20220513185907022" style="zoom:50%;" />
 
 - 级别二：集成开发环境（Integrated Development Environment，IDE）
 
 > 把代码编写，编译，执行，调试等多种功能综合到一起的开发工具。
 
-<img src="assets/ch01_images/image-20220513190655773.jpg" alt="image-20220513190655773" style="zoom:50%;" />
+<img src="assets/ch01_images/image-20220513190655773.webp" alt="image-20220513190655773" style="zoom:50%;" />
 
 #### 9.2 如何选择
 
@@ -889,7 +889,7 @@ java HelloChina
 
 举例1：
 
- <img src="assets/ch01_images/image-20220310231657692.jpg" alt="image-20220310231657692" style="zoom:80%;" />
+ <img src="assets/ch01_images/image-20220310231657692.webp" alt="image-20220310231657692" style="zoom:80%;" />
 
 - 源文件名不存在或者写错
 - 当前路径错误
@@ -897,7 +897,7 @@ java HelloChina
 
 举例2：
 
- <img src="assets/ch01_images/image-20220310231717893.jpg" alt="image-20220310231717893" style="zoom:80%;" />
+ <img src="assets/ch01_images/image-20220310231717893.webp" alt="image-20220310231717893" style="zoom:80%;" />
 
 - 类文件名写错，尤其文件名与类名不一致时，要小心
 - 类文件不在当前路径下，或者不在classpath指定路径下
@@ -906,13 +906,13 @@ java HelloChina
 
 举例1：
 
- <img src="assets/ch01_images/image-20220310231746581.jpg" alt="image-20220310231746581" style="zoom:90%;" />
+ <img src="assets/ch01_images/image-20220310231746581.webp" alt="image-20220310231746581" style="zoom:90%;" />
 
 声明为public的类应与文件名一致，否知编译失败。
 
 举例2：
 
- <img src="assets/ch01_images/image-20220310231815405.jpg" alt="image-20220310231815405" style="zoom:80%;" />
+ <img src="assets/ch01_images/image-20220310231815405.webp" alt="image-20220310231815405" style="zoom:80%;" />
 
 编译失败，注意错误出现的行数，再到源代码中指定位置改错
 
@@ -920,17 +920,17 @@ java HelloChina
 
 当cmd命令行窗口的字符编码与.java源文件的字符编码不一致，如何解决？
 
- ![1557881223916](assets/ch01_images/命令行编译乱码.jpg)
+ ![1557881223916](assets/ch01_images/命令行编译乱码.webp)
 
 解决方案一：
 
 - 在Notepad++等编辑器中，修改源文件的字符编码：
 
-<img src="assets/ch01_images/Notepad修改源文件字符编码.jpg" alt="1557881271819" style="zoom:80%;" />
+<img src="assets/ch01_images/Notepad修改源文件字符编码.webp" alt="1557881271819" style="zoom:80%;" />
 
 - 在EditPlus中可以将Java源文件另存为ANSI编码方式（中文操作系统下即为GBK字符集）
 
-<img src="assets/ch01_images/1658810752424.jpg" alt="1658810752424" style="zoom:80%;" />
+<img src="assets/ch01_images/1658810752424.webp" alt="1658810752424" style="zoom:80%;" />
 
 解决方案二：
 
@@ -1023,7 +1023,7 @@ public static void main(String[] args){
 
 ### 12. 注释(comment)
 
-<img src="assets/ch01_images/image-20220610113151774.jpg" alt="image-20220610113151774" style="zoom: 67%;" />
+<img src="assets/ch01_images/image-20220610113151774.webp" alt="image-20220610113151774" style="zoom: 67%;" />
 
 - 什么是注释？
 
@@ -1108,7 +1108,7 @@ public static void main(String[] args){
     javadoc -d mydoc -author -version HelloWorld.java
     ```
 
-<img src="assets/ch01_images/image-20220310232527578.jpg" alt="image-20220310232527578" style="zoom:67%;" />
+<img src="assets/ch01_images/image-20220310232527578.webp" alt="image-20220310232527578" style="zoom:67%;" />
 
 案例：
 
@@ -1140,7 +1140,7 @@ public class HelloWorld{
 - Java语言提供了大量的基础类，因此 Oracle 也为这些基础类提供了相应的说明文档，用于告诉开发者如何使用这些类，以及这些类里包含的方法。大多数Java书籍中的类的介绍都要参照它来完成，它是编程者经常查阅的资料。
 - Java API文档，即为JDK使用说明书、帮助文档。类似于：
 
-<img src="assets/ch01_images/新华字典.jpg" alt="新华字典" style="zoom:28%;" />
+<img src="assets/ch01_images/新华字典.webp" alt="新华字典" style="zoom:28%;" />
 
 - 下载API文档：
   - 在线看：https://docs.oracle.com/en/java/javase/17/docs/api/index.html
@@ -1158,9 +1158,9 @@ Java确实是从C语言和C++语言继承了许多成份，甚至可以将Java�
 * 通过Java语言编写的应用程序在不同的系统平台上都可以运行。“`Write once , Run Anywhere`”。
 * 原理：只要在需要运行 java 应用程序的操作系统上，先安装一个Java虚拟机 (`J`VM ，Java `V`irtual `M`achine) 即可。由JVM来负责Java程序在该系统中的运行。
 
-<img src="assets/ch01_images/JVM的跨平台性-1666858570703.jpg" alt="JVM的跨平台性" style="zoom:70%;" />
+<img src="assets/ch01_images/JVM的跨平台性-1666858570703.webp" alt="JVM的跨平台性" style="zoom:70%;" />
 
-![image-20211217111217831](assets/ch01_images/image-20211217111217831.jpg)
+![image-20211217111217831](assets/ch01_images/image-20211217111217831.webp)
 
 * **面向对象性：**
 
@@ -1192,17 +1192,17 @@ Java确实是从C语言和C++语言继承了许多成份，甚至可以将Java�
 
 **JVM**（`J`ava `V`irtual `M`achine ，Java虚拟机）：是一个虚拟的计算机，是Java程序的运行环境。JVM具有指令集并使用不同的存储区域，负责执行指令，管理数据、内存、寄存器。
 
-<img src="assets/ch01_images/image-20220310165805739.jpg" alt="image-20220310165805739" style="zoom:67%;" />
+<img src="assets/ch01_images/image-20220310165805739.webp" alt="image-20220310165805739" style="zoom:67%;" />
 
 ##### 14.2.1 功能1：实现Java程序的跨平台性
 
 我们编写的Java代码，都运行在**JVM** 之上。正是因为有了JVM，才使得Java程序具备了跨平台性。
 
-<img src="assets/ch01_images/image-20220513191856727.jpg" alt="image-20220513191856727" style="zoom:50%;" />
+<img src="assets/ch01_images/image-20220513191856727.webp" alt="image-20220513191856727" style="zoom:50%;" />
 
 使用JVM前后对比：
 
-![image-20220514151716805](assets/ch01_images/image-20220514151716805.jpg)
+![image-20220514151716805](assets/ch01_images/image-20220514151716805.webp)
 
 ##### 14.2.2 功能2：自动内存管理(内存分配、内存回收)
 
@@ -1218,7 +1218,7 @@ Java确实是从C语言和C++语言继承了许多成份，甚至可以将Java�
 
 **案例1：个人信息输出**
 
- ![image-20220315221336038](assets/ch01_images/image-20220315221336038.jpg)
+ ![image-20220315221336038](assets/ch01_images/image-20220315221336038.webp)
 
 ```java
 class Exercise1{
@@ -1235,7 +1235,7 @@ class Exercise1{
 
 结合\n(换行)，\t(制表符)，空格等在控制台打印出如下图所示的效果。
 
-![image-20220309004152219](assets/ch01_images/image-20220309004152219-1646757896991.jpg) 
+![image-20220309004152219](assets/ch01_images/image-20220309004152219-1646757896991.webp) 
 
 方式一：
 
@@ -1375,7 +1375,7 @@ class Exercise3{
 
 ### 本章专题与脉络
 
-<img src="assets/ch02_images/第1阶段：Java基本语法-第02章.jpg" alt="第1阶段：Java基本语法-第02章" style="zoom:40%;" />
+<img src="assets/ch02_images/第1阶段：Java基本语法-第02章.webp" alt="第1阶段：Java基本语法-第02章" style="zoom:40%;" />
 
 ### 1. 关键字（keyword）
 
@@ -1385,16 +1385,16 @@ class Exercise3{
 - 关键字比较多，不需要死记硬背，学到哪里记到哪里即可。
 - 官方地址： https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html
 
-![image-20220310234414849](assets/ch02_images/image-20220310234414849.jpg)
+![image-20220310234414849](assets/ch02_images/image-20220310234414849.webp)
 
 >  说明：
 >
 >  1. 关键字一共`50个`，其中`const`和`goto`是`保留字`(reserved word)。
 >  2. `true`，`false`，`null`不在其中，它们看起来像关键字，其实是字面量，表示特殊的布尔值和空值。
 
-<img src="assets/ch02_images/image-20220310234557454.jpg" alt="image-20220310234557454" style="zoom: 67%;" />
+<img src="assets/ch02_images/image-20220310234557454.webp" alt="image-20220310234557454" style="zoom: 67%;" />
 
-<img src="assets/ch02_images/image-20220801143635356.jpg" alt="image-20220801143635356" style="zoom:66%;" />
+<img src="assets/ch02_images/image-20220801143635356.webp" alt="image-20220801143635356" style="zoom:66%;" />
 
 ### 2. 标识符( identifier)
 
@@ -1440,11 +1440,11 @@ Java中变量、方法、类等要素命名时使用的字符序列，称为标�
 
 #### 3.1 为什么需要变量
 
-![image-20220513235020527](assets/ch02_images/image-20220513235020527.jpg)
+![image-20220513235020527](assets/ch02_images/image-20220513235020527.webp)
 
 一花一世界，如果把一个程序看做一个世界或一个社会的话，那么变量就是程序世界的花花草草、万事万物。即，**变量是程序中不可或缺的组成单位，最基本的存储单元**。
 
-![image-20220513235828042](assets/ch02_images/image-20220513235828042.jpg)
+![image-20220513235828042](assets/ch02_images/image-20220513235828042.webp)
 
 #### 3.2 初识变量
 
@@ -1456,7 +1456,7 @@ Java中变量、方法、类等要素命名时使用的字符序列，称为标�
 
   - Java中变量声明的格式：`数据类型 变量名 = 变量值`
 
-    <img src="assets/ch02_images/image-20220311000744867.jpg" alt="image-20220311000744867" style="zoom:67%;" />
+    <img src="assets/ch02_images/image-20220311000744867.webp" alt="image-20220311000744867" style="zoom:67%;" />
 
 - 变量的作用：用于在内存中保存数据。
 
@@ -1476,7 +1476,7 @@ Java中变量的数据类型分为两大类：
 
 - **引用数据类型**：包括`数组`、 `类`、`接口`、`枚举`、`注解`、`记录`。 
 
-  ![Java的数据类型](assets/ch02_images/Java的数据类型.jpg)
+  ![Java的数据类型](assets/ch02_images/Java的数据类型.webp)
 
 #### 3.4 变量的使用
 
@@ -1559,7 +1559,7 @@ String name = "迪丽热巴";
 
 内存结构如图：
 
-<img src="assets/ch02_images/image-20220514152216148.jpg" alt="image-20220514152216148" style="zoom: 80%;" />
+<img src="assets/ch02_images/image-20220514152216148.webp" alt="image-20220514152216148" style="zoom: 80%;" />
 
 
 
@@ -1567,11 +1567,11 @@ String name = "迪丽热巴";
 
 #### 4.1 整数类型：byte、short、int、long
 
-<img src="assets/ch02_images/image-20220520111756274.jpg" alt="image-20220520111756274" style="zoom: 50%;" />
+<img src="assets/ch02_images/image-20220520111756274.webp" alt="image-20220520111756274" style="zoom: 50%;" />
 
 - Java各整数类型有固定的表数范围和字段长度，不受具体操作系统的影响，以保证Java程序的可移植性。
 
-<img src="assets/ch02_images/image-20220311001553945.jpg" alt="image-20220311001553945" style="zoom:80%;" />
+<img src="assets/ch02_images/image-20220311001553945.webp" alt="image-20220311001553945" style="zoom:80%;" />
 
 - 定义long类型的变量，赋值时需要以"`l`"或"`L`"作为后缀。
 
@@ -1597,7 +1597,7 @@ String name = "迪丽热巴";
 
 - 与整数类型类似，Java 浮点类型也有固定的表数范围和字段长度，不受具体操作系统的影响。
 
-<img src="assets/ch02_images/image-20220311001749699.jpg" alt="image-20220311001749699" style="zoom:80%;" />
+<img src="assets/ch02_images/image-20220311001749699.webp" alt="image-20220311001749699" style="zoom:80%;" />
 
 - 浮点型常量有两种表示形式：
   - 十进制数形式。如：5.12       512.0f        .512   (必须有小数点）
@@ -1742,11 +1742,11 @@ if(isFlag){
 
 **规则：将取值范围小（或容量小）的类型自动提升为取值范围大（或容量大）的类型 。**
 
-<img src="assets/ch02_images/image-20220523162200891.jpg" alt="image-20220523162200891" style="zoom:67%;" />
+<img src="assets/ch02_images/image-20220523162200891.webp" alt="image-20220523162200891" style="zoom:67%;" />
 
 基本数据类型的转换规则如图所示：
 
-![image-20220311002543688](assets/ch02_images/image-20220311002543688.jpg)
+![image-20220311002543688](assets/ch02_images/image-20220311002543688.webp)
 
 （1）当把存储范围小的值（常量值、变量的值、表达式计算的结果值）赋值给了存储范围大的变量时
 
@@ -1801,7 +1801,7 @@ int i = 3.14; // 编译报错
 
 想要赋值成功，只有通过`强制类型转换`，将`double` 类型强制转换成`int` 类型才能赋值。
 
-<img src="assets/ch02_images/image-20220523162407722.jpg" alt="image-20220523162407722" style="zoom:67%;" />
+<img src="assets/ch02_images/image-20220523162407722.webp" alt="image-20220523162407722" style="zoom:67%;" />
 
 **规则：将取值范围大（或容量大）的类型强制转换成取值范围小（或容量小）的类型。**
 
@@ -2048,7 +2048,7 @@ class BinaryTest {
 
 二进制广泛应用于我们生活的方方面面。比如，广泛使用的摩尔斯电码（Morse Code），它由两种基本信号组成：短促的点信号“`·`”，读“`滴`”；保持一定时间的长信号“`—`”，读“`嗒`”。然后，组成了26个字母，从而拼写出相应的单词。
 
-<img src="assets/ch02_images/image-20220520105721126.jpg" alt="image-20220520105721126" style="zoom:67%;" />
+<img src="assets/ch02_images/image-20220520105721126.webp" alt="image-20220520105721126" style="zoom:67%;" />
 
 记忆技巧：
 
@@ -2056,7 +2056,7 @@ class BinaryTest {
 
 我们偶尔会看到的：SOS，即为：
 
-![image-20220520110206899](assets/ch02_images/image-20220520110206899.jpg)
+![image-20220520110206899](assets/ch02_images/image-20220520110206899.webp)
 
 
 #### 6.4 二进制转十进制
@@ -2079,7 +2079,7 @@ class BinaryTest {
 
 针对于byte数据举例来说：
 
-![image-20220523114701881](assets/ch02_images/image-20220523114701881.jpg)
+![image-20220523114701881](assets/ch02_images/image-20220523114701881.webp)
 
 
 - 例如：byte类型（1个字节，8位）
@@ -2117,25 +2117,25 @@ class BinaryTest {
 
 十进制转二进制：`除2取余的逆`
 
-<img src="assets/ch02_images/image-20220312000042595.jpg" alt="image-20220312000042595" style="zoom:67%;" />
+<img src="assets/ch02_images/image-20220312000042595.webp" alt="image-20220312000042595" style="zoom:67%;" />
 
 #### 6.6 二进制与八进制、十六进制间的转换
 
 **二进制转八进制**
 
-<img src="assets/ch02_images/image-20220312000233863.jpg" alt="image-20220312000233863" style="zoom:80%;" />
+<img src="assets/ch02_images/image-20220312000233863.webp" alt="image-20220312000233863" style="zoom:80%;" />
 
 **二进制转十六进制**
 
-<img src="assets/ch02_images/image-20220312000251113.jpg" alt="image-20220312000251113" style="zoom:80%;" />
+<img src="assets/ch02_images/image-20220312000251113.webp" alt="image-20220312000251113" style="zoom:80%;" />
 
 **八进制、十六进制转二进制**
 
-<img src="assets/ch02_images/image-20220312000341297.jpg" alt="image-20220312000341297" style="zoom: 67%;" />
+<img src="assets/ch02_images/image-20220312000341297.webp" alt="image-20220312000341297" style="zoom: 67%;" />
 
 #### 6.7 各进制间的转换
 
-<img src="assets/ch02_images/image-20220312000143438.jpg" alt="image-20220312000143438" style="zoom:80%;" />
+<img src="assets/ch02_images/image-20220312000143438.webp" alt="image-20220312000143438" style="zoom:80%;" />
 
 **练习：**
 
@@ -2178,7 +2178,7 @@ class BinaryTest {
 
 ##### 7.1.1 基本语法
 
-![image-20220312000848332](assets/ch02_images/image-20220312000848332.jpg)
+![image-20220312000848332](assets/ch02_images/image-20220312000848332.webp)
 
 举例1：加减乘除模
 
@@ -2579,7 +2579,7 @@ public class MinusTest {
 
 #### 7.3 比较(关系)运算符
 
-![image-20220312001742263](assets/ch02_images/image-20220312001742263.jpg)
+![image-20220312001742263](assets/ch02_images/image-20220312001742263.webp)
 
 - 比较运算符的结果都是boolean型，也就是要么是true，要么是false。
 
@@ -2631,7 +2631,7 @@ else
 
 ##### 7.4.1 基本语法
 
-<img src="assets/ch02_images/image-20220312001943403.jpg" alt="image-20220312001943403" style="zoom: 67%;" />
+<img src="assets/ch02_images/image-20220312001943403.webp" alt="image-20220312001943403" style="zoom: 67%;" />
 
 - 逻辑运算符，操作的都是boolean类型的变量或常量，而且运算得结果也是boolean类型的值。
 
@@ -2826,9 +2826,9 @@ class  Test  {
 
 ##### 7.5.1 基本语法
 
-<img src="assets/ch02_images/image-20220313174721111.jpg" alt="image-20220313174721111" style="zoom:75%;" />
+<img src="assets/ch02_images/image-20220313174721111.webp" alt="image-20220313174721111" style="zoom:75%;" />
 
-<img src="assets/ch02_images/image-20220312002506339.jpg" alt="image-20220312002506339" style="zoom:67%;" />
+<img src="assets/ch02_images/image-20220312002506339.webp" alt="image-20220312002506339" style="zoom:67%;" />
 
 - 位运算符的运算过程都是基于二进制的补码运算
 
@@ -2842,13 +2842,13 @@ class  Test  {
 3<<4  类似于  3*2的4次幂 => 3*16 => 48
 ```
 
-![image-20200225113651675](assets/ch02_images/image-20200225113651675.jpg)
+![image-20200225113651675](assets/ch02_images/image-20200225113651675.webp)
 
 ```java
 -3<<4  类似于  -3*2的4次幂 => -3*16 => -48
 ```
 
-![image-20200225114707524](assets/ch02_images/image-20200225114707524.jpg)
+![image-20200225114707524](assets/ch02_images/image-20200225114707524.webp)
 
 **（2）右移：>>**
 
@@ -2860,13 +2860,13 @@ class  Test  {
 69>>4  类似于  69/2的4次 = 69/16 =4
 ```
 
-![image-20200225115636844](assets/ch02_images/image-20200225115636844.jpg)
+![image-20200225115636844](assets/ch02_images/image-20200225115636844.webp)
 
 ```
 -69>>4  类似于  -69/2的4次 = -69/16 = -5
 ```
 
-![image-20200225120112188](assets/ch02_images/image-20200225120112188.jpg)
+![image-20200225120112188](assets/ch02_images/image-20200225120112188.webp)
 
 **（3）无符号右移：>>>**
 
@@ -2876,13 +2876,13 @@ class  Test  {
 69>>>4  类似于  69/2的4次 = 69/16 =4
 ```
 
-![image-20200225121104734](assets/ch02_images/image-20200225121104734.jpg)
+![image-20200225121104734](assets/ch02_images/image-20200225121104734.webp)
 
 ```
 -69>>>4   结果：268435451
 ```
 
-![image-20200225121244290](assets/ch02_images/image-20200225121244290.jpg)
+![image-20200225121244290](assets/ch02_images/image-20200225121244290.webp)
 
 **（4）按位与：&**
 
@@ -2902,13 +2902,13 @@ class  Test  {
 9 & 7 = 1
 ```
 
-![image-20200225122440953](assets/ch02_images/image-20200225122440953.jpg)
+![image-20200225122440953](assets/ch02_images/image-20200225122440953.webp)
 
 ```java
 -9 & 7 = 7
 ```
 
-![image-20200225122221616](assets/ch02_images/image-20200225122221616.jpg)
+![image-20200225122221616](assets/ch02_images/image-20200225122221616.webp)
 
 **（5）按位或：|**
 
@@ -2927,13 +2927,13 @@ class  Test  {
 9 | 7  //结果： 15
 ```
 
-![image-20200225122758851](assets/ch02_images/image-20200225122758851.jpg)
+![image-20200225122758851](assets/ch02_images/image-20200225122758851.webp)
 
 ```java
 -9 | 7 //结果： -9
 ```
 
-![image-20200225123409130](assets/ch02_images/image-20200225123409130.jpg)
+![image-20200225123409130](assets/ch02_images/image-20200225123409130.webp)
 
 **（6）按位异或：^**
 
@@ -2953,13 +2953,13 @@ class  Test  {
 9 ^ 7  //结果为14
 ```
 
-![image-20200225123445305](assets/ch02_images/image-20200225123445305.jpg)
+![image-20200225123445305](assets/ch02_images/image-20200225123445305.webp)
 
 ```java
 -9 ^ 7 //结果为-16
 ```
 
-![image-20200225133145727](assets/ch02_images/image-20200225133145727.jpg)
+![image-20200225133145727](assets/ch02_images/image-20200225133145727.webp)
 
 **（7）按位取反：~**
 
@@ -2973,23 +2973,23 @@ class  Test  {
 ~9  //结果：-10
 ```
 
-![image-20200225124112662](assets/ch02_images/image-20200225124112662.jpg)
+![image-20200225124112662](assets/ch02_images/image-20200225124112662.webp)
 
 ```java
 ~-9  //结果：8
 ```
 
-![image-20200225124156862](assets/ch02_images/image-20200225124156862.jpg)
+![image-20200225124156862](assets/ch02_images/image-20200225124156862.webp)
 
 ##### 7.5.2 举例
 
 **举例1：**
 
-<img src="assets/ch02_images/snipaste_20220312_002549.jpg" alt="snipaste_20220312_002549" style="zoom: 67%;" />
+<img src="assets/ch02_images/snipaste_20220312_002549.webp" alt="snipaste_20220312_002549" style="zoom: 67%;" />
 
 **举例2：体会 m = k ^ n = (m ^ n) ^ n**
 
-<img src="assets/ch02_images/image-20220312002736157.jpg" alt="image-20220312002736157" style="zoom:67%;" />
+<img src="assets/ch02_images/image-20220312002736157.webp" alt="image-20220312002736157" style="zoom:67%;" />
 
 ##### 7.5.3 案例
 
@@ -3045,7 +3045,7 @@ public class BitExer {
 
 - 说明：条件表达式是boolean类型的结果，根据boolean的值选择表达式1或表达式2
 
-  <img src="assets/ch02_images/image-20220312002841945.jpg" alt="image-20220312002841945" style="zoom:67%;" />
+  <img src="assets/ch02_images/image-20220312002841945.webp" alt="image-20220312002841945" style="zoom:67%;" />
 
 - 如果运算后的结果赋给新的变量，要求表达式1和表达式2为同种或兼容的类型
 
@@ -3207,7 +3207,7 @@ System.out.println(max);
 - 基本的ASCII字符集，使用7位（bits）表示一个字符（最前面的1位统一规定为0），共`128个`字符。比如：空格“SPACE”是32（二进制00100000），大写的字母A是65（二进制01000001）。
 - 缺点：不能表示所有字符。
 
-![image-20220513095907601](assets/ch02_images/image-20220513095907601.jpg)
+![image-20220513095907601](assets/ch02_images/image-20220513095907601.webp)
 
 #### 8.3 ISO-8859-1字符集
 
@@ -3259,11 +3259,11 @@ Unicode符号范围  | UTF-8编码方式
 0001 0000-0010 FFFF | 11110xxx 10xxxxxx 10xxxxxx 10xxxxxx
 ```
 
-![image-20220525164636164](assets/ch02_images/image-20220525164636164.jpg)
+![image-20220525164636164](assets/ch02_images/image-20220525164636164.webp)
 
 #### 8.7 小结
 
-![字符集](assets/ch02_images/字符集.jpg)
+![字符集](assets/ch02_images/字符集.webp)
 
 > 注意：在中文操作系统上，ANSI（美国国家标准学会、AMERICAN NATIONAL STANDARDS INSTITUTE: ANSI）编码即为GBK；在英文操作系统上，ANSI编码即为ISO-8859-1。
 
@@ -3286,7 +3286,7 @@ Unicode符号范围  | UTF-8编码方式
 
 ### 本章专题与脉络
 
-<img src="assets/ch03_images/第1阶段：Java基本语法-第03章.jpg" alt="第1阶段：Java基本语法-第03章" style="zoom:45%;" />
+<img src="assets/ch03_images/第1阶段：Java基本语法-第03章.webp" alt="第1阶段：Java基本语法-第03章" style="zoom:45%;" />
 
 ***
 
@@ -3310,7 +3310,7 @@ Unicode符号范围  | UTF-8编码方式
 
 顺序结构就是程序`从上到下逐行`地执行。表达式语句都是顺序执行的。并且上一行对某个变量的修改对下一行会产生影响。
 
-![image-20211218093256771](assets/ch03_images/image-20211218093256771.jpg )
+![image-20211218093256771](assets/ch03_images/image-20211218093256771.webp )
 
 ```java
 public class StatementTest{
@@ -3371,7 +3371,7 @@ if(条件表达式)｛
 2. 如果是true就执行语句块
 3. 如果是false就不执行语句块
 
-![image-20220514160139926](assets/ch03_images/image-20220514160139926.jpg)
+![image-20220514160139926](assets/ch03_images/image-20220514160139926.webp)
 
 **结构2：双分支条件判断：if...else**
 
@@ -3391,7 +3391,7 @@ if(条件表达式) {
 2. 如果是true就执行语句块1
 3. 如果是false就执行语句块2
 
-![image-20220514160243421](assets/ch03_images/image-20220514160243421.jpg)
+![image-20220514160243421](assets/ch03_images/image-20220514160243421.webp)
 
 **结构3：多分支条件判断：if...else if...else**
 
@@ -3425,7 +3425,7 @@ if (条件表达式1) {
 
    n.  如果没有任何关系表达式为true，就执行语句块n+1，然后结束当前多分支。
 
-![image-20220514160538651](assets/ch03_images/image-20220514160538651.jpg)
+![image-20220514160538651](assets/ch03_images/image-20220514160538651.webp)
 
 ##### 2.1.2 应用举例
 
@@ -3507,9 +3507,9 @@ public class IfElseTest3 {
 }
 ```
 
-![image-20221027185234087](assets/ch03_images/image-20221027185234087.jpg)
+![image-20221027185234087](assets/ch03_images/image-20221027185234087.webp)
 
-![image-20221027185500389](assets/ch03_images/image-20221027185500389.jpg)
+![image-20221027185500389](assets/ch03_images/image-20221027185500389.webp)
 
 > 当条件表达式之间是“`互斥`”关系时（即彼此没有交集），条件判断语句及执行语句间顺序无所谓。
 >
@@ -3770,7 +3770,7 @@ switch(表达式){
 
 **执行流程图：**
 
-![image-20220514101841710](assets/ch03_images/image-20220514101841710.jpg)
+![image-20220514101841710](assets/ch03_images/image-20220514101841710.webp)
 
 **执行过程：**
 
@@ -4418,7 +4418,7 @@ public class SwitchCaseExer3 {
 
 ```
 
-![image-20220314005350344](assets/ch03_images/image-20220314005350344.jpg)
+![image-20220314005350344](assets/ch03_images/image-20220314005350344.webp)
 
 ```java
 /**
@@ -4487,7 +4487,7 @@ public class SwitchCaseExer4 {
      如何获取[a,b]范围内的随机整数呢？(int)(Math.random() * (b - a + 1)) + a
 ```
 
-![1659112038716](assets/ch03_images/1659112038716.jpg)
+![1659112038716](assets/ch03_images/1659112038716.webp)
 
 ```java
 import java.util.Scanner;
@@ -4592,7 +4592,7 @@ for (①初始化部分; ②循环条件部分; ④迭代部分)｛
 
 **图示：**
 
-<img src="assets/ch03_images/image-20220315013023236.jpg" alt="image-20220315013023236" style="zoom:80%;" />
+<img src="assets/ch03_images/image-20220315013023236.webp" alt="image-20220315013023236" style="zoom:80%;" />
 
 **说明：**
 
@@ -4808,7 +4808,7 @@ public class ForExer2 {
 
 编写程序从1循环到150，并在每行打印一个值，另外在每个3的倍数行上打印出“foo”,在每个5的倍数行上打印“biz”,在每个7的倍数行上打印输出“baz”。
 
-<img src="assets/ch03_images/image-20220315013722962.jpg" alt="image-20220315013722962" style="zoom:67%;" />
+<img src="assets/ch03_images/image-20220315013722962.webp" alt="image-20220315013722962" style="zoom:67%;" />
 
 ```java
 public class ForExer3 {
@@ -4851,7 +4851,7 @@ while(②循环条件部分)｛
 
 **图示：**
 
-<img src="assets/ch03_images/image-20220315013023236.jpg" alt="image-20220315013023236" style="zoom:80%;" />
+<img src="assets/ch03_images/image-20220315013023236.webp" alt="image-20220315013023236" style="zoom:80%;" />
 
 **说明：**
 
@@ -5041,7 +5041,7 @@ do{
 
 **图示：**
 
-<img src="assets/ch03_images/image-20220512165558698.jpg" alt="image-20220512165558698" style="zoom:80%;" />
+<img src="assets/ch03_images/image-20220512165558698.webp" alt="image-20220512165558698" style="zoom:80%;" />
 
 **说明：**
 
@@ -5250,7 +5250,7 @@ public class DoWhileExer {
 
 #### 3.5 "无限"循环
 
-![类似：死循环](assets/ch03_images/类似：死循环.jpg)
+![类似：死循环](assets/ch03_images/类似：死循环.webp)
 
 ##### 3.5.1 基本语法
 
@@ -5510,7 +5510,7 @@ public class ForForTest4 {
 
 **案例5：九九乘法表**
 
-![image-20221113193013204](assets/ch03_images/image-20221113193013204.jpg)
+![image-20221113193013204](assets/ch03_images/image-20221113193013204.webp)
 
 ```java
 public class ForForTest5 {
@@ -6014,15 +6014,15 @@ class MathRandomTest {
 
 ### 本章专题与脉络
 
-<img src="assets/ch04_images/第1阶段：Java基本语法-第04章.jpg" alt="第1阶段：Java基本语法-第04章" style="zoom:50%;" />
+<img src="assets/ch04_images/第1阶段：Java基本语法-第04章.webp" alt="第1阶段：Java基本语法-第04章" style="zoom:50%;" />
 
 ***
 
 **【Why IDEA ?】**
 
-![image-20221018105217845](assets/ch04_images/image-20221018105217845.jpg)
+![image-20221018105217845](assets/ch04_images/image-20221018105217845.webp)
 
-<img src="assets/ch04_images/2022-10-18_11-00-29.jpg" alt="2022-10-18_11-00-29" style="zoom:80%;" />
+<img src="assets/ch04_images/2022-10-18_11-00-29.webp" alt="2022-10-18_11-00-29" style="zoom:80%;" />
 
 > 【注】JetBrains官方说明：
 >
@@ -6040,7 +6040,7 @@ class MathRandomTest {
 
 IDEA，是 JetBrains (https://www.jetbrains.com/)公司的产品，该公司成立于2000年，总部位于捷克的布拉格，致力于为开发者打造最高效智能的开发工具。
 
-<img src="assets/ch04_images/1576217376761.jpg" alt="1576217376761" style="zoom:80%;" />
+<img src="assets/ch04_images/1576217376761.webp" alt="1576217376761" style="zoom:80%;" />
 
 公司旗下还有其它产品，比如：
 
@@ -6056,7 +6056,7 @@ IDEA，是 JetBrains (https://www.jetbrains.com/)公司的产品，该公司成�
 
 用于开发 Android的Android Studio，也是Google 基于 IDEA 社区版进行迭代的。
 
-![1593264471351](assets/ch04_images/1593264471351.jpg)
+![1593264471351](assets/ch04_images/1593264471351.webp)
 
 #### 1.2 IntelliJ IDEA  介绍
 
@@ -6067,7 +6067,7 @@ IntelliJ IDEA 在 2015 年的官网上这样介绍自己：
 > Excel at enterprise, mobile and web development with Java, Scala and Groovy,with all the latest modern technologies and frameworks available out of thebox.
 >
 
-![image-20221018104714861](assets/ch04_images/image-20221018104714861.jpg)
+![image-20221018104714861](assets/ch04_images/image-20221018104714861.webp)
 
 #### 1.3 IDEA的主要优势：(vs Eclipse)
 
@@ -6075,7 +6075,7 @@ IntelliJ IDEA 在 2015 年的官网上这样介绍自己：
 
 ① 强大的整合能力。比如：Git、Maven、Spring等
 
-<img src="assets/ch04_images/内置的工具和支持的框架.jpg" alt="1576218068631" style="zoom: 67%;" />
+<img src="assets/ch04_images/内置的工具和支持的框架.webp" alt="1576218068631" style="zoom: 67%;" />
 
 ② 开箱即用的体验（集成版本控制系统、多语言支持的框架随时可用，无需额外安装插件）
 
@@ -6083,13 +6083,13 @@ IntelliJ IDEA 在 2015 年的官网上这样介绍自己：
 
 ① 高度智能（快速的智能代码补全、实时代码分析、可靠的重构工具）
 
-![image-20221018104821144](assets/ch04_images/image-20221018104821144.jpg)
+![image-20221018104821144](assets/ch04_images/image-20221018104821144.webp)
 
 ② 提示功能的快速、便捷、范围广
 
-![img](assets/ch04_images/clip_imrage002.jpg)
+![img](assets/ch04_images/clip_imrage002.webp)
 
-![image-20221018104942633](assets/ch04_images/image-20221018104942633.jpg)
+![image-20221018104942633](assets/ch04_images/image-20221018104942633.webp)
 
 ③ 好用的快捷键和代码模板
 
@@ -6106,7 +6106,7 @@ IntelliJ IDEA 在 2015 年的官网上这样介绍自己：
 - IDEA的大版本每年迭代一次，大版本下的小版本（如：2022.x）迭代时间不固定，一般每年3个小版本。
 
 
-![image-20220606191620253](assets/ch04_images/image-20220606191620253.jpg)
+![image-20220606191620253](assets/ch04_images/image-20220606191620253.webp)
 
 两个不同版本的详细对比，可以参照官网：
 https://www.jetbrains.com/idea/features/editions_comparison_matrix.html
@@ -6120,29 +6120,29 @@ https://www.jetbrains.com/help/idea/meet-intellij-idea.html
 
 这里以卸载2022.1.2版本为例说明。在【控制面板】找到【卸载程序】
 
-<img src="assets/ch04_images/image-20221019120032582.jpg" alt="image-20221019120032582" style="zoom: 80%;" />
+<img src="assets/ch04_images/image-20221019120032582.webp" alt="image-20221019120032582" style="zoom: 80%;" />
 
 右键点击或左键双击IntelliJ IDEA 2022.1.2进行卸载：
 
-<img src="assets/ch04_images/image-20221019121258294.jpg" alt="image-20221019121258294" style="zoom:80%;" />
+<img src="assets/ch04_images/image-20221019121258294.webp" alt="image-20221019121258294" style="zoom:80%;" />
 
 如果需要保留下述数据，就不要打√。如果想彻底删除IDEA所有数据，那就打上√。
 
-<img src="assets/ch04_images/image-20221019122135368.jpg" alt="image-20221019122135368" style="zoom:80%;" />
+<img src="assets/ch04_images/image-20221019122135368.webp" alt="image-20221019122135368" style="zoom:80%;" />
 
-<img src="assets/ch04_images/image-20221019122323575.jpg" alt="image-20221019122323575" style="zoom:80%;" />
+<img src="assets/ch04_images/image-20221019122323575.webp" alt="image-20221019122323575" style="zoom:80%;" />
 
-<img src="assets/ch04_images/image-20221019122349195.jpg" alt="image-20221019122349195" style="zoom:80%;" />
+<img src="assets/ch04_images/image-20221019122349195.webp" alt="image-20221019122349195" style="zoom:80%;" />
 
 软件卸载完以后，还需要删除其它几个位置的残留：
 
-![image-20221019161147552](assets/ch04_images/image-20221019161147552.jpg)
+![image-20221019161147552](assets/ch04_images/image-20221019161147552.webp)
 
-![image-20221019161226843](assets/ch04_images/image-20221019161226843.jpg)
+![image-20221019161226843](assets/ch04_images/image-20221019161226843.webp)
 
 #### 2.2 安装前的准备
 
-![image-20221018110944516](assets/ch04_images/image-20221018110944516.jpg)
+![image-20221018110944516](assets/ch04_images/image-20221018110944516.webp)
 
 * 64 位 Microsoft Windows 11、10、8
 * 最低 2 GB 可用 RAM，推荐 8 GB 系统总 RAM
@@ -6153,15 +6153,15 @@ https://www.jetbrains.com/help/idea/meet-intellij-idea.html
 
 #### 2.3 安装过程
 
-1、下载完安装包，双击直接安装![image-20220606191800719](assets/ch04_images/image-20220606191800719.jpg)
+1、下载完安装包，双击直接安装![image-20220606191800719](assets/ch04_images/image-20220606191800719.webp)
 
 2、欢迎安装
 
-![image-20220606191825728](assets/ch04_images/image-20220606191825728.jpg)
+![image-20220606191825728](assets/ch04_images/image-20220606191825728.webp)
 
 3、是否删除电脑上低版本的IDEA（如果有，可以选择忽略）
 
-![image-20220606191838180](assets/ch04_images/image-20220606191838180.jpg)
+![image-20220606191838180](assets/ch04_images/image-20220606191838180.webp)
 
 - 如果电脑上有低版本的IDEA，可以选择删除或保留。
 
@@ -6169,51 +6169,51 @@ https://www.jetbrains.com/help/idea/meet-intellij-idea.html
 
 4、选择安装目录
 
-![image-20220606191942308](assets/ch04_images/image-20220606191942308.jpg)
+![image-20220606191942308](assets/ch04_images/image-20220606191942308.webp)
 
 选择安装目录，目录中要避免中文和空格。
 
-![image-20220606192004081](assets/ch04_images/image-20220606192004081.jpg)
+![image-20220606192004081](assets/ch04_images/image-20220606192004081.webp)
 
 5、创建桌面快捷图标等
 
-![image-20220606192053432](assets/ch04_images/image-20220606192053432.jpg)
+![image-20220606192053432](assets/ch04_images/image-20220606192053432.webp)
 
 确认是否与.java、.groovy、.kt 格式文件进行关联。这里建议不关联。
 
 6、在【开始】菜单新建一个文件夹（这里需要确认文件夹的名称），来管理IDEA的相关内容。
 
-![image-20220606192126130](assets/ch04_images/image-20220606192126130.jpg)
+![image-20220606192126130](assets/ch04_images/image-20220606192126130.webp)
 
-![image-20220606192135684](assets/ch04_images/image-20220606192135684.jpg)
+![image-20220606192135684](assets/ch04_images/image-20220606192135684.webp)
 
 7、完成安装
 
-![image-20220606192148284](assets/ch04_images/image-20220606192148284.jpg)
+![image-20220606192148284](assets/ch04_images/image-20220606192148284.webp)
 
-重启以后，单击登录：![image-20220615164056349](assets/ch04_images/image-20220615164056349.jpg)
+重启以后，单击登录：![image-20220615164056349](assets/ch04_images/image-20220615164056349.webp)
 
 #### 2.4 注册
 
 首先，需要通过用户协议：
 
-<img src="assets/ch04_images/image-20221019170223226.jpg" alt="image-20221019170223226" style="zoom:80%;" />
+<img src="assets/ch04_images/image-20221019170223226.webp" alt="image-20221019170223226" style="zoom:80%;" />
 
 是否同意发送用户数据（特性、使用的插件、硬件与软件配置等），建议选择：不发送。
 
-<img src="assets/ch04_images/image-20221019170301256.jpg" alt="image-20221019170301256" style="zoom:80%;" />
+<img src="assets/ch04_images/image-20221019170301256.webp" alt="image-20221019170301256" style="zoom:80%;" />
 
 接着，会提示我们进行注册。
 
 - 选择1：试用30天。在IDEA2022.1.2版本中，需要先登录，才能开启试用。
 
-  <img src="assets/ch04_images/image-20221019170638164.jpg" alt="image-20221019170638164" style="zoom:80%;" />
+  <img src="assets/ch04_images/image-20221019170638164.webp" alt="image-20221019170638164" style="zoom:80%;" />
 
 - 选择2：付费购买旗舰版
 
-  <img src="assets/ch04_images/image-20221019170740875.jpg" alt="image-20221019170740875" style="zoom:80%;" />
+  <img src="assets/ch04_images/image-20221019170740875.webp" alt="image-20221019170740875" style="zoom:80%;" />
 
-  <img src="assets/ch04_images/image-20221019170820975.jpg" alt="image-20221019170820975" style="zoom:50%;" />
+  <img src="assets/ch04_images/image-20221019170820975.webp" alt="image-20221019170820975" style="zoom:50%;" />
 
 - 选择3：（推荐）
   - 大家参照《`.\03-资料\01-IDEA 2022.1 注册文档\IntelliJ IDEA2022.1注册文档.docx`》操作即可。
@@ -6227,15 +6227,15 @@ https://www.jetbrains.com/help/idea/meet-intellij-idea.html
 
 打开`C:\Users\songhk\AppData\Roaming\JetBrains\IntelliJIdea2022.1\idea64.exe.vmoptions` 这个文件。
 
-![image-20220606195927066](assets/ch04_images/image-20220606195927066.jpg)
+![image-20220606195927066](assets/ch04_images/image-20220606195927066.webp)
 
 内容如下所示：
 
-![image-20220606195938517](assets/ch04_images/image-20220606195938517.jpg)
+![image-20220606195938517](assets/ch04_images/image-20220606195938517.webp)
 
 删除红框的数据以后，再登录即可正常进入。
 
-![image-20220606200011927](assets/ch04_images/image-20220606200011927.jpg)
+![image-20220606200011927](assets/ch04_images/image-20220606200011927.webp)
 
 原因：之前使用过的比如2021.2.2版本，pojie了。新版IEDA太智能了，把现有的启运参数也都复制过去了。又因为最新的IDEA，不兼容pojie程序-javaagent:D:\develop_tools\IDEA\IntelliJ IDEA 2021.2.2\bin\jetbrains-agent.jar了，所以报错了，所以JVM结束了，所以没有启动画面，凉凉了。
 
@@ -6245,17 +6245,17 @@ https://www.jetbrains.com/help/idea/meet-intellij-idea.html
 
 选择"New Project"：
 
-<img src="assets/ch04_images/image-20221019174051967.jpg" alt="image-20221019174051967" style="zoom:80%;" />
+<img src="assets/ch04_images/image-20221019174051967.webp" alt="image-20221019174051967" style="zoom:80%;" />
 
 指名工程名、使用的JDK版本等信息。如下所示：
 
-![image-20221019174355370](assets/ch04_images/image-20221019174355370.jpg)
+![image-20221019174355370](assets/ch04_images/image-20221019174355370.webp)
 
 接着创建Java类：
 
-![image-20221019174505876](assets/ch04_images/image-20221019174505876.jpg)
+![image-20221019174505876](assets/ch04_images/image-20221019174505876.webp)
 
-![image-20221019174551606](assets/ch04_images/image-20221019174551606.jpg)
+![image-20221019174551606](assets/ch04_images/image-20221019174551606.webp)
 
 #### 3.2 编写代码
 
@@ -6269,9 +6269,9 @@ public class HelloWorld {
 
 #### 3.3 运行
 
-![image-20221019174716442](assets/ch04_images/image-20221019174716442.jpg)
+![image-20221019174716442](assets/ch04_images/image-20221019174716442.webp)
 
-![image-20221019174801370](assets/ch04_images/image-20221019174801370.jpg)
+![image-20221019174801370](assets/ch04_images/image-20221019174801370.webp)
 
 ### 4. JDK相关设置
 
@@ -6279,9 +6279,9 @@ public class HelloWorld {
 
 `File-->Project Structure...-->Platform Settings -->SDKs`
 
-![image-20221019174847921](assets/ch04_images/image-20221019174847921.jpg)
+![image-20221019174847921](assets/ch04_images/image-20221019174847921.webp)
 
-![image-20221019175030852](assets/ch04_images/image-20221019175030852.jpg)
+![image-20221019175030852](assets/ch04_images/image-20221019175030852.webp)
 
 - 注1：SDKs全称是Software Development Kit ，这里一定是选择JDK的安装根目录，不是JRE的目录。
 - 注2：这里还可以从本地添加多个JDK。使用“+”即可实现。
@@ -6290,7 +6290,7 @@ public class HelloWorld {
 
 `File-->Project Structure...-->Project Settings -->Project`
 
-![image-20221019175358200](assets/ch04_images/image-20221019175358200.jpg)
+![image-20221019175358200](assets/ch04_images/image-20221019175358200.webp)
 
 ### 5. 详细设置
 
@@ -6298,31 +6298,31 @@ public class HelloWorld {
 
 1、显示工具栏
 
-![image-20221019175536721](assets/ch04_images/image-20221019175536721.jpg)
+![image-20221019175536721](assets/ch04_images/image-20221019175536721.webp)
 
 2、选择详细配置菜单或按钮
 
-![image-20221019175620422](assets/ch04_images/image-20221019175620422.jpg)
+![image-20221019175620422](assets/ch04_images/image-20221019175620422.webp)
 
-![image-20221019175953767](assets/ch04_images/image-20221019175953767.jpg)
+![image-20221019175953767](assets/ch04_images/image-20221019175953767.webp)
 
 #### 5.2 系统设置
 
 ##### 1、默认启动项目配置
 
-![image-20221019180050832](assets/ch04_images/image-20221019180050832.jpg)
+![image-20221019180050832](assets/ch04_images/image-20221019180050832.webp)
 
 启动IDEA时，默认自动打开上次开发的项目？还是自己选择？
 
 如果去掉Reopen projects on startup前面的对勾，每次启动IDEA就会出现如下界面：
 
-![image-20221019180304644](assets/ch04_images/image-20221019180304644.jpg)
+![image-20221019180304644](assets/ch04_images/image-20221019180304644.webp)
 
 ##### 2、取消自动更新
 
 Settings-->Appearance & Behavior->System Settings -> Updates
 
-![image-20221019180428323](assets/ch04_images/image-20221019180428323.jpg)
+![image-20221019180428323](assets/ch04_images/image-20221019180428323.webp)
 
 默认都打√了，建议检查IDE更新的√去掉，检查插件更新的√选上。
 
@@ -6330,40 +6330,40 @@ Settings-->Appearance & Behavior->System Settings -> Updates
 
 ##### 1、选择主题
 
-![image-20221019180637822](assets/ch04_images/image-20221019180637822.jpg)
+![image-20221019180637822](assets/ch04_images/image-20221019180637822.webp)
 
 ##### 2、设置菜单和窗口字体和大小
 
-![1655136527800](assets/ch04_images/1655136527800.jpg)
+![1655136527800](assets/ch04_images/1655136527800.webp)
 
 ##### 3、设置IDEA背景图
 
-![image-20221018204241748](assets/ch04_images/image-20221018204241748.jpg)
+![image-20221018204241748](assets/ch04_images/image-20221018204241748.webp)
 
 选择一张合适的图片作为背景，即可。
 
-![image-20221018204305159](assets/ch04_images/image-20221018204305159.jpg)
+![image-20221018204305159](assets/ch04_images/image-20221018204305159.webp)
 
 #### 5.4 设置编辑器主题样式
 
 ##### 1、编辑器主题
 
-![1655136655026](assets/ch04_images/1655136655026.jpg)
+![1655136655026](assets/ch04_images/1655136655026.webp)
 
 ##### 2、字体大小
 
-![1655136907073](assets/ch04_images/1655136907073.jpg)
+![1655136907073](assets/ch04_images/1655136907073.webp)
 
 更详细的字体与颜色如下：
 
-![image-20221019182625234](assets/ch04_images/image-20221019182625234.jpg)
+![image-20221019182625234](assets/ch04_images/image-20221019182625234.webp)
 
 > 温馨提示：如果选择某个font字体，中文乱码，可以在fallback font（备选字体）中选择一个支持中文的字体。
 >
 
 ##### 3、注释的字体颜色
 
-![image-20220616121435182](assets/ch04_images/image-20220616121435182.jpg)
+![image-20220616121435182](assets/ch04_images/image-20220616121435182.webp)
 
 - Block comment：修改多行注释的字体颜色
 - Doc Comment –> Text：修改文档注释的字体颜色
@@ -6371,11 +6371,11 @@ Settings-->Appearance & Behavior->System Settings -> Updates
 
 #### 5.5 显示行号与方法分隔符
 
-![1655137441471](assets/ch04_images/1655137441471.jpg)
+![1655137441471](assets/ch04_images/1655137441471.webp)
 
 #### 5.6 代码智能提示功能
 
-![1655137649491](assets/ch04_images/1655137649491.jpg)
+![1655137649491](assets/ch04_images/1655137649491.webp)
 
 IntelliJ IDEA 的代码提示和补充功能有一个特性：`区分大小写`。 如果想不区分大小写的话，就把这个对勾去掉。`建议去掉勾选`。
 
@@ -6383,27 +6383,27 @@ IntelliJ IDEA 的代码提示和补充功能有一个特性：`区分大小写`�
 
 * 默认需要自己手动导包，Alt+Enter快捷键
 
-![1655138308426](assets/ch04_images/1655138308426.jpg)
+![1655138308426](assets/ch04_images/1655138308426.webp)
 
 * 自动导包设置
   * 动态导入明确的包：Add unambiguous imports on the fly，该设置具有全局性；
   * 优化动态导入的包：Optimize imports on the fly，该设置只对当前项目有效；
 
-![1655138465774](assets/ch04_images/1655138465774.jpg)
+![1655138465774](assets/ch04_images/1655138465774.webp)
 
 #### 5.8 设置项目文件编码（一定要改）
 
-![image-20220615190832482](assets/ch04_images/image-20220615190832482.jpg)
+![image-20220615190832482](assets/ch04_images/image-20220615190832482.webp)
 
 说明： Transparent native-to-ascii conversion主要用于转换ascii，显式原生内容。一般都要勾选。
 
 #### 5.9 设置控制台的字符编码
 
-![image-20221019003153265](assets/ch04_images/image-20221019003153265.jpg)
+![image-20221019003153265](assets/ch04_images/image-20221019003153265.webp)
 
 #### 5.10 修改类头的文档注释信息
 
-![image-20221018114632127](assets/ch04_images/image-20221018114632127.jpg)
+![image-20221018114632127](assets/ch04_images/image-20221018114632127.webp)
 
 比如：
 
@@ -6443,11 +6443,11 @@ ${MONTH_NAME_FULL} - full name of a month. Example: January, February, etc.
 
 `Settings-->Build,Execution,Deployment-->Compiler`
 
-<img src="assets/ch04_images/1655109415450.jpg" alt="1655109415450" style="zoom: 67%;" />
+<img src="assets/ch04_images/1655109415450.webp" alt="1655109415450" style="zoom: 67%;" />
 
 #### 5.12 设置为省电模式 (可忽略)
 
-![image-20220616121851207](assets/ch04_images/image-20220616121851207.jpg)
+![image-20220616121851207](assets/ch04_images/image-20220616121851207.webp)
 
 IntelliJ IDEA 有一种叫做`省电模式`的状态，开启这种模式之后 IntelliJ IDEA 会`关掉代码检查`和`代码提示`等功能。所以一般也可认为这是一种`阅读模式`，如果你在开发过程中遇到突然代码文件不能进行检查和提示，可以来看看这里是否有开启该功能。
 
@@ -6455,23 +6455,23 @@ IntelliJ IDEA 有一种叫做`省电模式`的状态，开启这种模式之后 
 
 因为我们按shift切换中英文输入方式，经常被按到，总是弹出搜索框，太麻烦了。可以取消它。
 
-<img src="assets/ch04_images/1659191272699.jpg" alt="1659191272699" style="zoom:80%;" />
+<img src="assets/ch04_images/1659191272699.webp" alt="1659191272699" style="zoom:80%;" />
 
 - 方式1：适用于IDEA 2022.1.2版本
 
 在2022.1版本中，采用如下方式消双击shift出现搜索框：搜索double即可，勾选Disable double modifier key shortcuts，禁用这个选项。
 
-![1659190132458](assets/ch04_images/1659190132458.jpg)
+![1659190132458](assets/ch04_images/1659190132458.webp)
 
 - 方式2：适用于IDEA 2022.1.2之前版本
 
 双击shift 或 ctrl + shift + a，打开如下搜索窗口：
 
-![1577243967254](assets/ch04_images/1577243967254.jpg)
+![1577243967254](assets/ch04_images/1577243967254.webp)
 
 选择registry...，找到"ide.suppress.double.click.handler"，把复选框打上勾就可以取消双击shift出现搜索框了。
 
-![1577244045320](assets/ch04_images/1577244045320.jpg)
+![1577244045320](assets/ch04_images/1577244045320.webp)
 
 ### 6. 工程与模块管理
 
@@ -6499,7 +6499,7 @@ project(工程) - module(模块) - package(包) - class(类)
 
 在 IntelliJ IDEA 中，提出了Project和Module这两个概念。
 
-<img src="assets/ch04_images/image-20220523014358169.jpg" alt="image-20220523014358169" style="zoom:80%;" />
+<img src="assets/ch04_images/image-20220523014358169.webp" alt="image-20220523014358169" style="zoom:80%;" />
 
 在 IntelliJ IDEA 中Project是`最顶级的结构单元`，然后就是Module。目前，主流的大型项目结构基本都是多Module的结构，这类项目一般是`按功能划分`的，比如：user-core-module、user-facade-module和user-hessian-module等等，模块之间彼此可以`相互依赖`，有着不可分割的业务关系。因此，对于一个Project来说：
 
@@ -6527,55 +6527,55 @@ project(工程) - module(模块) - package(包) - class(类)
 
 （1）选择创建模块
 
-![1655167625885](assets/ch04_images/1655167625885.jpg)
+![1655167625885](assets/ch04_images/1655167625885.webp)
 
 （2）选择模块类型：这里选择创建Java模块，给模块命名，确定存放位置
 
-![1659191966074](assets/ch04_images/1659191966074.jpg)
+![1659191966074](assets/ch04_images/1659191966074.webp)
 
 （4）模块声明在工程下面
 
-![1659192028623](assets/ch04_images/1659192028623.jpg)
+![1659192028623](assets/ch04_images/1659192028623.webp)
 
 #### 6.5 删除模块
 
 （1）移除模块
 
-![1659192150052](assets/ch04_images/1659192150052.jpg)
+![1659192150052](assets/ch04_images/1659192150052.webp)
 
-![1659192180062](assets/ch04_images/1659192180062.jpg)
+![1659192180062](assets/ch04_images/1659192180062.webp)
 
 （2）彻底删除模块
 
-![1659192241224](assets/ch04_images/1659192241224.jpg)
+![1659192241224](assets/ch04_images/1659192241224.webp)
 
 #### 6.6 导入老师的模块
 
 （1）将老师的模块`teacher_chapter04`整个的复制到自己IDEA项目的路径下
 
-![1659192514219](assets/ch04_images/1659192514219.jpg)
+![1659192514219](assets/ch04_images/1659192514219.webp)
 
 接着打开自己IDEA的项目，会在项目目录下看到拷贝过来的module，只不过不是以模块的方式呈现。
 
-![1659192692658](assets/ch04_images/1659192692658.jpg)
+![1659192692658](assets/ch04_images/1659192692658.webp)
 
 （2）查看Project Structure，选择import module
 
-![image-20220615213827271](assets/ch04_images/image-20220615213827271.jpg)
+![image-20220615213827271](assets/ch04_images/image-20220615213827271.webp)
 
-![image-20220615214746952](assets/ch04_images/image-20220615214746952.jpg)
+![image-20220615214746952](assets/ch04_images/image-20220615214746952.webp)
 
 （3）选择要导入的module：
 
-![1659192850055](assets/ch04_images/1659192850055.jpg)
+![1659192850055](assets/ch04_images/1659192850055.webp)
 
-![image-20220615214916374](assets/ch04_images/image-20220615214916374.jpg)
+![image-20220615214916374](assets/ch04_images/image-20220615214916374.webp)
 
 （4）接着可以一路Next下去，最后选择Overwrite
 
-![1659192928140](assets/ch04_images/1659192928140.jpg)
+![1659192928140](assets/ch04_images/1659192928140.webp)
 
-![1659192995900](assets/ch04_images/1659192995900.jpg)
+![1659192995900](assets/ch04_images/1659192995900.webp)
 
 最后点击OK即可了。
 
@@ -6585,27 +6585,27 @@ project(工程) - module(模块) - package(包) - class(类)
 
 有些同学想要把上课练习代码和作业代码分开两个IDEA项目工程。
 
-![image-20211229111753237](assets/ch04_images/image-20211229111753237.jpg)
+![image-20211229111753237](assets/ch04_images/image-20211229111753237.webp)
 
-![image-20211229111906342](assets/ch04_images/image-20211229111906342.jpg)
+![image-20211229111906342](assets/ch04_images/image-20211229111906342.webp)
 
 ##### 2、新建一个IDEA项目
 
 注意：第一次需要新建，之后直接打开项目工程即可
 
-![1655170522054](assets/ch04_images/1655170522054.jpg)
+![1655170522054](assets/ch04_images/1655170522054.webp)
 
-![1655170341953](assets/ch04_images/1655170341953.jpg)
+![1655170341953](assets/ch04_images/1655170341953.webp)
 
-![1655170765902](assets/ch04_images/1655170765902.jpg)
+![1655170765902](assets/ch04_images/1655170765902.webp)
 
 ##### 3、打开两个IDEA项目
 
-![image-20211229112314671](assets/ch04_images/image-20211229112314671.jpg)
+![image-20211229112314671](assets/ch04_images/image-20211229112314671.webp)
 
-![image-20211229112343470](assets/ch04_images/image-20211229112343470.jpg)
+![image-20211229112343470](assets/ch04_images/image-20211229112343470.webp)
 
-![1655173351720](assets/ch04_images/1655173351720.jpg)
+![1655173351720](assets/ch04_images/1655173351720.webp)
 
 #### 6.8 导入前几章非IDEA工程代码
 
@@ -6613,13 +6613,13 @@ project(工程) - module(模块) - package(包) - class(类)
 
 将相应章节的源文件粘贴到module的src下。
 
-![image-20220615220728669](assets/ch04_images/image-20220615220728669.jpg)
+![image-20220615220728669](assets/ch04_images/image-20220615220728669.webp)
 
-![image-20220615220755529](assets/ch04_images/image-20220615220755529.jpg)
+![image-20220615220755529](assets/ch04_images/image-20220615220755529.webp)
 
 打开其中各个源文件，会发现有乱码。比如：
 
-![image-20220615220846097](assets/ch04_images/image-20220615220846097.jpg)
+![image-20220615220846097](assets/ch04_images/image-20220615220846097.webp)
 
 **2、设置编码**
 
@@ -6627,21 +6627,21 @@ project(工程) - module(模块) - package(包) - class(类)
 
 可以单独把这两个模块设置为GBK编码的。
 
-![image-20220615220544760](assets/ch04_images/image-20220615220544760.jpg)
+![image-20220615220544760](assets/ch04_images/image-20220615220544760.webp)
 
 改为GBK，确认即可。如图：
 
-![image-20220615220950214](assets/ch04_images/image-20220615220950214.jpg)
+![image-20220615220950214](assets/ch04_images/image-20220615220950214.webp)
 
 ### 7. 代码模板的使用
 
 #### 7.1 查看Postfix Completion模板(后缀补全)
 
-![1655173712802](assets/ch04_images/1655173712802.jpg)
+![1655173712802](assets/ch04_images/1655173712802.webp)
 
 #### 7.2 查看Live Templates模板(实时模板)
 
-![img](assets/ch04_images/wps2.jpg)
+![img](assets/ch04_images/wps2.webp)
 
 #### 7.3 常用代码模板
 
@@ -6689,9 +6689,9 @@ project(工程) - module(模块) - package(包) - class(类)
 
 ##### 7.4.1 自定义后缀补全模板
 
-![image-20221018143204667](assets/ch04_images/image-20221018143204667.jpg)
+![image-20221018143204667](assets/ch04_images/image-20221018143204667.webp)
 
-![image-20221018143606913](assets/ch04_images/image-20221018143606913.jpg)
+![image-20221018143606913](assets/ch04_images/image-20221018143606913.webp)
 
 ##### 7.4.2 自定义Live Templates
 
@@ -6699,26 +6699,26 @@ project(工程) - module(模块) - package(包) - class(类)
 
 ①在Live Templates中增加模板
 
-![1576467339631](assets/ch04_images/1576467339631.jpg)
+![1576467339631](assets/ch04_images/1576467339631.webp)
 
 ②先定义一个模板的组，这样方便管理所有自定义的代码模板
 
-![1576467395084](assets/ch04_images/1576467395084.jpg)
+![1576467395084](assets/ch04_images/1576467395084.webp)
 
 ③在模板组里新建模板
 
-![1576467478993](assets/ch04_images/1576467478993.jpg)
+![1576467478993](assets/ch04_images/1576467478993.webp)
 
 ④定义模板（以输出语句为例）
 
-![1576467712251](assets/ch04_images/1576467712251.jpg)
+![1576467712251](assets/ch04_images/1576467712251.webp)
 
 - Abbreviation：模板的缩略名称
 - Description：模板的描述
 - Template text：模板的代码片段
 - 模板应用范围。比如点击Define。选择如下：应用在java代码中。
 
-![1576467768103](assets/ch04_images/1576467768103.jpg)
+![1576467768103](assets/ch04_images/1576467768103.webp)
 
 **其它模板1：单元测试模板：**
 
@@ -6729,7 +6729,7 @@ public void test$var1$(){
 }
 ```
 
-![image-20220612124137427](assets/ch04_images/image-20220612124137427.jpg)
+![image-20220612124137427](assets/ch04_images/image-20220612124137427.webp)
 
 **其它模板2：创建多线程**
 
@@ -6741,7 +6741,7 @@ new Thread(){
 };
 ```
 
-![image-20220612124221967](assets/ch04_images/image-20220612124221967.jpg)
+![image-20220612124221967](assets/ch04_images/image-20220612124221967.webp)
 
 **其它模板3：冒泡排序**
 
@@ -6757,7 +6757,7 @@ for(int $INDEX$ = 1; $INDEX$ < $ARRAY$.length; $INDEX$++) {
 }
 ```
 
-![image-20220612124541378](assets/ch04_images/image-20220612124541378.jpg)
+![image-20220612124541378](assets/ch04_images/image-20220612124541378.webp)
 
 
 
@@ -6780,21 +6780,21 @@ for(int $INDEX$ = 1; $INDEX$ < $ARRAY$.length; $INDEX$++) {
 
 ##### 1、已知快捷键操作名，未知快捷键
 
-![1577246789281](assets/ch04_images/1577246789281.jpg)
+![1577246789281](assets/ch04_images/1577246789281.webp)
 
 ##### 2、已知快捷键，不知道对应的操作名
 
-![1577246895469](assets/ch04_images/1577246895469.jpg)
+![1577246895469](assets/ch04_images/1577246895469.webp)
 
 #### 8.3 自定义快捷键
 
-![1577247069135](assets/ch04_images/1577247069135.jpg)
+![1577247069135](assets/ch04_images/1577247069135.webp)
 
 #### 8.4 使用其它平台快捷键
 
 苹果电脑或者是用惯Eclipse快捷的，可以选择其他快捷键插件。
 
-![image-20221019205934099](assets/ch04_images/image-20221019205934099.jpg)
+![image-20221019205934099](assets/ch04_images/image-20221019205934099.webp)
 
 ### 9. IDEA断点调试(Debug)
 
@@ -6830,39 +6830,39 @@ Debug(调试)程序步骤如下：
 
 在源代码文件中，在想要设置断点的代码行的前面的标记行处，单击鼠标左键就可以设置断点，在相同位置再次单击即可取消断点。
 
-![1576476225262](assets/ch04_images/1576476225262.jpg)
+![1576476225262](assets/ch04_images/1576476225262.webp)
 
 ##### 2、启动调试
 
-IDEA提供多种方式来启动程序(Launch)的调试，分别是通过菜单(Run –> Debug)、图标(“绿色臭虫”![1576476267687](assets/ch04_images/1576476267687.jpg)等等
+IDEA提供多种方式来启动程序(Launch)的调试，分别是通过菜单(Run –> Debug)、图标(“绿色臭虫”![1576476267687](assets/ch04_images/1576476267687.webp)等等
 
-![1576476841154](assets/ch04_images/1576476841154.jpg)
+![1576476841154](assets/ch04_images/1576476841154.webp)
 
 ##### 3、单步调试工具介绍
 
-![1576477907469](assets/ch04_images/1576477907469.jpg)
+![1576477907469](assets/ch04_images/1576477907469.webp)
 
 或
 
-![1576477927994](assets/ch04_images/1576477927994.jpg)
+![1576477927994](assets/ch04_images/1576477927994.webp)
 
-![1576476917169](assets/ch04_images/1576476917169.jpg)：Step Over（F8）：进入下一步，如果当前行断点是调用一个方法，则不进入当前方法体内
+![1576476917169](assets/ch04_images/1576476917169.webp)：Step Over（F8）：进入下一步，如果当前行断点是调用一个方法，则不进入当前方法体内
 
-![1576476984903](assets/ch04_images/1576476984903.jpg)：Step Into（F7）：进入下一步，如果当前行断点是调用一个自定义方法，则进入该方法体内
+![1576476984903](assets/ch04_images/1576476984903.webp)：Step Into（F7）：进入下一步，如果当前行断点是调用一个自定义方法，则进入该方法体内
 
-![1576477028289](assets/ch04_images/1576477028289.jpg)：Force Step Into（Alt +Shift  + F7）：进入下一步，如果当前行断点是调用一个核心类库方法，则进入该方法体内
+![1576477028289](assets/ch04_images/1576477028289.webp)：Force Step Into（Alt +Shift  + F7）：进入下一步，如果当前行断点是调用一个核心类库方法，则进入该方法体内
 
-![1576477117156](assets/ch04_images/1576477117156.jpg)：Step Out（Shift  + F8）：跳出当前方法体
+![1576477117156](assets/ch04_images/1576477117156.webp)：Step Out（Shift  + F8）：跳出当前方法体
 
-![1576477204366](assets/ch04_images/1576477204366.jpg)：Run to Cursor（Alt + F9）：直接跳到光标处继续调试
+![1576477204366](assets/ch04_images/1576477204366.webp)：Run to Cursor（Alt + F9）：直接跳到光标处继续调试
 
-![1576477448969](assets/ch04_images/1576477448969.jpg)：Resume Program（F9）：恢复程序运行，但如果该断点下面代码还有断点则停在下一个断点上
+![1576477448969](assets/ch04_images/1576477448969.webp)：Resume Program（F9）：恢复程序运行，但如果该断点下面代码还有断点则停在下一个断点上
 
-![1576477293031](assets/ch04_images/1576477293031.jpg)：Stop（Ctrl + F2）：结束调试
+![1576477293031](assets/ch04_images/1576477293031.webp)：Stop（Ctrl + F2）：结束调试
 
-![1576477330355](assets/ch04_images/1576477330355.jpg)：View Breakpoints（Ctrl + Shift  + F8）：查看所有断点
+![1576477330355](assets/ch04_images/1576477330355.webp)：View Breakpoints（Ctrl + Shift  + F8）：查看所有断点
 
-![1576477381767](assets/ch04_images/1576477381767.jpg)：Mute Breakpoints：使得当前代码后面所有的断点失效， 一下执行到底 
+![1576477381767](assets/ch04_images/1576477381767.webp)：Mute Breakpoints：使得当前代码后面所有的断点失效， 一下执行到底 
 
 > 说明：在Debug过程中，可以动态的下断点。
 
@@ -6916,7 +6916,7 @@ public class Debug01 {
 - 断点设置在方法的签名上，默认当进入时，断点可以被唤醒。
 - 也可以设置在方法退出时，断点也被唤醒
 
-![image-20221020213250606](assets/ch04_images/image-20221020213250606.jpg)
+![image-20221020213250606](assets/ch04_images/image-20221020213250606.webp)
 
 - 在多态的场景下，在父类或接口的方法上打断点，会自动调入到子类或实现类的方法
 
@@ -6987,7 +6987,7 @@ class ConsumerImpl implements Consumer{
 
 - 在类的属性声明上打断点，默认对属性的修改操作进行监控
 
-![image-20221020214905607](assets/ch04_images/image-20221020214905607.jpg)
+![image-20221020214905607](assets/ch04_images/image-20221020214905607.webp)
 
 ```java
 package com.atguigu.debug;
@@ -7095,7 +7095,7 @@ public class Debug04 {
 
 针对上述代码，在满足arr[i] % 3 == 0的条件下，执行断点。
 
-![image-20221020220043375](assets/ch04_images/image-20221020220043375.jpg)
+![image-20221020220043375](assets/ch04_images/image-20221020220043375.webp)
 
 ##### 9.3.5 异常断点（暂略）
 
@@ -7135,7 +7135,7 @@ public class Debug05 {
 
 通过下图的方式，对指定的异常进行监控：
 
-![image-20221020220904864](assets/ch04_images/image-20221020220904864.jpg)
+![image-20221020220904864](assets/ch04_images/image-20221020220904864.webp)
 
 ##### 9.3.6 线程调试（暂略）
 
@@ -7172,7 +7172,7 @@ public class Debug06 {
 
 ```
 
-![image-20221020231542081](assets/ch04_images/image-20221020231542081.jpg)
+![image-20221020231542081](assets/ch04_images/image-20221020231542081.webp)
 
 ##### 9.3.7 强制结束
 
@@ -7207,7 +7207,7 @@ public class Debug07 {
 
 ```
 
-![image-20221020232038387](assets/ch04_images/image-20221020232038387.jpg)
+![image-20221020232038387](assets/ch04_images/image-20221020232038387.webp)
 
 #### 9.4 自定义调试数据视图（暂略）
 
@@ -7241,9 +7241,9 @@ public class Debug08 {
 
 设置如下：
 
-![1576478352757](assets/ch04_images/1576478352757.jpg)
+![1576478352757](assets/ch04_images/1576478352757.webp)
 
-![1576478431514](assets/ch04_images/1576478431514.jpg)
+![1576478431514](assets/ch04_images/1576478431514.webp)
 
 #### 9.5 常见问题
 
@@ -7255,7 +7255,7 @@ public class Debug08 {
 
 把Do not step into the classess中的`java.*`、`javax.*` 取消勾选即可。
 
-<img src="assets/ch04_images/image-20220516200427750.jpg" alt="image-20220516200427750" style="zoom:75%;" />
+<img src="assets/ch04_images/image-20220516200427750.webp" alt="image-20220516200427750" style="zoom:75%;" />
 
 小结：
 
@@ -7267,7 +7267,7 @@ public class Debug08 {
 
 #### 推荐1：Alibaba Java Coding Guidelines
 
- ![image-20221023224455751](assets/ch04_images/image-20221023224455751.jpg)
+ ![image-20221023224455751](assets/ch04_images/image-20221023224455751.webp)
 
 阿里巴巴Java编码规范检查插件，检测代码是否存在问题，以及是否符合规范。
 
@@ -7275,7 +7275,7 @@ public class Debug08 {
 
 #### 推荐2：jclasslib bytecode viewer
 
- ![image-20221019223514412](assets/ch04_images/image-20221019223514412.jpg)
+ ![image-20221019223514412](assets/ch04_images/image-20221019223514412.webp)
 
 可视化的字节码查看器。
 
@@ -7286,7 +7286,7 @@ public class Debug08 {
 3. 打开“view” 菜单，选择“Show Bytecode With jclasslib” 选项。
 4. 选择上述菜单项后 IDEA 中会弹出 jclasslib 工具窗口。
 
-![image-20221023225239838](assets/ch04_images/image-20221023225239838.jpg)
+![image-20221023225239838](assets/ch04_images/image-20221023225239838.webp)
 
 英文设置：
 
@@ -7298,7 +7298,7 @@ public class Debug08 {
 
 #### 推荐3：Translation
 
- ![image-20221019224727758](assets/ch04_images/image-20221019224727758.jpg)
+ ![image-20221019224727758](assets/ch04_images/image-20221019224727758.webp)
 
 注册翻译服务（有道智云、百度翻译开放平台、阿里云机器翻译）帐号，开通翻译服务并获取其应用ID和密钥
 绑定应用ID和密钥：偏好设置（设置） > 工具 > 翻译 > 常规 > 翻译引擎 > 配置…
@@ -7309,77 +7309,77 @@ public class Debug08 {
 
 #### 推荐4：GenerateAllSetter
 
- ![image-20221019223238560](assets/ch04_images/image-20221019223238560.jpg)
+ ![image-20221019223238560](assets/ch04_images/image-20221019223238560.webp)
 
 实际开发中还有一个非常常见的场景： 我们创建一个对象后，想依次调用 Setter 函数对属性赋值，如果属性较多很容易遗漏或者重复。
 
-<img src="assets/ch04_images/image-20221023230812560.jpg" alt="image-20221023230812560" style="zoom:80%;" />
+<img src="assets/ch04_images/image-20221023230812560.webp" alt="image-20221023230812560" style="zoom:80%;" />
 
 可以使用这 GenerateAllSetter 提供的功能，快速生成对象的所有 Setter 函数（可填充默认值），然后自己再跟进实际需求设置属性值。
 
 #### 插件5：Rainbow Brackets
 
- ![image-20221019223340532](assets/ch04_images/image-20221019223340532.jpg)
+ ![image-20221019223340532](assets/ch04_images/image-20221019223340532.webp)
 
 给括号添加彩虹色，使开发者通过颜色区分括号嵌套层级，便于阅读
 
-![image-20221019222113604](assets/ch04_images/image-20221019222113604.jpg)
+![image-20221019222113604](assets/ch04_images/image-20221019222113604.webp)
 
 #### 推荐6：CodeGlance Pro
 
- ![image-20221019223219982](assets/ch04_images/image-20221019223219982.jpg)
+ ![image-20221019223219982](assets/ch04_images/image-20221019223219982.webp)
 
 在编辑器右侧生成代码小地图，可以拖拽小地图光标快速定位代码，阅读行数很多的代码文件时非常实用。
 
-<img src="assets/ch04_images/image-20221023231842846.jpg" alt="image-20221023231842846" style="zoom:80%;" />
+<img src="assets/ch04_images/image-20221023231842846.webp" alt="image-20221023231842846" style="zoom:80%;" />
 
 #### 推荐7：Statistic
 
- ![image-20221019234545641](assets/ch04_images/image-20221019234545641.jpg)
+ ![image-20221019234545641](assets/ch04_images/image-20221019234545641.webp)
 
 代码统计工具。
 
-![image-20221023231801337](assets/ch04_images/image-20221023231801337.jpg)
+![image-20221023231801337](assets/ch04_images/image-20221023231801337.webp)
 
-![image-20221023231741671](assets/ch04_images/image-20221023231741671.jpg)
+![image-20221023231741671](assets/ch04_images/image-20221023231741671.webp)
 
 #### 推荐8：Presentation Assistant
 
- ![image-20221019223426562](assets/ch04_images/image-20221019223426562.jpg)
+ ![image-20221019223426562](assets/ch04_images/image-20221019223426562.webp)
 
 显示快捷键操作的按键
 
 #### 推荐9：Key Promoter X
 
- ![image-20221019223250943](assets/ch04_images/image-20221019223250943.jpg)
+ ![image-20221019223250943](assets/ch04_images/image-20221019223250943.webp)
 
 快捷键提示插件。当你执行鼠标操作时，如果该操作可被快捷键代替，会给出提示，帮助你自然形成使用快捷键的习惯，告别死记硬背。
 
 #### 推荐10：JavaDoc
 
- ![image-20221019224820244](assets/ch04_images/image-20221019224820244.jpg)
+ ![image-20221019224820244](assets/ch04_images/image-20221019224820244.webp)
 
 按`alt+insert`，执行操作：
 
-![image-20221019225041655](assets/ch04_images/image-20221019225041655.jpg)
+![image-20221019225041655](assets/ch04_images/image-20221019225041655.webp)
 
 #### 推荐11： LeetCode Editor
 
- ![image-20221019225142011](assets/ch04_images/image-20221019225142011.jpg)
+ ![image-20221019225142011](assets/ch04_images/image-20221019225142011.webp)
 
-![image-20221019225242331](assets/ch04_images/image-20221019225242331.jpg)
+![image-20221019225242331](assets/ch04_images/image-20221019225242331.webp)
 
 在 IDEA 里刷力扣算法题
 
 #### 推荐12：GsonFormatPlus
 
- ![image-20221019233444272](assets/ch04_images/image-20221019233444272.jpg)
+ ![image-20221019233444272](assets/ch04_images/image-20221019233444272.webp)
 
 根据 json 生成对象。
 
 使用：使用alt + s 或 alt + insert调取。
 
-![image-20221023235416317](assets/ch04_images/image-20221023235416317.jpg)
+![image-20221023235416317](assets/ch04_images/image-20221023235416317.webp)
 
 举例：
 
@@ -7398,13 +7398,13 @@ public class Debug08 {
 
 #### 插件13：Material Theme UI
 
- ![image-20221019223325480](assets/ch04_images/image-20221019223325480.jpg)
+ ![image-20221019223325480](assets/ch04_images/image-20221019223325480.webp)
 
 对于很多人而言，写代码时略显枯燥的，如果能够安装自己喜欢的主题将为开发工作带来些许乐趣。
 
 IDEA 支持各种主题插件，其中最出名的当属 Material Theme UI。
 
-![image-20220810011348421](assets/ch04_images/image-20220810011348421.jpg)
+![image-20220810011348421](assets/ch04_images/image-20220810011348421.webp)
 
 安装后，可以从该插件内置的各种风格个选择自己最喜欢的一种。
 
@@ -7533,7 +7533,7 @@ author：尚硅谷-宋红康
 
 ### 本章专题与脉络
 
-<img src="assets/ch05_images/第1阶段：Java基本语法-第05章.jpg" alt="第1阶段：Java基本语法-第05章" style="zoom:45%;" />
+<img src="assets/ch05_images/第1阶段：Java基本语法-第05章.webp" alt="第1阶段：Java基本语法-第05章" style="zoom:45%;" />
 
 ### 1. 数组的概述
 
@@ -7545,7 +7545,7 @@ author：尚硅谷-宋红康
 
 **需求分析2：**
 
-<img src="assets/ch05_images/snipaste_20220317_000101.jpg" alt="snipaste_20220317_000101" style="zoom: 50%;" />
+<img src="assets/ch05_images/snipaste_20220317_000101.webp" alt="snipaste_20220317_000101" style="zoom: 50%;" />
 
 容器的概念：
 
@@ -7562,7 +7562,7 @@ author：尚硅谷-宋红康
   - 元素
   - 数组的长度
 
-![image-20220317000952499](assets/ch05_images/image-20220317000952499.jpg)
+![image-20220317000952499](assets/ch05_images/image-20220317000952499.webp)
 
 **数组的特点：**
 
@@ -7585,7 +7585,7 @@ author：尚硅谷-宋红康
 - 一维数组：存储一组数据
 - 二维数组：存储多组数据，相当于二维表，一行代表一组数据，只是这里的二维表每一行长度不要求一样。
 
-![image-20211221164709624](assets/ch05_images/image-20211221164709624.jpg)
+![image-20211221164709624](assets/ch05_images/image-20211221164709624.webp)
 
 
 
@@ -7883,7 +7883,7 @@ public class ArrayTest6 {
 
 对于引用数据类型而言，默认初始化值为null（注意与0不同！)
 
-![](assets/ch05_images/1561509460135.jpg)
+![](assets/ch05_images/1561509460135.webp)
 
 ```java
 public class ArrayTest7 {
@@ -7923,7 +7923,7 @@ public class ArrayTest7 {
 
 为了提高运算效率，就对空间进行了不同区域的划分，因为每一片区域都有特定的处理数据方式和内存管理方式。
 
-![JVM架构-简图](assets/ch05_images/JVM架构-简图.png)
+![JVM架构-简图](assets/ch05_images/JVM架构-简图.webp)
 
 | 区域名称   | 作用                                                      |
 | ----------| ---------------------------------------------------------|
@@ -7945,7 +7945,7 @@ public static void main(String[] args) {
 
 ```
 
-![](assets/ch05_images/数组内存图1.jpg)
+![](assets/ch05_images/数组内存图1.webp)
 
 ##### 2、数组下标为什么是0开始
 
@@ -7965,7 +7965,7 @@ public static void main(String[] args) {
 
 ```
 
-<img src="assets/ch05_images/数组内存图2.jpg" style="zoom:67%;" />
+<img src="assets/ch05_images/数组内存图2.webp" style="zoom:67%;" />
 
 ##### 4、两个变量指向一个一维数组
 
@@ -7990,7 +7990,7 @@ public static void main(String[] args) {
 }
 ```
 
- <img src="assets/ch05_images/数组内存图3.jpg" style="zoom:67%;" />
+ <img src="assets/ch05_images/数组内存图3.webp" style="zoom:67%;" />
 
 ### 4. 一维数组的应用
 
@@ -8061,7 +8061,7 @@ public class WeekArrayTest {
 
 提示：先读入学生人数，根据人数创建int数组，存放学生成绩。
 
-<img src="assets/ch05_images/image-20220317004637748.jpg" alt="image-20220317004637748" style="zoom:80%;" />
+<img src="assets/ch05_images/image-20220317004637748.webp" alt="image-20220317004637748" style="zoom:80%;" />
 
 ```java
 /**
@@ -8123,7 +8123,7 @@ public class ScoreTest1 {
 
 - 如果说可以把一维数组当成几何中的`线性图形`，那么二维数组就相当于是`一个表格`，像Excel中的表格、围棋棋盘一样。
 
-  <img src="assets/ch05_images/image-20220317004810263.jpg" alt="image-20220317004810263" style="zoom:80%;" />
+  <img src="assets/ch05_images/image-20220317004810263.webp" alt="image-20220317004810263" style="zoom:80%;" />
 
 - **应用举例1：**
 
@@ -8162,15 +8162,15 @@ String[][] grade = new String[][]{{"段誉","令狐冲","任我行"},{"张三丰
 
   - **应用举例3：**
 
-  ![image-20220516095701345](assets/ch05_images/image-20220516095701345.jpg)
+  ![image-20220516095701345](assets/ch05_images/image-20220516095701345.webp)
 
 蓝框的几个元素，可以使用一维数组来存储。但现在发现每个元素下还有下拉框，其内部还有元素，那就需要使用二维数组来存储：
 
-  ![image-20220516095829526](assets/ch05_images/image-20220516095829526.jpg)
+  ![image-20220516095829526](assets/ch05_images/image-20220516095829526.webp)
 
 - 使用说明
 
-  ![1561524724397](assets/ch05_images/1561524724397-1647707344971.jpg)
+  ![1561524724397](assets/ch05_images/1561524724397-1647707344971.webp)
 
 > - 对于二维数组的理解，可以看成是一维数组array1又作为另一个一维数组array2的元素而存在。
 > - 其实，从数组底层的运行机制来看，其实没有多维数组。
@@ -8476,7 +8476,7 @@ int[][] arr = {
 };
 ```
 
-![1562112672215](assets/ch05_images/1562112672215.jpg)
+![1562112672215](assets/ch05_images/1562112672215.webp)
 
 ```java
 //1、声明二维数组，并确定行数和列数
@@ -8490,7 +8490,7 @@ for (int i = 0; i < arr.length; i++) {
 }
 ```
 
-![1562113179785](assets/ch05_images/1562113179785.jpg)
+![1562113179785](assets/ch05_images/1562113179785.webp)
 
 ```java
 //1、声明一个二维数组，并且确定行数
@@ -8517,7 +8517,7 @@ for(int i=0; i<arr.length; i++){
 }
 ```
 
-![1562113981079](assets/ch05_images/1562113981079.jpg)
+![1562113981079](assets/ch05_images/1562113981079.webp)
 
 #### 5.6 应用举例
 
@@ -8525,7 +8525,7 @@ for(int i=0; i<arr.length; i++){
 
 提示：使用for的嵌套循环即可。
 
-![image-20220317005436209](assets/ch05_images/image-20220317005436209.jpg)
+![image-20220317005436209](assets/ch05_images/image-20220317005436209.webp)
 
 **案例2：**声明：int[] x,y[]; 在给x,y变量赋值以后，以下选项允许通过编译的是： 
 
@@ -8558,7 +8558,7 @@ f)    x = y;                    //no
    yanghui[i][j] = yanghui[i-1][j-1] + yanghui[i-1][j];
    ```
 
-![image-20220317005549522](assets/ch05_images/image-20220317005549522.jpg)
+![image-20220317005549522](assets/ch05_images/image-20220317005549522.webp)
 
 ```java
 /**
@@ -8666,7 +8666,7 @@ public class TestArrayElementEvenCount {
 
 **举例4：**求数组元素的最大值
 
-![1574577970893](assets/ch05_images/1574577970893.jpg)
+![1574577970893](assets/ch05_images/1574577970893.webp)
 
 ```java
 public class TestArrayMax {
@@ -8856,7 +8856,7 @@ public class ArrayExer {
 >
 > **拓展：**修改题目，实现array2对array1数组的复制
 
-<img src="assets/ch05_images/snipaste_20220317_225346.jpg" alt="snipaste_20220317_225346" style="zoom:80%;" />![snipaste_20220317_225359](assets/ch05_images/snipaste_20220317_225359.jpg)
+<img src="assets/ch05_images/snipaste_20220317_225346.webp" alt="snipaste_20220317_225346" style="zoom:80%;" />![snipaste_20220317_225359](assets/ch05_images/snipaste_20220317_225359.webp)
 
 **举例3：**一个数组，让数组的每个元素去除第一个元素，得到的商作为被除数所在位置的新值。
 
@@ -8939,7 +8939,7 @@ public class Test4 {
 
 遍历扑克牌，效果如图所示：
 
-![1659199523932](assets/ch05_images/1659199523932.jpg)
+![1659199523932](assets/ch05_images/1659199523932.webp)
 
 提示：使用两个字符串数组，分别保存花色和点数，再用一个字符串数组保存最后的扑克牌。
 String[] hua = {"黑桃","红桃","梅花","方片"};
@@ -9125,7 +9125,7 @@ public class RectangleTest1 {
 
 **实现思想：**数组对称位置的元素互换。
 
-<img src="assets/ch05_images/image-20221117195931777.jpg" alt="image-20221117195931777" style="zoom:67%;" />
+<img src="assets/ch05_images/image-20221117195931777.webp" alt="image-20221117195931777" style="zoom:67%;" />
 
 ```java
 public class TestArrayReverse1 {
@@ -9165,7 +9165,7 @@ public class TestArrayReverse1 {
 
 或
 
-![1561469087319](assets/ch05_images/1561469087319.jpg)
+![1561469087319](assets/ch05_images/1561469087319.webp)
 
 ```java
 public class TestArrayReverse2 {
@@ -9300,11 +9300,11 @@ public class TestArrayOrderSearch {
 
 举例：
 
-![image-20220317230955644](assets/ch05_images/image-20220317230955644.jpg)
+![image-20220317230955644](assets/ch05_images/image-20220317230955644.webp)
 
 实现步骤：
 
-<img src="assets/ch05_images/image-20220623210601915.jpg" alt="image-20220623210601915" style="zoom:67%;" />
+<img src="assets/ch05_images/image-20220623210601915.webp" alt="image-20220623210601915" style="zoom:67%;" />
 
 ```java
 //二分法查找：要求此数组必须是有序的。
@@ -9355,7 +9355,7 @@ if(isFlag){
 
   - `稳定性`：若两个记录A和B的关键字值相等，但排序后A、B的先后次序保持不变，则称这种排序算法是稳定的。
 
-    ![image-20211222113701365](assets/ch05_images/image-20211222113701365.jpg)
+    ![image-20211222113701365](assets/ch05_images/image-20211222113701365.webp)
 
 
 ##### 6.6.2 排序算法概述
@@ -9368,7 +9368,7 @@ if(isFlag){
 
 ​       数组的排序算法很多，实现方式各不相同，时间复杂度、空间复杂度、稳定性也各不相同：
 
-![image-20211222111142684](assets/ch05_images/image-20211222111142684.jpg)
+![image-20211222111142684](assets/ch05_images/image-20211222111142684.webp)
 
 常见时间复杂度所消耗的时间从小到大排序：
 
@@ -9376,11 +9376,11 @@ if(isFlag){
 
 注意，经常将以2为底n的对数简写成logn。
 
-![image-20220824003440106](assets/ch05_images/image-20220824003440106.jpg)
+![image-20220824003440106](assets/ch05_images/image-20220824003440106.webp)
 
 ##### 6.6.3 冒泡排序（Bubble Sort）
 
-<img src="assets/ch05_images/image-20220516094637228.jpg" alt="image-20220516094637228" style="zoom:67%;" />
+<img src="assets/ch05_images/image-20220516094637228.webp" alt="image-20220516094637228" style="zoom:67%;" />
 
 **排序思想：**
 
@@ -9392,7 +9392,7 @@ if(isFlag){
 
 4. 持续每次对越来越少的元素重复上面的步骤，直到没有任何一对数字需要比较为止。
 
-![BubbleSort](assets/ch05_images/BubbleSort.jpg)
+![BubbleSort](assets/ch05_images/BubbleSort.webp)
 
 **动态演示：**https://visualgo.net/zh/sorting
 
@@ -9544,17 +9544,17 @@ class Test19BubbleSort2{
 
 图示1：
 
-![image-20220317235922776](assets/ch05_images/image-20220317235922776.jpg)
+![image-20220317235922776](assets/ch05_images/image-20220317235922776.webp)
 
 图示2：
 
 第一轮操作：
 
-![image-20221117205612230](assets/ch05_images/image-20221117205612230.jpg)
+![image-20221117205612230](assets/ch05_images/image-20221117205612230.webp)
 
 第二轮操作：
 
-![image-20221117205719427](assets/ch05_images/image-20221117205719427.jpg)
+![image-20221117205719427](assets/ch05_images/image-20221117205719427.webp)
 
 
 
@@ -9635,7 +9635,7 @@ public class TestArrayIndexOutOfBoundsException {
 
 创建数组，赋值3个元素，数组的索引就是0，1，2，没有3索引，因此我们不能访问数组中不存在的索引，程序运行后，将会抛出 `ArrayIndexOutOfBoundsException`  数组越界异常。在开发中，数组的越界异常是**不能出现**的，一旦出现了，就必须要修改我们编写的代码。
 
-![](assets/ch05_images/数组越界异常.jpg)
+![](assets/ch05_images/数组越界异常.webp)
 
 #### 8.2 空指针异常
 
@@ -9654,11 +9654,11 @@ public class TestNullPointerException {
 
 因为此时数组的每一行还未分配具体存储元素的空间，此时arr\[0\]是null，此时访问arr\[0\]\[0\]会抛出`NullPointerException` 空指针异常。
 
-![](assets/ch05_images/空指针异常-1647708157677.jpg)
+![](assets/ch05_images/空指针异常-1647708157677.webp)
 
 **空指针异常在内存图中的表现**
 
-![1572338767825](assets/ch05_images/1572338767825-1647708157678.jpg)
+![1572338767825](assets/ch05_images/1572338767825-1647708157678.webp)
 
 **小结：空指针异常情况**
 
@@ -9689,164 +9689,164 @@ public class TestNullPointerException {
 > 本章为原始 PDF 页面高清图嵌入版（PDF 文本抽取会破坏排版和表格，故改用页面渲染保真还原）。
 > 每张图对应 PDF 的一页；如需检索文字，请配合原 PDF 使用。
 
-![第06章 P1](assets/ch06_pages/page01.jpg)
+![第06章 P1](assets/ch06_pages/page01.webp)
 
 
 ### 1. 面向对象编程概述
 
-![第06章 P2](assets/ch06_pages/page02.jpg)
+![第06章 P2](assets/ch06_pages/page02.webp)
 
-![第06章 P3](assets/ch06_pages/page03.jpg)
+![第06章 P3](assets/ch06_pages/page03.webp)
 
-![第06章 P4](assets/ch06_pages/page04.jpg)
+![第06章 P4](assets/ch06_pages/page04.webp)
 
-![第06章 P5](assets/ch06_pages/page05.jpg)
+![第06章 P5](assets/ch06_pages/page05.webp)
 
 
 ### 2. Java 语言的基本元素：类和对象
 
-![第06章 P6](assets/ch06_pages/page06.jpg)
+![第06章 P6](assets/ch06_pages/page06.webp)
 
-![第06章 P7](assets/ch06_pages/page07.jpg)
+![第06章 P7](assets/ch06_pages/page07.webp)
 
-![第06章 P8](assets/ch06_pages/page08.jpg)
+![第06章 P8](assets/ch06_pages/page08.webp)
 
-![第06章 P9](assets/ch06_pages/page09.jpg)
+![第06章 P9](assets/ch06_pages/page09.webp)
 
-![第06章 P10](assets/ch06_pages/page10.jpg)
+![第06章 P10](assets/ch06_pages/page10.webp)
 
-![第06章 P11](assets/ch06_pages/page11.jpg)
+![第06章 P11](assets/ch06_pages/page11.webp)
 
-![第06章 P12](assets/ch06_pages/page12.jpg)
+![第06章 P12](assets/ch06_pages/page12.webp)
 
-![第06章 P13](assets/ch06_pages/page13.jpg)
+![第06章 P13](assets/ch06_pages/page13.webp)
 
 
 ### 3. 对象的内存解析
 
-![第06章 P14](assets/ch06_pages/page14.jpg)
+![第06章 P14](assets/ch06_pages/page14.webp)
 
-![第06章 P15](assets/ch06_pages/page15.jpg)
+![第06章 P15](assets/ch06_pages/page15.webp)
 
-![第06章 P16](assets/ch06_pages/page16.jpg)
+![第06章 P16](assets/ch06_pages/page16.webp)
 
-![第06章 P17](assets/ch06_pages/page17.jpg)
+![第06章 P17](assets/ch06_pages/page17.webp)
 
 
 ### 4. 类的成员之一：成员变量 (field)
 
-![第06章 P18](assets/ch06_pages/page18.jpg)
+![第06章 P18](assets/ch06_pages/page18.webp)
 
-![第06章 P19](assets/ch06_pages/page19.jpg)
+![第06章 P19](assets/ch06_pages/page19.webp)
 
 
 ### 5. 类的成员之二：方法 (method)
 
-![第06章 P20](assets/ch06_pages/page20.jpg)
+![第06章 P20](assets/ch06_pages/page20.webp)
 
-![第06章 P21](assets/ch06_pages/page21.jpg)
+![第06章 P21](assets/ch06_pages/page21.webp)
 
-![第06章 P22](assets/ch06_pages/page22.jpg)
+![第06章 P22](assets/ch06_pages/page22.webp)
 
-![第06章 P23](assets/ch06_pages/page23.jpg)
+![第06章 P23](assets/ch06_pages/page23.webp)
 
-![第06章 P24](assets/ch06_pages/page24.jpg)
+![第06章 P24](assets/ch06_pages/page24.webp)
 
-![第06章 P25](assets/ch06_pages/page25.jpg)
+![第06章 P25](assets/ch06_pages/page25.webp)
 
-![第06章 P26](assets/ch06_pages/page26.jpg)
+![第06章 P26](assets/ch06_pages/page26.webp)
 
-![第06章 P27](assets/ch06_pages/page27.jpg)
+![第06章 P27](assets/ch06_pages/page27.webp)
 
-![第06章 P28](assets/ch06_pages/page28.jpg)
+![第06章 P28](assets/ch06_pages/page28.webp)
 
 
 ### 6. 面向对象特征一：封装性
 
-![第06章 P29](assets/ch06_pages/page29.jpg)
+![第06章 P29](assets/ch06_pages/page29.webp)
 
-![第06章 P30](assets/ch06_pages/page30.jpg)
+![第06章 P30](assets/ch06_pages/page30.webp)
 
-![第06章 P31](assets/ch06_pages/page31.jpg)
+![第06章 P31](assets/ch06_pages/page31.webp)
 
-![第06章 P32](assets/ch06_pages/page32.jpg)
+![第06章 P32](assets/ch06_pages/page32.webp)
 
-![第06章 P33](assets/ch06_pages/page33.jpg)
+![第06章 P33](assets/ch06_pages/page33.webp)
 
 
 ### 7. 再谈方法（方法重载、可变形参、递归）
 
-![第06章 P34](assets/ch06_pages/page34.jpg)
+![第06章 P34](assets/ch06_pages/page34.webp)
 
-![第06章 P35](assets/ch06_pages/page35.jpg)
+![第06章 P35](assets/ch06_pages/page35.webp)
 
-![第06章 P36](assets/ch06_pages/page36.jpg)
+![第06章 P36](assets/ch06_pages/page36.webp)
 
-![第06章 P37](assets/ch06_pages/page37.jpg)
+![第06章 P37](assets/ch06_pages/page37.webp)
 
-![第06章 P38](assets/ch06_pages/page38.jpg)
+![第06章 P38](assets/ch06_pages/page38.webp)
 
-![第06章 P39](assets/ch06_pages/page39.jpg)
+![第06章 P39](assets/ch06_pages/page39.webp)
 
-![第06章 P40](assets/ch06_pages/page40.jpg)
+![第06章 P40](assets/ch06_pages/page40.webp)
 
-![第06章 P41](assets/ch06_pages/page41.jpg)
+![第06章 P41](assets/ch06_pages/page41.webp)
 
-![第06章 P42](assets/ch06_pages/page42.jpg)
+![第06章 P42](assets/ch06_pages/page42.webp)
 
-![第06章 P43](assets/ch06_pages/page43.jpg)
+![第06章 P43](assets/ch06_pages/page43.webp)
 
 
 ### 8. 关键字：package、import
 
-![第06章 P44](assets/ch06_pages/page44.jpg)
+![第06章 P44](assets/ch06_pages/page44.webp)
 
-![第06章 P45](assets/ch06_pages/page45.jpg)
+![第06章 P45](assets/ch06_pages/page45.webp)
 
-![第06章 P46](assets/ch06_pages/page46.jpg)
+![第06章 P46](assets/ch06_pages/page46.webp)
 
-![第06章 P47](assets/ch06_pages/page47.jpg)
+![第06章 P47](assets/ch06_pages/page47.webp)
 
 
 ### 9. 类的成员之三：构造器 (Constructor)
 
-![第06章 P48](assets/ch06_pages/page48.jpg)
+![第06章 P48](assets/ch06_pages/page48.webp)
 
-![第06章 P49](assets/ch06_pages/page49.jpg)
+![第06章 P49](assets/ch06_pages/page49.webp)
 
-![第06章 P50](assets/ch06_pages/page50.jpg)
+![第06章 P50](assets/ch06_pages/page50.webp)
 
-![第06章 P51](assets/ch06_pages/page51.jpg)
+![第06章 P51](assets/ch06_pages/page51.webp)
 
-![第06章 P52](assets/ch06_pages/page52.jpg)
+![第06章 P52](assets/ch06_pages/page52.webp)
 
-![第06章 P53](assets/ch06_pages/page53.jpg)
+![第06章 P53](assets/ch06_pages/page53.webp)
 
 
 ### 10. 阶段性知识补充（属性赋值过程、JavaBean、UML）
 
-![第06章 P54](assets/ch06_pages/page54.jpg)
+![第06章 P54](assets/ch06_pages/page54.webp)
 
-![第06章 P55](assets/ch06_pages/page55.jpg)
+![第06章 P55](assets/ch06_pages/page55.webp)
 
-![第06章 P56](assets/ch06_pages/page56.jpg)
+![第06章 P56](assets/ch06_pages/page56.webp)
 
-![第06章 P57](assets/ch06_pages/page57.jpg)
+![第06章 P57](assets/ch06_pages/page57.webp)
 
 
 ### 11. 综合练习
 
-![第06章 P58](assets/ch06_pages/page58.jpg)
+![第06章 P58](assets/ch06_pages/page58.webp)
 
-![第06章 P59](assets/ch06_pages/page59.jpg)
+![第06章 P59](assets/ch06_pages/page59.webp)
 
-![第06章 P60](assets/ch06_pages/page60.jpg)
+![第06章 P60](assets/ch06_pages/page60.webp)
 
-![第06章 P61](assets/ch06_pages/page61.jpg)
+![第06章 P61](assets/ch06_pages/page61.webp)
 
-![第06章 P62](assets/ch06_pages/page62.jpg)
+![第06章 P62](assets/ch06_pages/page62.webp)
 
-![第06章 P63](assets/ch06_pages/page63.jpg)
+![第06章 P63](assets/ch06_pages/page63.webp)
 
 
 
@@ -9865,7 +9865,7 @@ public class TestNullPointerException {
 
 ### 本章专题与脉络
 
-<img src="assets/ch07_images/第2阶段：Java面向对象编程-第07章.jpg" alt="第2阶段：Java面向对象编程-第07章" style="zoom: 67%;" />
+<img src="assets/ch07_images/第2阶段：Java面向对象编程-第07章.webp" alt="第2阶段：Java面向对象编程-第07章" style="zoom: 67%;" />
 
 ### 1. 关键字：this
 
@@ -9885,7 +9885,7 @@ public class TestNullPointerException {
 
 但是，当形参与成员变量同名时，如果在方法内或构造器内需要使用成员变量，必须添加this来表明该变量是类的成员变量。即：我们可以用this来区分`成员变量`和`局部变量`。比如：
 
-<img src="assets/ch07_images/image-20220503102947013.jpg" alt="image-20220503102947013" style="zoom:67%;" />
+<img src="assets/ch07_images/image-20220503102947013.webp" alt="image-20220503102947013" style="zoom:67%;" />
 
 另外，使用this访问属性和方法时，如果在本类中未找到，会从父类中查找。这个在继承中会讲到。
 
@@ -10033,23 +10033,23 @@ public class Student {
 
 **练习1：**添加必要的构造器，综合应用构造器的重载，this关键字。
 
-![image-20220808191154534](assets/ch07_images/image-20220808191154534.jpg)
+![image-20220808191154534](assets/ch07_images/image-20220808191154534.webp)
 
 **练习2：**
 
 （1）按照如下的UML类图，创建相应的类，提供必要的结构：
 
-<img src="assets/ch07_images/image-20220323211412409.jpg" alt="image-20220323211412409" style="zoom:50%;" />
+<img src="assets/ch07_images/image-20220323211412409.webp" alt="image-20220323211412409" style="zoom:50%;" />
 
 在提款方法withdraw()中，需要判断用户余额是否能够满足提款数额的要求，如果不能，应给出提示。deposit()方法表示存款。
 
 （2）按照如下的UML类图，创建相应的类，提供必要的结构
 
-<img src="assets/ch07_images/image-20220323211454372.jpg" alt="image-20220323211454372" style="zoom:50%;" />
+<img src="assets/ch07_images/image-20220323211454372.webp" alt="image-20220323211454372" style="zoom:50%;" />
 
 （3）按照如下的UML类图，创建相应的类，提供必要的结构
 
-<img src="assets/ch07_images/image-20220323211521808.jpg" alt="image-20220323211521808" style="zoom:50%;" />
+<img src="assets/ch07_images/image-20220323211521808.webp" alt="image-20220323211521808" style="zoom:50%;" />
 
 - addCustomer 方法必须依照参数（姓，名）构造一个新的 Customer对象，然后把它放到 customer 数组中。还必须把 numberOfCustomer 属性的值加 1。
 
@@ -10061,7 +10061,7 @@ public class Student {
 
 内存解析图：
 
-<img src="assets/ch07_images/image-20220323211653907.jpg" alt="image-20220323211653907" style="zoom:80%;" />
+<img src="assets/ch07_images/image-20220323211653907.webp" alt="image-20220323211653907" style="zoom:80%;" />
 
 ### 2. 面向对象特征二：继承(Inheritance)
 
@@ -10071,21 +10071,21 @@ public class Student {
 
 * 财产继承：
 
-<img src="assets/ch07_images/image-20220323215921441.jpg" alt="image-20220323215921441" style="zoom: 50%;" />
+<img src="assets/ch07_images/image-20220323215921441.webp" alt="image-20220323215921441" style="zoom: 50%;" />
 
 - 绿化：前人栽树，后人乘凉
 
-<img src="assets/ch07_images/image-20220520171727778.jpg" alt="image-20220520171727778" style="zoom: 50%;" />
+<img src="assets/ch07_images/image-20220520171727778.webp" alt="image-20220520171727778" style="zoom: 50%;" />
 
 “绿水青山，就是金山银山”
 
 * 样貌：
 
-  <img src="assets/ch07_images/image-20220323220246746.jpg" alt="image-20220323220246746" style="zoom: 50%;" />
+  <img src="assets/ch07_images/image-20220323220246746.webp" alt="image-20220323220246746" style="zoom: 50%;" />
 
 * 继承之外，是不是还可以"`进化`"：
 
-  <img src="assets/ch07_images/image-20220323220537644.jpg" alt="image-20220323220537644" style="zoom: 50%;" />
+  <img src="assets/ch07_images/image-20220323220537644.webp" alt="image-20220323220537644" style="zoom: 50%;" />
 
 > 继承有延续（下一代延续上一代的基因、财富）、扩展（下一代和上一代又有所不同）的意思。
 >
@@ -10096,29 +10096,29 @@ public class Student {
 
 为描述和处理**个人**信息，定义类Person：
 
- <img src="assets/ch07_images/image-20220323220923386.jpg" alt="image-20220323220923386" style="zoom:67%;" />
+ <img src="assets/ch07_images/image-20220323220923386.webp" alt="image-20220323220923386" style="zoom:67%;" />
 
 为描述和处理**学生**信息，定义类Student：
 
- <img src="assets/ch07_images/image-20220323221001495.jpg" alt="image-20220323221001495" style="zoom:67%;" />
+ <img src="assets/ch07_images/image-20220323221001495.webp" alt="image-20220323221001495" style="zoom:67%;" />
 
 通过继承，简化Student类的定义：
 
- <img src="assets/ch07_images/image-20220323221050791.jpg" alt="image-20220323221050791" style="zoom:67%;" />
+ <img src="assets/ch07_images/image-20220323221050791.webp" alt="image-20220323221050791" style="zoom:67%;" />
 
 > 说明：Student类继承了父类Person的所有属性和方法，并增加了一个属性school。Person中的属性和方法，Student都可以使用。
 
 **角度二：从下而上**
 
-![](assets/ch07_images/猫狗继承1.jpg)
+![](assets/ch07_images/猫狗继承1.webp)
 
 多个类中存在相同属性和行为时，将这些内容抽取到单独一个类中，那么多个类中无需再定义这些属性和行为，只需要和抽取出来的类构成`继承关系`。如图所示：
 
-<img src="assets/ch07_images/猫狗继承2.jpg" style="zoom: 67%;" />
+<img src="assets/ch07_images/猫狗继承2.webp" style="zoom: 67%;" />
 
 再举例：
 
-<img src="assets/ch07_images/image-20220323221436571.jpg" alt="image-20220323221436571" style="zoom:67%;" />
+<img src="assets/ch07_images/image-20220323221436571.webp" alt="image-20220323221436571" style="zoom:67%;" />
 
 ##### 2.1.3 继承的好处
 
@@ -10233,13 +10233,13 @@ public class TestCat {
 
 所以继承意味着子类的对象除了看子类的类模板还要看父类的类模板。
 
-![image-20211230090255997](assets/ch07_images/image-20211230090255997.jpg)
+![image-20211230090255997](assets/ch07_images/image-20211230090255997.webp)
 
 **2、子类不能直接访问父类中私有的(private)的成员变量和方法**
 
 子类虽会继承父类私有(private)的成员变量，但子类不能对继承的私有成员变量直接进行访问，可通过继承的get/set方法进行访问。如图所示：
 
-![image-20220323224757212](assets/ch07_images/image-20220323224757212.jpg)
+![image-20220323224757212](assets/ch07_images/image-20220323224757212.webp)
 
 **3、在Java 中，继承的关键字用的是“extends”，即子类不是父类的子集，而是对父类的“扩展”**
 
@@ -10247,7 +10247,7 @@ public class TestCat {
 
 **4、Java支持多层继承(继承体系)**
 
-<img src="assets/ch07_images/image-20220323225441417.jpg" alt="image-20220323225441417" style="zoom:67%;" />
+<img src="assets/ch07_images/image-20220323225441417.webp" alt="image-20220323225441417" style="zoom:67%;" />
 
 ```java
 class A{}
@@ -10272,9 +10272,9 @@ class E extends A{}
 
 **6、Java只支持单继承，不支持多重继承**
 
-<img src="assets/ch07_images/image-20220514162507692.jpg" alt="image-20220514162507692" style="zoom:67%;" />
+<img src="assets/ch07_images/image-20220514162507692.webp" alt="image-20220514162507692" style="zoom:67%;" />
 
-<img src="assets/ch07_images/image-20220523201405061.jpg" alt="image-20220523201405061" style="zoom:67%;" />
+<img src="assets/ch07_images/image-20220523201405061.webp" alt="image-20220523201405061" style="zoom:67%;" />
 
 ```java
 public class A{}
@@ -10289,7 +10289,7 @@ class C extends A,B...	//error
 
 **练习1：**定义一个学生类Student，它继承自Person类
 
-<img src="assets/ch07_images/image-20220323231804928.jpg" alt="image-20220323231804928" style="zoom:67%;" />
+<img src="assets/ch07_images/image-20220323231804928.webp" alt="image-20220323231804928" style="zoom:67%;" />
 
 **练习2：**
 
@@ -10308,7 +10308,7 @@ class C extends A,B...	//error
 
 **练习3：**根据下图实现类。在CylinderTest类中创建Cylinder类的对象，设置圆柱的底面半径和高，并输出圆柱的体积。
 
-<img src="assets/ch07_images/image-20220323231942361.jpg" alt="image-20220323231942361" style="zoom:67%;" />
+<img src="assets/ch07_images/image-20220323231942361.webp" alt="image-20220323231942361" style="zoom:67%;" />
 
 ### 3. 方法的重写（override/overwrite）
 
@@ -10479,25 +10479,25 @@ class Daughter extends Father{
 
 （1）外部类的权限修饰符如果缺省，本包使用没问题
 
-![image-20211230093627763](assets/ch07_images/image-20211230093627763.jpg)
+![image-20211230093627763](assets/ch07_images/image-20211230093627763.webp)
 
 （2）外部类的权限修饰符如果缺省，跨包使用有问题
 
-![image-20211230094236974](assets/ch07_images/image-20211230094236974.jpg)
+![image-20211230094236974](assets/ch07_images/image-20211230094236974.webp)
 
 **2、成员的权限修饰符问题**
 
 （1）本包下使用：成员的权限修饰符可以是public、protected、缺省
 
-![image-20211230095320646](assets/ch07_images/image-20211230095320646.jpg)
+![image-20211230095320646](assets/ch07_images/image-20211230095320646.webp)
 
 （2）跨包下使用：要求严格
 
-![image-20211230095817784](assets/ch07_images/image-20211230095817784.jpg)
+![image-20211230095817784](assets/ch07_images/image-20211230095817784.webp)
 
 （3）跨包使用时，如果类的权限修饰符缺省，成员权限修饰符>类的权限修饰符也没有意义
 
-![image-20211230100219840](assets/ch07_images/image-20211230100219840.jpg)
+![image-20211230100219840](assets/ch07_images/image-20211230100219840.webp)
 
 ### 5. 关键字：super
 
@@ -10631,7 +10631,7 @@ class Test{
 
 在阿里的开发规范等文档中都做出明确说明：
 
-![image-20211230110411580](assets/ch07_images/image-20211230110411580.jpg)
+![image-20211230110411580](assets/ch07_images/image-20211230110411580.webp)
 
 ##### 5.2.3 子类构造器中调用父类构造器
 
@@ -10768,7 +10768,7 @@ class Test05{
 }
 ```
 
-![image-20200227141228450](assets/ch07_images/image-20200227141228450.jpg)
+![image-20200227141228450](assets/ch07_images/image-20200227141228450.webp)
 
 情景举例6：
 
@@ -10795,7 +10795,7 @@ class Test06{
 }
 ```
 
-![image-20200303183542807](assets/ch07_images/image-20200303183542807.jpg)
+![image-20200303183542807](assets/ch07_images/image-20200303183542807.webp)
 
 情景举例7：
 
@@ -10889,7 +10889,7 @@ super：引用父类声明的成员
 
 1、写一个名为Account的类模拟账户。该类的属性和方法如下图所示。该类包括的属性：账号id，余额balance，年利率annualInterestRate；包含的方法：访问器方法（getter和setter方法），返回月利率的方法getMonthlyInterest()，取款方法withdraw()，存款方法deposit()。
 
-![image-20220324003430464](assets/ch07_images/image-20220324003430464.jpg)
+![image-20220324003430464](assets/ch07_images/image-20220324003430464.webp)
 
 写一个用户程序测试Account类。在用户程序中，创建一个账号为1122、余额为20000、年利率4.5%的Account对象。使用withdraw方法提款30000元，并打印余额。
 再使用withdraw方法提款2500元，使用deposit方法存款3000元，然后打印余额和月利率。
@@ -10897,7 +10897,7 @@ super：引用父类声明的成员
 提示：在提款方法withdraw中，需要判断用户余额是否能够满足提款数额的要求，如果不能，应给出提示。
 运行结果如图所示：
 
-![image-20220324003447242](assets/ch07_images/image-20220324003447242.jpg)
+![image-20220324003447242](assets/ch07_images/image-20220324003447242.webp)
 
 2、创建Account类的一个子类CheckAccount代表可透支的账户，该账户中定义一个属性overdraft代表可透支限额。在CheckAccount类中重写withdraw方法，其算法如下：
 
@@ -10930,19 +10930,19 @@ super：引用父类声明的成员
 
 运行结果如下图所示：
 
-![image-20220324003616767](assets/ch07_images/image-20220324003616767.jpg)
+![image-20220324003616767](assets/ch07_images/image-20220324003616767.webp)
 
 ### 6. 子类对象实例化全过程
 
-![image-20220324003713230](assets/ch07_images/image-20220324003713230.jpg)
+![image-20220324003713230](assets/ch07_images/image-20220324003713230.webp)
 
 ```java
 Dog dog = new Dog("小花","小红");
 ```
 
-<img src="assets/ch07_images/image-20220324003735416.jpg" alt="image-20220324003735416" style="zoom:80%;" />
+<img src="assets/ch07_images/image-20220324003735416.webp" alt="image-20220324003735416" style="zoom:80%;" />
 
-<img src="assets/ch07_images/image-20220324003813163.jpg" alt="image-20220324003813163" style="zoom:67%;" />
+<img src="assets/ch07_images/image-20220324003813163.webp" alt="image-20220324003813163" style="zoom:67%;" />
 
 举例：
 
@@ -11261,11 +11261,11 @@ e.getInfo();	//调用Student类的getInfo()方法
 
 举例：
 
-![image-20220324234208997](assets/ch07_images/image-20220324234208997.jpg)
+![image-20220324234208997](assets/ch07_images/image-20220324234208997.webp)
 
 前提：Person类中定义了welcome()方法，各个子类重写了welcome()。
 
-![image-20220324234214932](assets/ch07_images/image-20220324234214932.jpg)
+![image-20220324234214932](assets/ch07_images/image-20220324234214932.webp)
 
 执行：多态的情况下，调用对象的welcome()方法，实际执行的是子类重写的方法。
 
@@ -11313,7 +11313,7 @@ class Sub extends Base{
 
 但是，使用父类变量接收了子类对象之后，我们就`不能调用`子类拥有，而父类没有的方法了。这也是多态给我们带来的一点"小麻烦"。所以，想要调用子类特有的方法，必须做类型转换，使得`编译通过`。
 
-<img src="assets/ch07_images/image-20220324235337563.jpg" alt="image-20220324235337563" style="zoom:80%;" />
+<img src="assets/ch07_images/image-20220324235337563.webp" alt="image-20220324235337563" style="zoom:80%;" />
 
 * **向上转型**：当左边的变量的类型（父类） > 右边对象/变量的类型（子类），我们就称为向上转型
   * 此时，编译时按照左边变量的类型处理，就只能调用父类中有的变量和方法，不能调用子类特有的变量和方法了
@@ -11612,7 +11612,7 @@ class Graduate extends Student{
 
 **练习3**：定义三个类，父类GeometricObject代表几何形状，子类Circle代表圆形，MyRectangle代表矩形。定义一个测试类GeometricTest，编写equalsArea方法测试两个对象的面积是否相等（注意方法的参数类型，利用动态绑定技术），编写displayGeometricObject方法显示对象的面积（注意方法的参数类型，利用动态绑定技术）。
 
-<img src="assets/ch07_images/image-20220325000034619.jpg" alt="image-20220325000034619" style="zoom:67%;" />
+<img src="assets/ch07_images/image-20220325000034619.webp" alt="image-20220325000034619" style="zoom:67%;" />
 
 ### 8. Object 类的使用
 
@@ -11620,7 +11620,7 @@ class Graduate extends Student{
 
 类 `java.lang.Object`是类层次结构的根类，即所有其它类的父类。每个类都使用 `Object` 作为超类。
 
-<img src="assets/ch07_images/image-20220503104750655.jpg" alt="image-20220503104750655" style="zoom:67%;" />
+<img src="assets/ch07_images/image-20220503104750655.webp" alt="image-20220503104750655" style="zoom:67%;" />
 
 * Object类型的变量与除Object以外的任意引用数据类型的对象都存在多态引用
 
@@ -11675,7 +11675,7 @@ class Graduate extends Student{
 
 - 只能比较引用类型，Object类源码中equals()的作用与“==”相同：比较是否指向同一个对象。	 
 
-  <img src="assets/ch07_images/image-20220226101655293.jpg" alt="image-20220503104750655" style="zoom:67%;" />
+  <img src="assets/ch07_images/image-20220226101655293.webp" alt="image-20220503104750655" style="zoom:67%;" />
 
 - 格式:obj1.equals(obj2)
 
@@ -11871,9 +11871,9 @@ public class Person {
 
 **练习**：定义两个类，父类GeometricObject代表几何形状，子类Circle代表圆形。
 
-<img src="assets/ch07_images/image-20220325002959156.jpg" alt="image-20220325002959156" style="zoom:67%;" />
+<img src="assets/ch07_images/image-20220325002959156.webp" alt="image-20220325002959156" style="zoom:67%;" />
 
-<img src="assets/ch07_images/image-20220325002932102.jpg" alt="image-20220325002932102" style="zoom:67%;" />
+<img src="assets/ch07_images/image-20220325002932102.webp" alt="image-20220325002932102" style="zoom:67%;" />
 
 ##### 3、clone()
 
@@ -12045,7 +12045,7 @@ native method的存在并不会对其他类调用这些本地方法产生任何�
 
 ### 本章专题与脉络
 
-<img src="assets/ch08_images/第2阶段：Java面向对象编程-第08章.jpg" alt="第2阶段：Java面向对象编程-第08章" style="zoom: 40%;" />
+<img src="assets/ch08_images/第2阶段：Java面向对象编程-第08章.webp" alt="第2阶段：Java面向对象编程-第08章" style="zoom: 40%;" />
 
 ### 1. 关键字：static
 
@@ -12078,7 +12078,7 @@ Circle类中的变量radius是一个实例变量(instance variable)，它属于�
 
 当我们编写一个类时，其实就是在描述其对象的属性和行为，而并没有产生实质上的对象，只有通过new关键字才会产出对象，这时系统才会分配内存空间给对象，其方法才可以供外部调用。我们有时候希望无论是否产生了对象或无论产生了多少对象的情况下，`某些特定的数据在内存空间里只有一份`。例如，所有的中国人都有个国家名称，每一个中国人都共享这个国家名称，不必在每一个中国人的实例对象中都单独分配一个用于代表国家名称的变量。
 
-![image-20220325213629311](assets/ch08_images/image-20220325213629311.jpg)
+![image-20220325213629311](assets/ch08_images/image-20220325213629311.webp)
 
 
 
@@ -12164,7 +12164,7 @@ public class StaticTest {
 
 对应的内存结构：（以经典的JDK6内存解析为例，此时静态变量存储在方法区）
 
-<img src="assets/ch08_images/image-20220514183814514.jpg" alt="image-20220514183814514" style="zoom:67%;" />
+<img src="assets/ch08_images/image-20220514183814514.webp" alt="image-20220514183814514" style="zoom:67%;" />
 
 举例2：
 
@@ -12247,7 +12247,7 @@ public class TestStaticVariable {
 
 ##### 1.3.4 内存解析
 
-![image-20220104100145059](assets/ch08_images/image-20220104100145059.jpg)
+![image-20220104100145059](assets/ch08_images/image-20220104100145059.webp)
 
 #### 1.4 静态方法
 
@@ -12352,7 +12352,7 @@ class Demo{
 
 经典的设计模式共有23种。每个设计模式均是特定环境下特定问题的处理方法。
 
-<img src="assets/ch08_images/image-20220520174508815.jpg" alt="image-20220520174508815" style="zoom: 80%;" />
+<img src="assets/ch08_images/image-20220520174508815.webp" alt="image-20220520174508815" style="zoom: 80%;" />
 
 > 简单工厂模式并不是23中经典模式的一种，是其中工厂方法模式的简化版
 
@@ -12430,7 +12430,7 @@ class Singleton {
 
 举例：
 
-<img src="assets/ch08_images/image-20220325222541203.jpg" alt="image-20220325222541203" style="zoom:67%;" />
+<img src="assets/ch08_images/image-20220325222541203.webp" alt="image-20220325222541203" style="zoom:67%;" />
 
 **应用场景**
 
@@ -12475,19 +12475,19 @@ args[2] = Shkstart
 
 ```
 
-![image-20220325223215924](assets/ch08_images/image-20220325223215924.jpg)
+![image-20220325223215924](assets/ch08_images/image-20220325223215924.webp)
 
 IDEA工具：
 
 （1）配置运行参数
 
-<img src="assets/ch08_images/image-20211228101828718.jpg" alt="image-20211228101828718" style="zoom: 80%;" />
+<img src="assets/ch08_images/image-20211228101828718.webp" alt="image-20211228101828718" style="zoom: 80%;" />
 
-<img src="assets/ch08_images/image-20211228102022216.jpg" alt="image-20211228102022216" style="zoom:67%;" />
+<img src="assets/ch08_images/image-20211228102022216.webp" alt="image-20211228102022216" style="zoom:67%;" />
 
 （2）运行程序
 
-<img src="assets/ch08_images/image-20211228102059327.jpg" alt="image-20211228102059327" style="zoom: 80%;" />
+<img src="assets/ch08_images/image-20211228102059327.webp" alt="image-20211228102059327" style="zoom: 80%;" />
 
 笔试题：
 
@@ -12783,7 +12783,7 @@ static{
 
 #### 4.4 小结：实例变量赋值顺序
 
-<img src="assets/ch08_images/image-20220325230208941.jpg" alt="image-20220325230208941" style="zoom:67%;" />
+<img src="assets/ch08_images/image-20220325230208941.webp" alt="image-20220325230208941" style="zoom:67%;" />
 
 #### 4.5 练习
 
@@ -13078,7 +13078,7 @@ class Other {
 
 随着继承层次中一个个新子类的定义，类变得越来越具体，而父类则更一般，更通用。类的设计应该保证父类和子类能够共享特征。有时将一个父类设计得非常抽象，以至于它没有具体的实例，这样的类叫做抽象类。
 
-![image-20220325231608838](assets/ch08_images/image-20220325231608838.jpg)
+![image-20220325231608838](assets/ch08_images/image-20220325231608838.webp)
 
 举例2：
 
@@ -13108,7 +13108,7 @@ class Other {
 
 > 注意：抽象方法没有方法体
 
-![image-20220517204707255](assets/ch08_images/image-20220517204707255.jpg)
+![image-20220517204707255](assets/ch08_images/image-20220517204707255.webp)
 
 代码举例：
 
@@ -13168,7 +13168,7 @@ public class CatTest {
 
 #### 6.5 应用举例1
 
-![image-20220325232847872](assets/ch08_images/image-20220325232847872.jpg)
+![image-20220325232847872](assets/ch08_images/image-20220325232847872.webp)
 
 在航运公司系统中，Vehicle类需要定义两个方法分别`计算运输工具的燃料效率`和`行驶距离`。
 
@@ -13205,11 +13205,11 @@ public class RiverBarge extends Vehicle{
 
 **类比举例：**英语六级模板
 
-<img src="assets/ch08_images/image-20220503145003315.jpg" alt="image-20220503145003315" style="zoom: 80%;" />
+<img src="assets/ch08_images/image-20220503145003315.webp" alt="image-20220503145003315" style="zoom: 80%;" />
 
 制作月饼的模板：
 
-<img src="assets/ch08_images/image-20220517205013997.jpg" alt="image-20220517205013997" style="zoom: 50%;" />
+<img src="assets/ch08_images/image-20220517205013997.webp" alt="image-20220517205013997" style="zoom: 50%;" />
 
 举例1：
 
@@ -13320,7 +13320,7 @@ class ManageMoney extends BankTemplateMethod {
 
 有一家软件外包公司，可以外派开发人员，该公司有两个角色：普通开发人员Developer和项目经理Manager。他们的关系如下图：
 
-![image-20220504164925878](assets/ch08_images/image-20220504164925878.jpg)
+![image-20220504164925878](assets/ch08_images/image-20220504164925878.webp)
 
 普通开发人员的工作内容是“开发项目”，项目经理的工作内容是“项目管理”。对外的报价是普通开发人员每天500,元，超过60天每天400元。项目经理每天800元，超过60天每天700元。
 
@@ -13400,7 +13400,7 @@ c1[1]=new Officer("Bob","0002",19,90.5);
 
 其实，不管是电脑上的USB插口，还是其他设备上的USB插口都只是`遵循了USB规范`的一种具体设备而已。
 
-![bbcc80f541000c71b81650cfaa770c86](assets/ch08_images/bbcc80f541000c71b81650cfaa770c86.jpg)
+![bbcc80f541000c71b81650cfaa770c86](assets/ch08_images/bbcc80f541000c71b81650cfaa770c86.webp)
 
 只要设备遵循USB规范的，那么就可以与电脑互联，并正常通信。至于这个设备、电脑是哪个厂家制造的，内部是如何实现的，我们都无需关心。
 
@@ -13412,11 +13412,11 @@ Java的软件系统会有很多模块组成，那么各个模块之间也应该�
 
 * 例如：电脑都预留了可以插入USB设备的USB接口，USB接口具备基本的数据传输的开启功能和关闭功能。你能不能用USB进行连接，或是否具备USB通信功能，就看你能否遵循USB接口规范
 
-<img src="assets/ch08_images/image-20220517211517846.jpg" alt="image-20220517211517846" style="zoom:67%;" />
+<img src="assets/ch08_images/image-20220517211517846.webp" alt="image-20220517211517846" style="zoom:67%;" />
 
 - 例如：Java程序是否能够连接使用某种数据库产品，那么要看该数据库产品能否实现Java设计的JDBC规范
 
-<img src="assets/ch08_images/image-20220325235434103.jpg" alt="image-20220325235434103" style="zoom:67%;" />
+<img src="assets/ch08_images/image-20220325235434103.webp" alt="image-20220325235434103" style="zoom:67%;" />
 
 
 
@@ -13513,7 +13513,7 @@ public interface USB3{
 }
 ```
 
-<img src="assets/ch08_images/image-20220514163212312.jpg" alt="image-20220514163212312" style="zoom:80%;" />
+<img src="assets/ch08_images/image-20220514163212312.webp" alt="image-20220514163212312" style="zoom:80%;" />
 
 注意：
 
@@ -13594,11 +13594,11 @@ public class InterfaceDemo{
 
 举例：
 
-<img src="assets/ch08_images/image-20220514163311418.jpg" alt="image-20220514163311418" style="zoom:80%;" />
+<img src="assets/ch08_images/image-20220514163311418.webp" alt="image-20220514163311418" style="zoom:80%;" />
 
-<img src="assets/ch08_images/image-20220325235321778.jpg" alt="image-20220325235321778" style="zoom:67%;" />
+<img src="assets/ch08_images/image-20220325235321778.webp" alt="image-20220325235321778" style="zoom:67%;" />
 
-![1562216188519](assets/ch08_images/1562216188519.jpg)
+![1562216188519](assets/ch08_images/1562216188519.webp)
 
 定义多个接口：
 
@@ -13895,7 +13895,7 @@ public class TestSon {
 
 - 当一个类同时实现了多个父接口，而多个父接口中包含方法签名相同的默认方法时，怎么办呢？
 
-![](assets/ch08_images/选择困难.jpg)
+![](assets/ch08_images/选择困难.webp)
 
 无论你多难抉择，最终都是要做出选择的。
 
@@ -14086,7 +14086,7 @@ public class SubClass extends SuperClass implements SuperInterface,MotherInterfa
 
 #### 7.7 接口与抽象类之间的对比
 
-![image-20220328002053452](assets/ch08_images/image-20220328002053452.jpg)
+![image-20220328002053452](assets/ch08_images/image-20220328002053452.webp)
 
 > 在开发中，常看到一个类不是去继承一个已经实现好的类，而是要么继承抽象类，要么实现接口。
 
@@ -14170,11 +14170,11 @@ interface CompareObject{
 
 阿里的一个工程师，声明的属性和方法如下：
 
-![image-20220504172547709](assets/ch08_images/image-20220504172547709.jpg)
+![image-20220504172547709](assets/ch08_images/image-20220504172547709.webp)
 
 其中，有一个乘坐交通工具的方法takingVehicle()，在此方法中调用交通工具的run()。为了出行方便，他买了一辆捷安特自行车、一辆雅迪电动车和一辆奔驰轿车。这里涉及到的相关类及接口关系如下：
 
-![image-20220504172918861](assets/ch08_images/image-20220504172918861.jpg)
+![image-20220504172918861](assets/ch08_images/image-20220504172918861.webp)
 
 其中，电动车增加动力的方式是充电，轿车增加动力的方式是加油。在具体交通工具的run()中调用其所在类的相关属性信息。
 
@@ -14200,7 +14200,7 @@ interface CompareObject{
 
 根据内部类声明的位置（如同变量的分类），我们可以分为：
 
-![image-20221124223912529](assets/ch08_images/image-20221124223912529.jpg)
+![image-20221124223912529](assets/ch08_images/image-20221124223912529.webp)
 
 #### 8.2 成员内部类
 
@@ -15269,9 +15269,9 @@ public class Student {
 
 **白盒测试：**需要写代码的。关注程序具体的执行流程。
 
-<img src="assets/ch08_images/image-20220511181800694.jpg" alt="image-20220511181800694" style="zoom: 50%;" />
+<img src="assets/ch08_images/image-20220511181800694.webp" alt="image-20220511181800694" style="zoom: 50%;" />
 
-![image-20220524102038600](assets/ch08_images/image-20220524102038600.jpg)
+![image-20220524102038600](assets/ch08_images/image-20220524102038600.webp)
 
 ##### 10.6.2 JUnit单元测试介绍
 
@@ -15285,33 +15285,33 @@ JUnit 是由 Erich Gamma 和 Kent Beck 编写的一个测试框架（regression 
 
 第1步：在项目中File-Project Structure中操作：添加Libraries库
 
-<img src="assets/ch08_images/image-20211228180938922.jpg" alt="image-20211228180938922" style="zoom:80%;" />
+<img src="assets/ch08_images/image-20211228180938922.webp" alt="image-20211228180938922" style="zoom:80%;" />
 
-![image-20221002195547325](assets/ch08_images/image-20221002195547325.jpg)
+![image-20221002195547325](assets/ch08_images/image-20221002195547325.webp)
 
 其中，junit-libs包内容如下：
 
-![image-20220813005206452](assets/ch08_images/image-20220813005206452.jpg)
+![image-20220813005206452](assets/ch08_images/image-20220813005206452.webp)
 
 第2步：选择要在哪些module中应用JUnit库
 
-![image-20220813005511062](assets/ch08_images/image-20220813005511062.jpg)
+![image-20220813005511062](assets/ch08_images/image-20220813005511062.webp)
 
 第3步：检查是否应用成功
 
-![image-20220813005729233](assets/ch08_images/image-20220813005729233.jpg)
+![image-20220813005729233](assets/ch08_images/image-20220813005729233.webp)
 
 **注意Scope：选择Compile，否则编译时，无法使用JUnit。**
 
 第4步：下次如果有新的模块要使用该libs库，这样操作即可
 
-![image-20220813005944022](assets/ch08_images/image-20220813005944022.jpg)
+![image-20220813005944022](assets/ch08_images/image-20220813005944022.webp)
 
-![image-20220813010018152](assets/ch08_images/image-20220813010018152.jpg)
+![image-20220813010018152](assets/ch08_images/image-20220813010018152.webp)
 
-![image-20220813010055217](assets/ch08_images/image-20220813010055217.jpg)
+![image-20220813010055217](assets/ch08_images/image-20220813010055217.webp)
 
-![image-20220813010124381](assets/ch08_images/image-20220813010124381.jpg)
+![image-20220813010124381](assets/ch08_images/image-20220813010124381.webp)
 
 ##### 10.6.4 编写和运行@Test单元测试方法
 
@@ -15343,7 +15343,7 @@ public class TestJUnit {
 }
 ```
 
-![image-20220106152412245](assets/ch08_images/image-20220106152412245.jpg)
+![image-20220106152412245](assets/ch08_images/image-20220106152412245.webp)
 
 ##### 10.6.5 设置执行JUnit用例时支持控制台输入
 
@@ -15359,9 +15359,9 @@ public class TestJUnit {
 
 **2. 配置文件位置：**
 
-![image-20220813011625546](assets/ch08_images/image-20220813011625546.jpg)
+![image-20220813011625546](assets/ch08_images/image-20220813011625546.webp)
 
-![image-20220813011642180](assets/ch08_images/image-20220813011642180.jpg)
+![image-20220813011642180](assets/ch08_images/image-20220813011642180.webp)
 
 添加完成之后，重启IDEA即可。
 
@@ -15375,7 +15375,7 @@ public class TestJUnit {
 
 选中自定义的模板组，点击”+”（1.Live Template）来定义模板。
 
-![image-20211229100040505](assets/ch08_images/image-20211229100040505.jpg)
+![image-20211229100040505](assets/ch08_images/image-20211229100040505.webp)
 
 ### 11. 包装类
 
@@ -15405,7 +15405,7 @@ Map<K,V>
 
 Java针对八种基本数据类型定义了相应的引用类型：包装类（封装类）。有了类的特点，就可以调用类中的方法，Java才是真正的面向对象。
 
-<img src="assets/ch08_images/image-20220329001912486.jpg" alt="image-20220329001912486" style="zoom:80%;" />
+<img src="assets/ch08_images/image-20220329001912486.webp" alt="image-20220329001912486" style="zoom:80%;" />
 
 封装以后的，内存结构对比：
 
@@ -15416,7 +15416,7 @@ public static void main(String[] args){
 }
 ```
 
-<img src="assets/ch08_images/image-20220514163725830.jpg" alt="image-20220514163725830" style="zoom:80%;" />
+<img src="assets/ch08_images/image-20220514163725830.webp" alt="image-20220514163725830" style="zoom:80%;" />
 
 #### 11.3 自定义包装类
 
@@ -15541,7 +15541,7 @@ int i = new Integer(“12”);
 
 其他方式小结：
 
-![image-20220813012801907](assets/ch08_images/image-20220813012801907.jpg)
+![image-20220813012801907](assets/ch08_images/image-20220813012801907.webp)
 
 #### 11.6 包装类的其它API
 
@@ -15746,7 +15746,7 @@ public void method1() {
 
 ### 本章专题与脉络
 
-<img src="assets/ch09_images/第3阶段：Java高级应用-第09章.jpg" alt="第3阶段：Java高级应用-第09章" style="zoom: 50%;" />
+<img src="assets/ch09_images/第3阶段：Java高级应用-第09章.webp" alt="第3阶段：Java高级应用-第09章" style="zoom: 50%;" />
 
 ### 1. 异常概述
 
@@ -15754,11 +15754,11 @@ public void method1() {
 
 男主角小明每天开车上班，正常车程1小时。但是，不出意外的话，可能会出现意外。
 
-![image-20220814203918560](assets/ch09_images/image-20220814203918560.jpg)
+![image-20220814203918560](assets/ch09_images/image-20220814203918560.webp)
 
 出现意外，即为异常情况。我们会做相应的处理。如果不处理，到不了公司。处理完了，就可以正常开车去公司。
 
-<img src="assets/ch09_images/image-20220520210320301.jpg" alt="image-20220520210320301" style="zoom:70%;" />
+<img src="assets/ch09_images/image-20220520210320301.webp" alt="image-20220520210320301" style="zoom:70%;" />
 
 #### 1.2 什么是程序的异常
 
@@ -15805,7 +15805,7 @@ public class ExceptionDemo {
 
 上述程序执行过程图解：
 
-![](assets/ch09_images/异常产生过程.jpg)
+![](assets/ch09_images/异常产生过程.webp)
 
 #### 1.4 如何对待异常
 
@@ -15845,13 +15845,13 @@ Throwable可分为两类：Error和Exception。分别对应着`java.lang.Error`�
 > 1. 无论是Error还是Exception，还有很多子类，异常的类型非常丰富。当代码运行出现异常时，特别是我们不熟悉的异常时，不要紧张，把异常的简单类名，拷贝到API中去查去认识它即可。
 > 2. 我们本章讲的异常处理，其实针对的就是Exception。
 
-<img src="assets/ch09_images/image-20220511161910951.jpg" alt="image-20220511161910951" style="zoom:67%;" />
+<img src="assets/ch09_images/image-20220511161910951.webp" alt="image-20220511161910951" style="zoom:67%;" />
 
 #### 2.3 编译时异常和运行时异常
 
 Java程序的执行分为编译时过程和运行时过程。有的错误只有在`运行时`才会发生。比如：除数为0，数组下标越界等。
 
-<img src="assets/ch09_images/image-20220330002449526.jpg" alt="image-20220330002449526" style="zoom:80%;" />
+<img src="assets/ch09_images/image-20220330002449526.webp" alt="image-20220330002449526" style="zoom:80%;" />
 
 因此，根据异常可能出现的阶段，可以将异常分为：
 
@@ -15859,7 +15859,7 @@ Java程序的执行分为编译时过程和运行时过程。有的错误只有�
 * **运行时期异常**（即runtime异常、unchecked异常、非受检异常）：在代码编译阶段，编译器完全不做任何检查，无论该异常是否会发生，编译器都不给出任何提示。只有等代码运行起来并确实发生了xx异常，它才能被发现。通常，这类异常是由程序员的代码编写不当引起的，只要稍加判断，或者细心检查就可以避免。
   * **java.lang.RuntimeException**类及它的子类都是运行时异常。比如：ArrayIndexOutOfBoundsException数组下标越界异常，ClassCastException类型转换异常。
 
-![1562771528807](assets/ch09_images/1562771528807.jpg)
+![1562771528807](assets/ch09_images/1562771528807.webp)
 
 ### 3. 常见的错误和异常
 
@@ -16027,7 +16027,7 @@ Java采用的异常处理机制，是`将异常处理的程序代码集中在一
 
 方式二：throws + 异常类型
 
-![image-20220331111051496](assets/ch09_images/image-20220331111051496.jpg)
+![image-20220331111051496](assets/ch09_images/image-20220331111051496.webp)
 
 #### 4.2 方式1：捕获异常（try-catch-finally）
 
@@ -16065,7 +16065,7 @@ finally{
 - 如果在程序运行时，try块中的代码发生了异常，根据异常对象的类型，将从上到下选择第一个匹配的catch分支执行。此时try中发生异常的语句下面的代码将不执行，而整个try...catch之后的代码可以继续运行。
 - 如果在程序运行时，try块中的代码发生了异常，但是所有catch分支都无法匹配（捕获）这个异常，那么JVM将会终止当前方法的执行，并把异常对象“抛”给调用者。如果调用者不处理，程序就挂了。
 
-<img src="assets/ch09_images/image-20220503122722605.jpg" alt="image-20220503122722605" style="zoom:67%;" />
+<img src="assets/ch09_images/image-20220503122722605.webp" alt="image-20220503122722605" style="zoom:67%;" />
 
 **2、try**
 
@@ -16089,7 +16089,7 @@ finally{
 
   - `public void printStackTrace()`：打印异常的跟踪栈信息并输出到控制台。包含了异常的类型、异常的原因、还包括异常出现的位置，在开发和调试阶段，都得使用printStackTrace()。
 
-  <img src="assets/ch09_images/image-20220331180736381.jpg" alt="image-20220331180736381" style="zoom:80%;" />
+  <img src="assets/ch09_images/image-20220331180736381.webp" alt="image-20220331180736381" style="zoom:80%;" />
 
 ##### 4.2.2 使用举例
 
@@ -16163,7 +16163,7 @@ public void test1(){
 
 ##### 4.2.3 finally使用及举例
 
-<img src="assets/ch09_images/image-20220331215517077.jpg" alt="image-20220331215517077" style="zoom: 80%;" />
+<img src="assets/ch09_images/image-20220331215517077.webp" alt="image-20220331215517077" style="zoom: 80%;" />
 
 - 因为异常会引发程序跳转，从而会导致有些语句执行不到。而程序中有一些特定的代码无论异常是否发生，都`需要执行`。例如，数据库连接、输入流输出流、Socket连接、Lock锁的关闭等，这样的代码通常就会放到finally块中。所以，我们通常将一定要被执行的代码声明在finally中。
 
@@ -16345,7 +16345,7 @@ public class ExceptionTest {
 
 - 如果在编写方法体的代码时，某句代码可能发生某个`编译时异常`，不处理编译不通过，但是在当前方法体中可能`不适合处理`或`无法给出合理的处理方式`，则此方法应`显示地`声明抛出异常，表明该方法将不对这些异常进行处理，而由该方法的调用者负责处理。
 
-  <img src="assets/ch09_images/image-20220331112000671.jpg" alt="image-20220331112000671" style="zoom:67%;" />
+  <img src="assets/ch09_images/image-20220331112000671.webp" alt="image-20220331112000671" style="zoom:67%;" />
 
 - 具体方式：在方法声明中用`throws语句`可以声明抛出异常的列表，throws后面的异常类型可以是方法中产生的异常类型，也可以是它的父类。
 
@@ -16806,7 +16806,7 @@ public class ReturnExceptionDemo {
 
 #### 8.1 小结：异常处理5个关键字
 
-<img src="assets/ch09_images/image-20220330003738109.jpg" alt="image-20220330003738109" style="zoom: 67%;" />
+<img src="assets/ch09_images/image-20220330003738109.webp" alt="image-20220330003738109" style="zoom: 67%;" />
 
 > 类比：上游排污，下游治污
 >
@@ -16823,9 +16823,9 @@ public class ReturnExceptionDemo {
 
 **歌词：**
 
-<img src="assets/ch09_images/image-20220511163035280.jpg" alt="image-20220511163035280" style="zoom:67%;" />
+<img src="assets/ch09_images/image-20220511163035280.webp" alt="image-20220511163035280" style="zoom:67%;" />
 
-![try](assets/ch09_images/try.jpg)
+![try](assets/ch09_images/try.webp)
 
 
 
@@ -16844,7 +16844,7 @@ public class ReturnExceptionDemo {
 
 ### 本章专题与脉络
 
-<img src="assets/ch10_images/第3阶段：Java高级应用-第10章.jpg" alt="第3阶段：Java高级应用-第10章" style="zoom: 50%;" />
+<img src="assets/ch10_images/第3阶段：Java高级应用-第10章.webp" alt="第3阶段：Java高级应用-第10章" style="zoom: 50%;" />
 
 ***
 
@@ -16869,14 +16869,14 @@ public class ReturnExceptionDemo {
 
   - 一个进程同一时间若`并行`执行多个线程，就是支持多线程的。
 
-    <img src="assets/ch10_images/image-20220331233204504.jpg" alt="image-20220331233204504" style="zoom:67%;" />
+    <img src="assets/ch10_images/image-20220331233204504.webp" alt="image-20220331233204504" style="zoom:67%;" />
 
   - 线程作为`CPU调度和执行的最小单位`。
 
   - 一个进程中的多个线程共享相同的内存单元，它们从同一个堆中分配对象，可以访问相同的变量和对象。这就使得线程间通信更简便、高效。但多个线程操作共享的系统资源可能就会带来`安全的隐患`。
   - 下图中，红框的蓝色区域为线程独享，黄色区域为线程共享。
 
-  <img src="assets/ch10_images/image-20220514175737426.jpg" alt="image-20220514175737426" style="zoom:80%;" />
+  <img src="assets/ch10_images/image-20220514175737426.webp" alt="image-20220514175737426" style="zoom:80%;" />
 
   > 注意：
   >
@@ -16889,15 +16889,15 @@ public class ReturnExceptionDemo {
 
 1、每个应用程序的运行都是一个进程
 
-<img src="assets/ch10_images/进程概念.jpg" style="zoom:80%;" />
+<img src="assets/ch10_images/进程概念.webp" style="zoom:80%;" />
 
 2、一个应用程序的多次运行，就是多个进程
 
-<img src="assets/ch10_images/1563267431480.jpg" alt="1563267431480" style="zoom:80%;" />
+<img src="assets/ch10_images/1563267431480.webp" alt="1563267431480" style="zoom:80%;" />
 
 3、一个进程中包含多个线程
 
-<img src="assets/ch10_images/1563270525077.jpg" alt="1563270525077" style="zoom:80%;" />
+<img src="assets/ch10_images/1563270525077.webp" alt="1563270525077" style="zoom:80%;" />
 
 #### 1.3 线程调度
 
@@ -16909,7 +16909,7 @@ public class ReturnExceptionDemo {
 
   让`优先级高`的线程以`较大的概率`优先使用 CPU。如果线程的优先级相同，那么会随机选择一个(线程随机性)，Java使用的为抢占式调度。
 
-  ![抢占式调度](assets/ch10_images/抢占式调度.jpg)
+  ![抢占式调度](assets/ch10_images/抢占式调度.webp)
 
 #### 1.4 多线程程序的优点
 
@@ -16940,15 +16940,15 @@ public class ReturnExceptionDemo {
 
 * **并行（parallel）**：指两个或多个事件在`同一时刻`发生（同时发生）。指在同一时刻，有`多条指令`在`多个CPU`上`同时`执行。比如：多个人同时做不同的事。
 
-  ![image-20220401000804242](assets/ch10_images/image-20220401000804242.jpg)
+  ![image-20220401000804242](assets/ch10_images/image-20220401000804242.webp)
 
-  <img src="assets/ch10_images/image-20220513181758585.jpg" alt="image-20220513181758585" style="zoom: 50%;" />
+  <img src="assets/ch10_images/image-20220513181758585.webp" alt="image-20220513181758585" style="zoom: 50%;" />
 
 * **并发（concurrency）**：指两个或多个事件在`同一个时间段内`发生。即在一段时间内，有`多条指令`在`单个CPU`上`快速轮换、交替`执行，使得在宏观上具有多个进程同时执行的效果。
 
-  ![image-20220401000515678](assets/ch10_images/image-20220401000515678.jpg)
+  ![image-20220401000515678](assets/ch10_images/image-20220401000515678.webp)
   
-  <img src="assets/ch10_images/image-20220513181815978.jpg" alt="image-20220513181815978" style="zoom:50%;" />
+  <img src="assets/ch10_images/image-20220513181815978.webp" alt="image-20220513181815978" style="zoom:50%;" />
 
 
 在操作系统中，启动了多个程序，`并发`指的是在一段时间内宏观上有多个程序同时运行，这在单核 CPU 系统中，每一时刻只能有一个程序执行，即微观上这些程序是分时的交替运行，只不过是给人的感觉是同时运行，那是因为分时交替运行的时间是非常短的。
@@ -17023,7 +17023,7 @@ public class TestMyThread {
 
 ~~~
 
-<img src="assets/ch10_images/image-20220401221215860.jpg" alt="image-20220401221215860" style="zoom:67%;" />
+<img src="assets/ch10_images/image-20220401221215860.webp" alt="image-20220401221215860" style="zoom:67%;" />
 
 > 注意：
 >
@@ -17091,7 +17091,7 @@ Runnable接口来实现多线程，最终还是通过Thread的对象的API来控
 说明：Runnable对象仅仅作为Thread对象的target，Runnable实现类里包含的run()方法仅作为线程执行体。
 而实际的线程对象依然是Thread实例，只是该Thread线程负责执行其target的run()方法。
 
-<img src="assets/ch10_images/image-20220401222212377.jpg" alt="image-20220401222212377"  />
+<img src="assets/ch10_images/image-20220401222212377.webp" alt="image-20220401222212377"  />
 
 #### 2.4 变形写法
 
@@ -17262,7 +17262,7 @@ public class TestThreadStateChange {
 
 生产实践中的趣事：
 
-![](assets/ch10_images/这是要闹哪样.jpg)
+![](assets/ch10_images/这是要闹哪样.webp)
 
 #### 3.5 守护线程（了解）
 
@@ -17309,7 +17309,7 @@ Java语言使用Thread类及其子类的对象来表示线程，在它的一个�
 
 线程的生命周期有五种状态：新建（New）、就绪（Runnable）、运行（Running）、阻塞（Blocked）、死亡（Dead）。CPU需要在多条线程之间切换，于是线程状态会多次在运行、阻塞、就绪之间切换。
 
-<img src="assets/ch10_images/image-20220401002307038.jpg" alt="image-20220401002307038" style="zoom: 67%;" />
+<img src="assets/ch10_images/image-20220401002307038.webp" alt="image-20220401002307038" style="zoom: 67%;" />
 
 
 
@@ -17395,11 +17395,11 @@ public enum State {
 
 说明：当从WAITING或TIMED_WAITING恢复到Runnable状态时，如果发现当前线程没有得到监视器锁，那么会立刻转入BLOCKED状态。
 
-![image-20220524203355448](assets/ch10_images/image-20220524203355448.jpg)
+![image-20220524203355448](assets/ch10_images/image-20220524203355448.webp)
 
 或
 
-![线程的生命周期Thread.State](assets/ch10_images/线程的生命周期Thread.State.jpg)
+![线程的生命周期Thread.State](assets/ch10_images/线程的生命周期Thread.State.webp)
 
 > 我们在翻阅API的时候会发现Timed Waiting（计时等待） 与 Waiting（无限等待） 状态联系还是很紧密的，
 > 比如Waiting（无限等待） 状态中wait方法是空参的，而timed waiting（计时等待） 中wait方法是带参的。
@@ -17450,7 +17450,7 @@ class SubThread extends Thread {
 
 命令行演示：
 
-![image-20220524195035355](assets/ch10_images/image-20220524195035355.jpg)
+![image-20220524195035355](assets/ch10_images/image-20220524195035355.webp)
 
 ### 5. 线程安全问题及解决
 
@@ -17458,7 +17458,7 @@ class SubThread extends Thread {
 
 举例：
 
-<img src="assets/ch10_images/image-20220401233218326.jpg" alt="image-20220401233218326" style="zoom:67%;" />
+<img src="assets/ch10_images/image-20220401233218326.webp" alt="image-20220401233218326" style="zoom:67%;" />
 
 
 
@@ -17825,7 +17825,7 @@ public class SaleTicketDemo5 {
 要解决上述多线程并发访问一个资源的安全性问题:也就是解决重复票与不存在票问题，Java中提供了同步机制
 (synchronized)来解决。
 
-![1563372934332](assets/ch10_images/1563372934332.jpg)
+![1563372934332](assets/ch10_images/1563372934332.webp)
 
 根据案例简述：
 
@@ -18315,7 +18315,7 @@ public class TestLazy {
 
 不同的线程分别占用对方需要的同步资源不放弃，都在等待对方放弃自己需要的同步资源，就形成了线程的死锁。
 
-![thread-lock](assets/ch10_images/thread-lock.jpg)
+![thread-lock](assets/ch10_images/thread-lock.webp)
 
 > 【小故事】
 >
@@ -18929,7 +18929,7 @@ public class CallableTest {
 
 **思路：**提前创建好多个线程，放入线程池中，使用时直接获取，使用完放回池中。可以避免频繁创建销毁、实现重复利用。类似生活中的公共交通工具。
 
-![线程池的理解](assets/ch10_images/线程池的理解.jpg)
+![线程池的理解](assets/ch10_images/线程池的理解.webp)
 
 **好处：**
 
@@ -19041,7 +19041,7 @@ public class ThreadPoolTest {
 
 ### 本章专题与脉络
 
-<img src="assets/ch11_images/第3阶段：Java高级应用-第11章.jpg" alt="第3阶段：Java高级应用-第11章" style="zoom:50%;" />
+<img src="assets/ch11_images/第3阶段：Java高级应用-第11章.webp" alt="第3阶段：Java高级应用-第11章" style="zoom:50%;" />
 
 ### 1. 字符串相关类之不可变字符序列：String
 
@@ -19055,7 +19055,7 @@ public class ThreadPoolTest {
 
 - String对象的字符内容是存储在一个字符数组value[]中的。`"abc"` 等效于 `char[] data={'h','e','l','l','o'}`。
 
-  <img src="assets/ch11_images/image-20220514184404024.jpg" alt="image-20220514184404024" style="zoom:80%;" />
+  <img src="assets/ch11_images/image-20220514184404024.webp" alt="image-20220514184404024" style="zoom:80%;" />
 
   ```java
   //jdk8中的String源码：
@@ -19100,7 +19100,7 @@ JDK6中，字符串常量池在方法区。JDK7开始，就移到堆空间，直
 
 举例内存结构分配：
 
-![image-20220405160036240](assets/ch11_images/1562945799274.jpg)
+![image-20220405160036240](assets/ch11_images/1562945799274.webp)
 
 ##### 1.2.2 练习类型1：拼接
 
@@ -19113,11 +19113,11 @@ System.out.println(s1 == s2);
 
 对应内存结构为：（以下内存结构以`JDK6为例`绘制）：
 
-<img src="assets/ch11_images/image-20220405152839525.jpg" alt="image-20220405152839525" style="zoom:67%;" />
+<img src="assets/ch11_images/image-20220405152839525.webp" alt="image-20220405152839525" style="zoom:67%;" />
 
 进一步：
 
-<img src="assets/ch11_images/image-20220405152941599.jpg" alt="image-20220405152941599" style="zoom:67%;" />
+<img src="assets/ch11_images/image-20220405152941599.webp" alt="image-20220405152941599" style="zoom:67%;" />
 
 ```java
 Person p1 = new Person();
@@ -19131,13 +19131,13 @@ System.out.println(p1.name == p2.name); //
 System.out.println(p1.name == "Tom"); //
 ```
 
-<img src="assets/ch11_images/image-20220405153027693.jpg" alt="image-20220405153027693" style="zoom:67%;" />
+<img src="assets/ch11_images/image-20220405153027693.webp" alt="image-20220405153027693" style="zoom:67%;" />
 
 ##### 1.2.3 练习类型2：new
 
 String str1 = “abc”; 与 String str2 = new String(“abc”);的区别？
 
-<img src="assets/ch11_images/image-20220405160149200.jpg" alt="image-20220405160149200" style="zoom:67%;" />
+<img src="assets/ch11_images/image-20220405160149200.webp" alt="image-20220405160149200" style="zoom:67%;" />
 
 str2 首先指向堆中的一个字符串对象，然后堆中字符串的value数组指向常量池中常量对象的value数组。
 
@@ -19159,7 +19159,7 @@ System.out.println(s1 == s4);//false
 System.out.println(s3 == s4);//false
 ```
 
-<img src="assets/ch11_images/image-20220405160321172.jpg" alt="image-20220405160321172" style="zoom:67%;" />
+<img src="assets/ch11_images/image-20220405160321172.webp" alt="image-20220405160321172" style="zoom:67%;" />
 
 练习：String str2 = new String("hello"); 在内存中创建了几个对象？
 
@@ -19863,17 +19863,17 @@ public void test1(){
   buffer.append("数学"); 
   ```
 
-  ![image-20220405221714261](assets/ch11_images/image-20220405221714261.jpg)
+  ![image-20220405221714261](assets/ch11_images/image-20220405221714261.webp)
 
-<img src="assets/ch11_images/image-20220228153030902.jpg" alt="image-20220228153030902" style="zoom:80%;" />
+<img src="assets/ch11_images/image-20220228153030902.webp" alt="image-20220228153030902" style="zoom:80%;" />
 
 
 - 继承结构：
 
 
- ![image-20220405174233055](assets/ch11_images/image-20220405174233055.jpg)
+ ![image-20220405174233055](assets/ch11_images/image-20220405174233055.webp)
 
- <img src="assets/ch11_images/image-20220405174414780.jpg" alt="image-20220405174414780" style="zoom:67%;" />
+ <img src="assets/ch11_images/image-20220405174414780.webp" alt="image-20220405174414780" style="zoom:67%;" />
 
 - StringBuilder 和 StringBuffer 非常类似，均代表可变的字符序列，而且提供相关功能的方法也一样。
 - 区分String、StringBuffer、StringBuilder
@@ -19901,7 +19901,7 @@ StringBuilder、StringBuffer的API是完全一致的，并且很多方法与Stri
 >
 > - 如上(1)(2)(3)(4)(9)这些方法支持`方法链操作`。原理：
 >
->    ![image-20220405223542750](assets/ch11_images/image-20220405223542750.jpg)
+>    ![image-20220405223542750](assets/ch11_images/image-20220405223542750.webp)
 
 **2、其它API**
 
@@ -20089,7 +20089,7 @@ public void test5(){
 - **解析：**
   - public Date parse(String source)：从给定字符串的开始解析文本，以生成一个日期。
 
-![1572599023197](assets/ch11_images/1572599023197.jpg)
+![1572599023197](assets/ch11_images/1572599023197.webp)
 
 ```java
 //格式化
@@ -20114,7 +20114,7 @@ public void test2() throws ParseException{
 
 #### 3.4 java.util.Calendar(日历)
 
-<img src="assets/ch11_images/image-20220511105252261.jpg" alt="image-20220511105252261" style="zoom:67%;" />
+<img src="assets/ch11_images/image-20220511105252261.webp" alt="image-20220511105252261" style="zoom:67%;" />
 
 - Date类的API大部分被废弃了，替换为Calendar。
 
@@ -20124,11 +20124,11 @@ public void test2() throws ParseException{
 
   - 使用`Calendar.getInstance()`方法
 
-    ![image-20220123184906903](assets/ch11_images/image-20220123184906903.jpg)
+    ![image-20220123184906903](assets/ch11_images/image-20220123184906903.webp)
 
   - 调用它的子类GregorianCalendar（公历）的构造器。
 
-    ![image-20220405225828816](assets/ch11_images/image-20220405225828816.jpg)
+    ![image-20220405225828816](assets/ch11_images/image-20220405225828816.webp)
 
 - 一个Calendar的实例是系统时间的抽象表示，可以修改或获取 YEAR、MONTH、DAY_OF_WEEK、HOUR_OF_DAY 、MINUTE、SECOND等 `日历字段`对应的时间值。
   - public int get(int field)：返回给定日历字段的值
@@ -20139,7 +20139,7 @@ public void test2() throws ParseException{
   
 - 常用字段
 
-  ![1620277709044](assets/ch11_images/1620277709044.jpg)
+  ![1620277709044](assets/ch11_images/1620277709044.webp)
 
 - 注意：
   - 获取月份时：一月是0，二月是1，以此类推，12月是11
@@ -20209,7 +20209,7 @@ public class TestCalendar {
 
 闰年计算公式：年份可以被4整除但不能被100整除，或者可以被400整除。
 
-<img src="assets/ch11_images/image-20220503120722810.jpg" alt="image-20220503120722810" style="zoom:67%;" />
+<img src="assets/ch11_images/image-20220503120722810.webp" alt="image-20220503120722810" style="zoom:67%;" />
 
 ### 4. JDK8：新的日期时间API
 
@@ -20329,7 +20329,7 @@ public class TestLocalDateTime {
 >
 > instant.atOffset(ZoneOffset.ofHours(8));
 
-![image-20220406000442908](assets/ch11_images/image-20220406000442908.jpg)
+![image-20220406000442908](assets/ch11_images/image-20220406000442908.webp)
 
 > 整个地球分为二十四时区，每个时区都有自己的本地时间。北京时区是东八区，领先UTC八个小时，在电子邮件信头的Date域记为+0800。如果在电子邮件的信头中有这么一行： 
 >
@@ -20608,7 +20608,7 @@ public void test1(){
 
 我们知道基本数据类型的数据（除boolean类型外）需要比较大小的话，之间使用比较运算符即可，但是引用数据类型是不能直接使用比较运算符来比较大小的。那么，如何解决这个问题呢？
 
-![image-20220406001726285](assets/ch11_images/image-20220406001726285.jpg)
+![image-20220406001726285](assets/ch11_images/image-20220406001726285.webp)
 
 - 在Java中经常会涉及到对象数组的排序问题，那么就涉及到对象之间的比较问题。
 
@@ -21005,7 +21005,7 @@ System.out.println(Arrays.toString(all));
   - `String getProperty(String key)`：
     该方法的作用是获得系统中属性名为key的属性对应的值。系统中常见的属性名以及属性的作用如下表所示：
 
-    ![image-20220406003340258](assets/ch11_images/image-20220406003340258.jpg)
+    ![image-20220406003340258](assets/ch11_images/image-20220406003340258.webp)
 
 - 举例
 
@@ -21328,7 +21328,7 @@ public void test04(){
 
 ### 本章专题与脉络
 
-<img src="assets/ch12_images/第3阶段：Java高级应用-第12章.jpg" alt="第3阶段：Java高级应用-第12章" style="zoom:50%;" />
+<img src="assets/ch12_images/第3阶段：Java高级应用-第12章.webp" alt="第3阶段：Java高级应用-第12章" style="zoom:50%;" />
 
 ***
 
@@ -21336,7 +21336,7 @@ public void test04(){
 
 #### 1.1 生活中的容器
 
-<img src="assets/ch12_images/image-20220523190743146.jpg" alt="image-20220523190743146" style="zoom: 67%;" />
+<img src="assets/ch12_images/image-20220523190743146.webp" alt="image-20220523190743146" style="zoom: 67%;" />
 
 #### 1.2 数组的特点与弊端
 
@@ -21368,21 +21368,21 @@ Java 集合可分为 Collection 和 Map 两大体系：
 - JDK提供的集合API位于java.util包内
 - 图示：集合框架全图
 
-![集合框架全图.png](assets/ch12_images/集合框架全图.png)
+![集合框架全图.png](assets/ch12_images/集合框架全图.webp)
 
 - 简图1：**Collection接口继承树**
 
-<img src="assets/ch12_images/image-20220407203244029.jpg" alt="image-20220407203244029" style="zoom: 67%;" />
+<img src="assets/ch12_images/image-20220407203244029.webp" alt="image-20220407203244029" style="zoom: 67%;" />
 
 - 简图2：**Map接口继承树**
 
-<img src="assets/ch12_images/image-20220407203412665.jpg" alt="image-20220407203412665" style="zoom: 67%;" />
+<img src="assets/ch12_images/image-20220407203412665.webp" alt="image-20220407203412665" style="zoom: 67%;" />
 
 #### 1.4 集合的使用场景
 
-![image-20220407202630027](assets/ch12_images/image-20220407202630027.jpg)
+![image-20220407202630027](assets/ch12_images/image-20220407202630027.webp)
 
-![第12章_集合的使用场景](assets/ch12_images/第12章_集合的使用场景.png)
+![第12章_集合的使用场景](assets/ch12_images/第12章_集合的使用场景.webp)
 
 ### 2. Collection接口及方法
 
@@ -21450,7 +21450,7 @@ public class TestCollectionAdd {
 
 > 注意：coll.addAll(other);与coll.add(other);
 
-![](assets/ch12_images/1563548078274.jpg)
+![](assets/ch12_images/1563548078274.webp)
 
 #### 2.2 判断
 
@@ -21714,7 +21714,7 @@ public class TestIterator {
 
 Iterator迭代器对象在遍历集合时，内部采用指针的方式来跟踪集合中的元素，接下来通过一个图例来演示Iterator对象迭代元素的过程：
 
-![image-20220407235130988](assets/ch12_images/image-20220407235130988.jpg)
+![image-20220407235130988](assets/ch12_images/image-20220407235130988.webp)
 
 使用Iterator迭代器删除元素：java.util.Iterator迭代器中有一个方法：void remove() ;
 
@@ -21858,7 +21858,7 @@ public class TestForeach {
 
 - 对于集合的遍历，增强for的内部原理其实是个Iterator迭代器。如下图。
 
-![image-20220128010114124](assets/ch12_images/image-20220128010114124.jpg)
+![image-20220128010114124](assets/ch12_images/image-20220128010114124.webp)
 
 - 它用于遍历Collection和数组。通常只进行遍历元素，不要在遍历的过程中对集合元素进行增删操作。
   - 练习：判断输出结果为何？
@@ -21888,7 +21888,7 @@ public class ForTest {
 
   - 举例：List集合存储数据，就像银行门口客服，给每一个来办理业务的客户分配序号：第一个来的是“张三”，客服给他分配的是0；第二个来的是“李四”，客服给他分配的1；以此类推，最后一个序号应该是“总人数-1”。
 
-![1563549818689](assets/ch12_images/1563549818689.jpg)
+![1563549818689](assets/ch12_images/1563549818689.webp)
 
 - JDK API中List接口的实现类常用的有：`ArrayList`、`LinkedList`和`Vector`。
 
@@ -21970,7 +21970,7 @@ public class TestListMethod {
 
 - Arrays.asList(…) 方法返回的 List 集合，既不是 ArrayList 实例，也不是 Vector 实例。 Arrays.asList(…) 返回值是一个固定长度的 List 集合
 
-  ![image-20220408210743342](assets/ch12_images/image-20220408210743342.jpg)
+  ![image-20220408210743342](assets/ch12_images/image-20220408210743342.webp)
 
 #### 4.4 List的实现类之二：LinkedList
 
@@ -22027,7 +22027,7 @@ private static void updateList(List list) {
 
 * 代码实现，效果如图所示：
 
-  ![1559890098509](assets/ch12_images/1559890098509.jpg)
+  ![1559890098509](assets/ch12_images/1559890098509.webp)
 
 ```java
 package com.atguigu.test01;
@@ -22120,7 +22120,7 @@ public class Student {
 
 ​	4、效果如下
 
-![1559896150606](assets/ch12_images/1559896150606.jpg)
+![1559896150606](assets/ch12_images/1559896150606.webp)
 
 ```java
 package com.atguigu.test02;
@@ -22558,7 +22558,7 @@ System.out.println(set);
 - LinkedHashSet`插入性能略低`于 HashSet，但在`迭代访问` Set 里的全部元素时有很好的性能。
 
 
-<img src="assets/ch12_images/image-20220408235936404.jpg" alt="image-20220408235936404" style="zoom:67%;" />
+<img src="assets/ch12_images/image-20220408235936404.webp" alt="image-20220408235936404" style="zoom:67%;" />
 
 举例：
 
@@ -23067,17 +23067,17 @@ public class EmployeeTest {
 
 - Map接口的常用实现类：`HashMap`、`LinkedHashMap`、`TreeMap`和``Properties`。其中，HashMap是 Map 接口使用`频率最高`的实现类。
 
-  <img src="assets/ch12_images/image-20220409001015034.jpg" alt="image-20220409001015034" style="zoom:67%;" />
+  <img src="assets/ch12_images/image-20220409001015034.webp" alt="image-20220409001015034" style="zoom:67%;" />
 
 #### 6.2 Map中key-value特点
 
 这里主要以HashMap为例说明。HashMap中存储的key、value的特点如下：
 
-<img src="assets/ch12_images/image-20220409001213720.jpg" alt="image-20220409001213720" style="zoom:67%;" />
+<img src="assets/ch12_images/image-20220409001213720.webp" alt="image-20220409001213720" style="zoom:67%;" />
 
 - Map 中的 `key用Set来存放`，`不允许重复`，即同一个 Map 对象所对应的类，须重写hashCode()和equals()方法
 
-  <img src="assets/ch12_images/image-20220514190412763.jpg" alt="image-20220514190412763" style="zoom:67%;" />
+  <img src="assets/ch12_images/image-20220514190412763.webp" alt="image-20220514190412763" style="zoom:67%;" />
 
 - key 和 value 之间存在单向一对一关系，即通过指定的 key 总能找到唯一的、确定的 value，不同key对应的`value可以重复`。value所在的类要重写equals()方法。
 
@@ -23182,7 +23182,7 @@ public static void main(String[] args) {
 
 例如：
 
-![image-20220914190805362](assets/ch12_images/image-20220914190805362.jpg)
+![image-20220914190805362](assets/ch12_images/image-20220914190805362.webp)
 
 ```java
 //方式1
@@ -23360,7 +23360,7 @@ public class Singer implements Comparable{
 
 效果演示：
 
-![img](assets/ch12_images/clip_image001.jpg)
+![img](assets/ch12_images/clip_image001.webp)
 
 ```java
 /**
@@ -23697,7 +23697,7 @@ Collections 中提供了一系列静态的方法对集合元素进行排序、�
 - Collections 类中提供了多个 synchronizedXxx() 方法，该方法可使将指定集合包装成线程同步的集合，从而可以解决多线程并发访问集合时的线程安全问题：
 
 
-![image-20220409003002526](assets/ch12_images/image-20220409003002526.jpg)
+![image-20220409003002526](assets/ch12_images/image-20220409003002526.webp)
 
 #### 7.2 举例
 
@@ -23884,7 +23884,7 @@ public class TestCollections {
 
 效果演示：
 
-![image-20220409011625061](assets/ch12_images/image-20220409011625061.jpg)
+![image-20220409011625061](assets/ch12_images/image-20220409011625061.webp)
 
 提示：
 
@@ -23954,7 +23954,7 @@ public class PokerTest {
 
 **练习3：**模拟斗地主洗牌和发牌并对牌进行排序的代码实现。
 
-![image-20220915002714578](assets/ch12_images/image-20220915002714578.jpg)
+![image-20220915002714578](assets/ch12_images/image-20220915002714578.webp)
 
 提示：考查HashMap、TreeSet、ArrayList、Collections
 
@@ -24040,7 +24040,7 @@ public class PokerTest1 {
 
 ### 本章专题与脉络
 
-<img src="assets/ch13_images/第3阶段：Java高级应用-第13章.jpg" alt="第3阶段：Java高级应用-第13章" style="zoom: 67%;" />
+<img src="assets/ch13_images/第3阶段：Java高级应用-第13章.webp" alt="第3阶段：Java高级应用-第13章" style="zoom: 67%;" />
 
 ***
 
@@ -24050,15 +24050,15 @@ public class PokerTest1 {
 
 - 举例1：中药店，每个抽屉外面贴着标签
 
-![image-20220411000757577](assets/ch13_images/image-20220411000757577.jpg)
+![image-20220411000757577](assets/ch13_images/image-20220411000757577.webp)
 
 - 举例2：超市购物架上很多瓶子，每个瓶子装的是什么，有标签
 
-<img src="assets/ch13_images/image-20220918230534965.jpg" alt="image-20220918230534965" style="zoom:67%;" />
+<img src="assets/ch13_images/image-20220918230534965.webp" alt="image-20220918230534965" style="zoom:67%;" />
 
 - 举例3：家庭厨房中：
 
-<img src="assets/ch13_images/image-20220514191533296.jpg" alt="image-20220514191533296" style="zoom:67%;" />
+<img src="assets/ch13_images/image-20220514191533296.webp" alt="image-20220514191533296" style="zoom:67%;" />
 
 > Java中的泛型，就类似于上述场景中的`标签`。
 >
@@ -24067,7 +24067,7 @@ public class PokerTest1 {
 
 在Java中，我们在声明方法时，当在完成方法功能时如果有`未知的数据`需要参与，这些未知的数据需要在调用方法时才能确定，那么我们把这样的数据通过`形参`表示。在方法体中，用这个形参名来代表那个未知的数据，而调用者在调用时，对应的传入`实参`就可以了。
 
-![1563414367674](assets/ch13_images/1563414367674.jpg)
+![1563414367674](assets/ch13_images/1563414367674.webp)
 
 受以上启发，JDK1.5设计了泛型的概念。泛型即为“`类型参数`”，这个类型参数在声明它的类、接口或方法中，代表未知的某种通用类型。
 
@@ -24081,9 +24081,9 @@ public class PokerTest1 {
 
 `java.lang.Comparable`接口和`java.util.Comparator`接口，是用于比较对象大小的接口。这两个接口只是限定了当一个对象大于另一个对象时返回正整数，小于返回负整数，等于返回0，但是并不确定是什么类型的对象比较大小。JDK5.0之前只能用Object类型表示，使用时既麻烦又不安全，因此 JDK5.0 给它们增加了泛型。
 
-![image-20220923154058074](assets/ch13_images/image-20220923154058074.jpg)
+![image-20220923154058074](assets/ch13_images/image-20220923154058074.webp)
 
-![image-20220923154426871](assets/ch13_images/image-20220923154426871.jpg)
+![image-20220923154426871](assets/ch13_images/image-20220923154426871.webp)
 
 其中`<T>`就是类型参数，即泛型。
 
@@ -24101,11 +24101,11 @@ public class PokerTest1 {
 
 **集合中没有使用泛型时：**
 
-<img src="assets/ch13_images/image-20220411001522636.jpg" alt="image-20220411001522636" style="zoom:80%;" />
+<img src="assets/ch13_images/image-20220411001522636.webp" alt="image-20220411001522636" style="zoom:80%;" />
 
 **集合中使用泛型时：**
 
-<img src="assets/ch13_images/image-20220411001549747.jpg" alt="image-20220411001549747" style="zoom:80%;" />
+<img src="assets/ch13_images/image-20220411001549747.webp" alt="image-20220411001549747" style="zoom:80%;" />
 
 > Java泛型可以保证如果程序在编译时没有发出警告，运行时就不会产生ClassCastException异常。即，把不安全的因素在编译期间就排除了，而不是运行期；既然通过了编译，那么类型一定是符合要求的，就避免了类型转换。
 >
@@ -25022,7 +25022,7 @@ public class Exer01 {
 
 比如：String是Object的子类，但是List<String>并不是List<Object>的子类。
 
-<img src="assets/ch13_images/image-20220411003422259.jpg" alt="image-20220411003422259" style="zoom:67%;" />
+<img src="assets/ch13_images/image-20220411003422259.webp" alt="image-20220411003422259" style="zoom:67%;" />
 
 ```java
 public void testGenericAndSubClass() {
@@ -25329,7 +25329,7 @@ public static void main(String[] args) {
 
 用户在设计类的时候往往会使用类的关联关系，例如，一个人中可以定义一个信息的属性，但是一个人可能有各种各样的信息（如联系方式、基本信息等），所以此信息属性的类型就可以通过泛型进行声明，然后只要设计相应的信息类即可。
 
-<img src="assets/ch13_images/image-20220411004301224.jpg" alt="image-20220411004301224" style="zoom:67%;" />
+<img src="assets/ch13_images/image-20220411004301224.webp" alt="image-20220411004301224" style="zoom:67%;" />
 
 ```java
 interface Info{		// 只有此接口的子类才是表示人的信息
@@ -25451,13 +25451,13 @@ public class GenericPerson{
 
 ### 本章专题与脉络
 
-![第3阶段：Java高级应用-第14章](assets/ch14_images/第3阶段：Java高级应用-第14章.jpg)
+![第3阶段：Java高级应用-第14章](assets/ch14_images/第3阶段：Java高级应用-第14章.webp)
 
 ### 1. 数据结构剖析
 
 我们举一个形象的例子来理解数据结构的作用：
 
-![image-20220412011531879](assets/ch14_images/image-20220412011531879.jpg)
+![image-20220412011531879](assets/ch14_images/image-20220412011531879.webp)
 
 > **战场：**程序运行所需的软件、硬件环境
 >
@@ -25469,11 +25469,11 @@ public class GenericPerson{
 >
 > **战术和策略：**数据结构
 
- ![image-20220412011555025](assets/ch14_images/image-20220412011555025.jpg)
+ ![image-20220412011555025](assets/ch14_images/image-20220412011555025.webp)
 
 上图：没有战术，打仗事倍功半
 
- ![image-20220412011600845](assets/ch14_images/image-20220412011600845.jpg)
+ ![image-20220412011600845](assets/ch14_images/image-20220412011600845.webp)
 
 上图：有战术，打仗事半功倍
 
@@ -25490,7 +25490,7 @@ public class GenericPerson{
 * **树形结构**：数据结构中的元素存在`一对多`的相互关系。比如：家谱、文件系统、组织架构
 * **图形结构**：数据结构中的元素存在`多对多`的相互关系。比如：全国铁路网、地铁图
 
-<img src="assets/ch14_images/image-20220824011022664.jpg" alt="image-20220824011022664" style="zoom:67%;" />
+<img src="assets/ch14_images/image-20220824011022664.webp" alt="image-20220824011022664" style="zoom:67%;" />
 
 #### 1.2 研究对象二：数据的存储结构（或物理结构）
 
@@ -25503,7 +25503,7 @@ public class GenericPerson{
 - 优点： 只需要申请存放数据本身的内存空间即可，支持下标访问，也可以实现随机访问。
 - 缺点： 必须静态分配连续空间，内存空间的利用率比较低。插入或删除可能需要移动大量元素，效率比较低
 
-![image-20220521100746910](assets/ch14_images/image-20220521100746910.jpg)
+![image-20220521100746910](assets/ch14_images/image-20220521100746910.webp)
 
 **结构2：链式结构**
 
@@ -25511,7 +25511,7 @@ public class GenericPerson{
 - 优点：不采用连续的存储空间导致内存空间利用率比较高，克服顺序存储结构中预知元素个数的缺点。插入或删除元素时，不需要移动大量的元素。
 - 缺点：需要额外的空间来表达数据之间的逻辑关系，不支持下标访问和随机访问。
 
-![image-20220521103734742](assets/ch14_images/image-20220521103734742.jpg)
+![image-20220521103734742](assets/ch14_images/image-20220521103734742.webp)
 
 **结构3：索引结构**
 
@@ -25519,7 +25519,7 @@ public class GenericPerson{
 - 优点：用节点的索引号来确定结点存储地址，检索速度快。
 - 缺点： 增加了附加的索引表，会占用较多的存储空间。在增加和删除数据时要修改索引表，因而会花费较多的时间。
 
-<img src="assets/ch14_images/image-20220521115200921.jpg" alt="image-20220521115200921" style="zoom:67%;" />
+<img src="assets/ch14_images/image-20220521115200921.webp" alt="image-20220521115200921" style="zoom:67%;" />
 
 **结构4：散列结构**
 
@@ -25527,7 +25527,7 @@ public class GenericPerson{
 - 优点：检索、增加和删除结点的操作都很快。
 - 缺点：不支持排序，一般比用线性表存储需要更多的空间，并且记录的关键字不能重复。
 
-<img src="assets/ch14_images/image-20220521115734571.jpg" alt="image-20220521115734571" style="zoom:67%;" />
+<img src="assets/ch14_images/image-20220521115734571.webp" alt="image-20220521115734571" style="zoom:67%;" />
 
 #### 1.3 研究对象三：运算结构
 
@@ -25540,7 +25540,7 @@ public class GenericPerson{
 
 #### 1.4 小结
 
-<img src="assets/ch14_images/数据结构.jpg" alt="数据结构" style="zoom: 40%;" />
+<img src="assets/ch14_images/数据结构.webp" alt="数据结构" style="zoom: 40%;" />
 
 ### 2. 一维数组
 
@@ -25558,11 +25558,11 @@ public class GenericPerson{
 
 例如：整型数组
 
-<img src="assets/ch14_images/1563432676234.jpg" alt="1563432676234" style="zoom: 80%;" />
+<img src="assets/ch14_images/1563432676234.webp" alt="1563432676234" style="zoom: 80%;" />
 
 例如：对象数组
 
-<img src="assets/ch14_images/1563432696340.jpg" alt="1563432696340" style="zoom:80%;" />
+<img src="assets/ch14_images/1563432696340.webp" alt="1563432696340" style="zoom:80%;" />
 
 - 物理结构特点：
   - 申请内存：一次申请一大段连续的空间，一旦申请到了，内存就固定了。
@@ -25570,7 +25570,7 @@ public class GenericPerson{
   - 存储特点：所有数据存储在这个连续的空间中，数组中的每一个元素都是一个具体的数据（或对象），所有数据都紧密排布，不能有间隔。
 - 具体的，如下图：
 
-<img src="assets/ch14_images/数据结构-一维数组.jpg" alt="数据结构-一维数组" style="zoom: 50%;" />
+<img src="assets/ch14_images/数据结构-一维数组.webp" alt="数据结构-一维数组" style="zoom: 50%;" />
 
 #### 2.2 自定义数组
 
@@ -25699,20 +25699,20 @@ public class ArrayTest {
 - 存储特点：链表由一系列结点node（链表中每一个元素称为结点）组成，结点可以在代码执行过程中动态创建。每个结点包括两个部分：一个是存储数据元素的`数据域`，另一个是存储下一个结点地址的`指针域`。
 
 
-![image-20220511113744772](assets/ch14_images/image-20220511113744772-1661445988505.jpg)
+![image-20220511113744772](assets/ch14_images/image-20220511113744772-1661445988505.webp)
 
 - 常见的链表结构有如下的形式：
 
 
-![1563448858180](assets/ch14_images/1563448858180-1661445988506.jpg)
+![1563448858180](assets/ch14_images/1563448858180-1661445988506.webp)
 
-<img src="assets/ch14_images/数据结构-链表.jpg" alt="数据结构-链表" style="zoom:50%;" />
+<img src="assets/ch14_images/数据结构-链表.webp" alt="数据结构-链表" style="zoom:50%;" />
 
 #### 3.2 自定义链表
 
 ##### 3.2.1 自定义单向链表
 
-![image-20221028195106363](assets/ch14_images/image-20221028195106363.jpg)
+![image-20221028195106363](assets/ch14_images/image-20221028195106363.webp)
 
 ```java
 /*
@@ -25810,7 +25810,7 @@ public class Link<E> {
 
 ##### 3.2.2 自定义双向链表
 
-![image-20220514165707977](assets/ch14_images/image-20220514165707977-1661448081075.jpg)
+![image-20220514165707977](assets/ch14_images/image-20220514165707977-1661448081075.webp)
 
 ```java
 /*
@@ -26013,9 +26013,9 @@ public class MyLinkedListTest {
   
 - 图示：
 
-<img src="assets/ch14_images/image-20220826010258638.jpg" alt="image-20220826010258638" style="zoom:80%;" />
+<img src="assets/ch14_images/image-20220826010258638.webp" alt="image-20220826010258638" style="zoom:80%;" />
 
-<img src="assets/ch14_images/数据结构-栈.jpg" alt="数据结构-栈" style="zoom:50%;" />
+<img src="assets/ch14_images/数据结构-栈.webp" alt="数据结构-栈" style="zoom:50%;" />
 
 #### 4.2 Stack使用举例
 
@@ -26180,15 +26180,15 @@ public class MyStack {
 
 - 图示：
 
-![image-20220826010241172](assets/ch14_images/image-20220826010241172.jpg)
+![image-20220826010241172](assets/ch14_images/image-20220826010241172.webp)
 
-<img src="assets/ch14_images/数据结构-队列.jpg" alt="数据结构-队列" style="zoom:50%;" />
+<img src="assets/ch14_images/数据结构-队列.webp" alt="数据结构-队列" style="zoom:50%;" />
 
 ### 6. 树与二叉树
 
 #### 6.1 树的理解
 
-<img src="assets/ch14_images/image-20220521111904272.jpg" alt="image-20220521111904272" style="zoom:67%;" />
+<img src="assets/ch14_images/image-20220521111904272.webp" alt="image-20220521111904272" style="zoom:67%;" />
 
 **专有名词解释：**
 
@@ -26219,7 +26219,7 @@ public class MyStack {
 二叉树（Binary tree）是树形结构的一个重要类型。二叉树特点是每个结点最多只能有两棵子树，且有左右之分。许多实际问题抽象出来的数据结构往往是二叉树形式，二叉树的存储结构及其算法都较为简单，因此二叉树显得特别重要。
 
 
-![1563449427345](assets/ch14_images/1563449427345-1661447692846.jpg)
+![1563449427345](assets/ch14_images/1563449427345-1661447692846.webp)
 
 #### 6.3 二叉树的遍历
 
@@ -26235,7 +26235,7 @@ public class MyStack {
 
   即先后序遍历左子树，然后再后序遍历右子树，最后访问根 结点。后序遍历运算访问二叉树各结点是以左、右、根的顺序进行访问的。
 
-<img src="assets/ch14_images/1574575739236-1661447692846.jpg" alt="1574575739236" style="zoom:80%;" />
+<img src="assets/ch14_images/1574575739236-1661447692846.webp" alt="1574575739236" style="zoom:80%;" />
 
 前序遍历：ABDHIECFG
 
@@ -26245,22 +26245,22 @@ public class MyStack {
 
 #### 6.4 经典二叉树
 
-<img src="assets/ch14_images/image-20220521153016348.jpg" alt="image-20220521153016348" style="zoom: 67%;" />
+<img src="assets/ch14_images/image-20220521153016348.webp" alt="image-20220521153016348" style="zoom: 67%;" />
 
 1、`满二叉树`： 除最后一层无任何子节点外，每一层上的所有结点都有两个子结点的二叉树。 第n层的结点数是2的n-1次方，总的结点个数是2的n次方-1
 
-![1574575163883](assets/ch14_images/1574575163883-1661447692846.jpg)
+![1574575163883](assets/ch14_images/1574575163883-1661447692846.webp)
 
 2、`完全二叉树`： 叶结点只能出现在最底层的两层，且最底层叶结点均处于次底层叶结点的左侧。
 
-![1574575180247](assets/ch14_images/1574575180247-1661447692846.jpg)
+![1574575180247](assets/ch14_images/1574575180247-1661447692846.webp)
 
 3、`二叉排序/查找/搜索树`：即为BST  (binary search/sort tree)。满足如下性质：
 （1）若它的左子树不为空，则左子树上所有结点的值均小于它的根节点的值； 
 （2）若它的右子树上所有结点的值均大于它的根节点的值； 
 （3）它的左、右子树也分别为二叉排序/查找/搜索树。
 
-<img src="assets/ch14_images/image-20220521145208018.jpg" alt="image-20220521145208018" style="zoom: 67%;" />
+<img src="assets/ch14_images/image-20220521145208018.webp" alt="image-20220521145208018" style="zoom: 67%;" />
 
 > 对二叉查找树进行中序遍历，得到有序集合。便于检索。
 
@@ -26271,7 +26271,7 @@ public class MyStack {
 
 > 平衡二叉树的目的是为了减少二叉查找树的层次，提高查找速度。平衡二叉树的常用实现有红黑树、AVL、替罪羊树、Treap、伸展树等。
 
-<img src="assets/ch14_images/image-20220521150151219.jpg" alt="image-20220521150151219" style="zoom: 50%;" />
+<img src="assets/ch14_images/image-20220521150151219.webp" alt="image-20220521150151219" style="zoom: 50%;" />
 
 
 
@@ -26290,7 +26290,7 @@ public class MyStack {
 
 - 从任一节点到其每个叶子的所有路径都包含相同数目的黑色节点（确保没有一条路径会比其他路径长出2倍）
 
-![](assets/ch14_images/红黑树-1661447692846.jpeg)
+![](assets/ch14_images/红黑树-1661447692846.webp)
 
 当我们插入或删除节点时，可能会破坏已有的红黑树，使得它不满足以上5个要求，那么此时就需要进行处理，使得它继续满足以上的5个要求：
 
@@ -26298,7 +26298,7 @@ public class MyStack {
 
 2、`rotation` ：将红黑树某些结点分支进行旋转（左旋或右旋）
 
- ![image-20221208212053079](assets/ch14_images/image-20221208212053079.jpg)
+ ![image-20221208212053079](assets/ch14_images/image-20221208212053079.webp)
 
 > 红黑树可以通过红色节点和黑色节点尽可能的保证二叉树的平衡。主要是用它来存储有序的数据，它的时间复杂度是O(logN)，效率非常之高。
 >
@@ -26366,7 +26366,7 @@ public class TreeMap<K,V> {
 - 它是一个`带有索引`的集合，通过索引就可以精确的操作集合中的元素（与数组的索引是一个道理）。
 - 集合中可以有`重复`的元素，通过元素的equals方法，来比较是否为重复的元素。
 
-![1563549818689](assets/ch14_images/1563549818689-1661447917313.jpg)
+![1563549818689](assets/ch14_images/1563549818689-1661447917313.webp)
 
 > 注意：
 >
@@ -26582,19 +26582,19 @@ private void grow(int minCapacity) {
 
 - **ArrayList采用数组作为底层实现**
 
-<img src="assets/ch14_images/image-20221029112037297.jpg" alt="image-20221029112037297" style="zoom:80%;" />
+<img src="assets/ch14_images/image-20221029112037297.webp" alt="image-20221029112037297" style="zoom:80%;" />
 
 - **ArrayList自动扩容过程**
 
-<img src="assets/ch14_images/image-20221029112107691.jpg" alt="image-20221029112107691" style="zoom:80%;" />
+<img src="assets/ch14_images/image-20221029112107691.webp" alt="image-20221029112107691" style="zoom:80%;" />
 
 - **ArrayList的add(E e)方法**
 
-<img src="assets/ch14_images/image-20221029112129161.jpg" alt="image-20221029112129161" style="zoom:80%;" />
+<img src="assets/ch14_images/image-20221029112129161.webp" alt="image-20221029112129161" style="zoom:80%;" />
 
 - **ArrayList的add(int index,E e)方法**
 
-<img src="assets/ch14_images/image-20221029112157007.jpg" alt="image-20221029112157007" style="zoom:80%;" />
+<img src="assets/ch14_images/image-20221029112157007.webp" alt="image-20221029112157007" style="zoom:80%;" />
 
 ##### 7.2.4 Vector部分源码分析
 
@@ -26726,7 +26726,7 @@ Java中有双链表的实现：LinkedList，它是List接口的实现类。
 
 LinkedList是一个`双向链表`，如图所示：
 
-![image-20220514165707977](assets/ch14_images/image-20220514165707977-1661448081075.jpg)
+![image-20220514165707977](assets/ch14_images/image-20220514165707977-1661448081075.webp)
 
 ##### 7.3.1 链表与动态数组的区别
 
@@ -26912,27 +26912,27 @@ public E remove(int index) { //index是要删除元素的索引位置
 
 - **只有1个元素的LinkedList**
 
-<img src="assets/ch14_images/image-20221029134437888.jpg" alt="image-20221029134437888" style="zoom:80%;" />
+<img src="assets/ch14_images/image-20221029134437888.webp" alt="image-20221029134437888" style="zoom:80%;" />
 
 - **包含4个元素的LinkedList**
 
-<img src="assets/ch14_images/image-20221029134534198.jpg" alt="image-20221029134534198" style="zoom:80%;" />
+<img src="assets/ch14_images/image-20221029134534198.webp" alt="image-20221029134534198" style="zoom:80%;" />
 
 - **add(E e)方法**
 
-<img src="assets/ch14_images/image-20221029135013377.jpg" alt="image-20221029135013377" style="zoom:80%;" />
+<img src="assets/ch14_images/image-20221029135013377.webp" alt="image-20221029135013377" style="zoom:80%;" />
 
 - **add(int index,E e)方法**
 
-<img src="assets/ch14_images/image-20221029135045120.jpg" alt="image-20221029135045120" style="zoom:80%;" />
+<img src="assets/ch14_images/image-20221029135045120.webp" alt="image-20221029135045120" style="zoom:80%;" />
 
 - **remove(Object obj)方法**
 
-<img src="assets/ch14_images/image-20221029134721089.jpg" alt="image-20221029134721089" style="zoom:80%;" />
+<img src="assets/ch14_images/image-20221029134721089.webp" alt="image-20221029134721089" style="zoom:80%;" />
 
 - **remove(int index)方法**
 
-<img src="assets/ch14_images/image-20221029134807613.jpg" alt="image-20221029134807613" style="zoom:80%;" />
+<img src="assets/ch14_images/image-20221029134807613.webp" alt="image-20221029134807613" style="zoom:80%;" />
 
 
 
@@ -26944,7 +26944,7 @@ HashMap和Hashtable底层都是哈希表（也称散列表），其中维护了�
 
 使用数组的目的是查询和添加的效率高，可以根据索引直接定位到某个table[index]。
 
-<img src="assets/ch14_images/image-20221029144811305.jpg" alt="image-20221029144811305" style="zoom:80%;" />
+<img src="assets/ch14_images/image-20221029144811305.webp" alt="image-20221029144811305" style="zoom:80%;" />
 
 #### 8.2 HashMap中数据添加过程
 
@@ -27035,7 +27035,7 @@ jdk7时底层的数据结构是：数组+单向链表。 而jdk8时，底层的�
 
 ##### 8.3.1 JDK1.7.0_07中源码
 
-![image-20220514190849626](assets/ch14_images/image-20220514190849626-1661448231966.jpg)
+![image-20220514190849626](assets/ch14_images/image-20220514190849626-1661448231966.webp)
 
 ###### **1、Entry**
 
@@ -27238,7 +27238,7 @@ key-value被封装为HashMap.Node类型或HashMap.TreeNode类型，它俩都直�
 
 存储到table数组的可能是Node结点对象，也可能是TreeNode结点对象，它们也是Map.Entry接口的实现类。即table[index]下的映射关系可能串起来一个链表或一棵红黑树。
 
-![image-20220514190904009](assets/ch14_images/image-20220514190904009-1661448231966.jpg)
+![image-20220514190904009](assets/ch14_images/image-20220514190904009-1661448231966.webp)
 
 ```java
 public class HashMap<K,V>{
@@ -27538,7 +27538,7 @@ final void treeifyBin(Node<K,V>[] tab, int hash) {
 
 小结：
 
-![image-20220524142524796](assets/ch14_images/image-20220524142524796-1661448231966.jpg)
+![image-20220524142524796](assets/ch14_images/image-20220524142524796-1661448231966.webp)
 
 #### 8.4 LinkedHashMap源码剖析
 
@@ -27577,7 +27577,7 @@ TreeNode<K,V> newTreeNode(int hash, K key, V value, Node<K,V> next) {
 
 ##### 8.4.2 图示
 
-<img src="assets/ch14_images/image-20221029145708224.jpg" alt="image-20221029145708224" style="zoom:80%;" />
+<img src="assets/ch14_images/image-20221029145708224.webp" alt="image-20221029145708224" style="zoom:80%;" />
 
 ### 9. Set接口分析
 
@@ -27664,13 +27664,13 @@ private static final Object PRESENT = new Object();
 
 hash算法是一种可以从任何数据中提取出其“指纹”的数据摘要算法，它将任意大小的数据映射到一个固定大小的序列上，这个序列被称为hash code、数据摘要或者指纹。比较出名的hash算法有MD5、SHA。hash是具有唯一性且不可逆的，唯一性是指相同的“对象”产生的hash code永远是一样的。
 
-![1563797150134](assets/ch14_images/1563797150134-1661448231965.jpg)
+![1563797150134](assets/ch14_images/1563797150134-1661448231965.webp)
 
 ##### 2、Entry中的hash属性为什么不直接使用key的hashCode()返回值呢？
 
 不管是JDK1.7还是JDK1.8中，都不是直接用key的hashCode值直接与table.length-1计算求下标的，而是先对key的hashCode值进行了一个运算，JDK1.7和JDK1.8关于hash()的实现代码不一样，但是不管怎么样都是为了提高hash code值与 (table.length-1)的按位与完的结果，尽量的均匀分布。
 
-![image-20220514190454633](assets/ch14_images/image-20220514190454633-1661448231965.jpg)
+![image-20220514190454633](assets/ch14_images/image-20220514190454633-1661448231965.webp)
 
 JDK1.7：
 
@@ -27710,7 +27710,7 @@ JDK1.8：
 
 ②hash 值 & (table.length-1)，任何数 & (table.length-1)的结果也一定在[0, table.length-1]范围。
 
-![1563800372286](assets/ch14_images/1563800372286-1661448231966.jpg)
+![1563800372286](assets/ch14_images/1563800372286-1661448231966.webp)
 
 JDK1.7：
 
@@ -27780,11 +27780,11 @@ table.length-1是15
 
 JDK1.8之间使用：数组+链表的结构。
 
-![1563802656661](assets/ch14_images/1563802656661-1661448231966.jpg)
+![1563802656661](assets/ch14_images/1563802656661-1661448231966.webp)
 
 JDK1.8之后使用：数组+链表/红黑树的结构。
 
-![1563802665708](assets/ch14_images/1563802665708-1661448231966.jpg)
+![1563802665708](assets/ch14_images/1563802665708-1661448231966.webp)
 
 即hash相同或hash&(table.lengt-1)的值相同，那么就存入同一个“桶”table[index]中，使用链表或红黑树连接起来。
 
@@ -27909,7 +27909,7 @@ key-value存储到HashMap中会存储key的hash值，这样就不用在每次查
 
 ##### 10、JDK1.7中HashMap的循环链表是怎么回事？如何解决？
 
-![HashMap的循环引用问题](assets/ch14_images/HashMap的循环引用问题.jpg)
+![HashMap的循环引用问题](assets/ch14_images/HashMap的循环引用问题.webp)
 
 避免HashMap发生死循环的常用解决方案：
 
@@ -27938,7 +27938,7 @@ HashMap死循环只会发生在JDK1.7版本中，主要原因：头插法+链表
 
 ### 本章专题与脉络
 
-<img src="assets/ch15_images/第3阶段：Java高级应用-第15章.jpg" alt="第3阶段：Java高级应用-第15章" style="zoom:67%;" />
+<img src="assets/ch15_images/第3阶段：Java高级应用-第15章.webp" alt="第3阶段：Java高级应用-第15章" style="zoom:67%;" />
 
 ***
 
@@ -28058,7 +28058,7 @@ public class FileObjectTest {
 
 > 如果File对象代表的文件或目录存在，则File对象实例初始化时，就会用硬盘中对应文件或目录的属性信息（例如，时间、类型等）为File对象的属性赋值，否则除了路径和名称，File对象的其他属性将会保留默认值。
 
-<img src="assets/ch15_images/image-20220412215446368.jpg" alt="image-20220412215446368" style="zoom:80%;" />
+<img src="assets/ch15_images/image-20220412215446368.webp" alt="image-20220412215446368" style="zoom:80%;" />
 
 举例：
 
@@ -28385,20 +28385,20 @@ public class ListFilesTest {
 
 ### 2. IO流原理及流的分类
 
-![image-20220412224132724](assets/ch15_images/image-20220412224132724.jpg)
+![image-20220412224132724](assets/ch15_images/image-20220412224132724.webp)
 
 #### 2.1 Java IO原理
 
 - Java程序中，对于数据的输入/输出操作以“`流(stream)`” 的方式进行，可以看做是一种数据的流动。
 
-  <img src="assets/ch15_images/image-20220503123117300.jpg" alt="image-20220503123117300" style="zoom: 80%;" />
+  <img src="assets/ch15_images/image-20220503123117300.webp" alt="image-20220503123117300" style="zoom: 80%;" />
 
 - I/O流中的I/O是`Input/Output`的缩写， I/O技术是非常实用的技术，用于处理设备之间的数据传输。如读/写文件，网络通讯等。
   - `输入input`：读取外部数据（磁盘、光盘等存储设备的数据）到程序（内存）中。
   - `输出output`：将程序（内存）数据输出到磁盘、光盘等存储设备中。
   
 
-![image-20220412224700133](assets/ch15_images/image-20220412224700133.jpg)
+![image-20220412224700133](assets/ch15_images/image-20220412224700133.webp)
 
 #### 2.2 流的分类
 
@@ -28419,15 +28419,15 @@ public class ListFilesTest {
 - 根据IO流的角色不同分为：**节点流**和**处理流**。
   - **节点流**：直接从数据源或目的地读写数据
 
-    ![image-20220412230745170](assets/ch15_images/image-20220412230745170.jpg)
+    ![image-20220412230745170](assets/ch15_images/image-20220412230745170.webp)
 
   - **处理流**：不直接连接到数据源或目的地，而是“连接”在已存在的流（节点流或处理流）之上，通过对数据的处理为程序提供更为强大的读写功能。
 
-    ![image-20220412230751461](assets/ch15_images/image-20220412230751461.jpg)
+    ![image-20220412230751461](assets/ch15_images/image-20220412230751461.webp)
 
 小结：图解
 
-<img src="assets/ch15_images/image-20220412225253349.jpg" alt="image-20220412225253349" style="zoom:67%;" />
+<img src="assets/ch15_images/image-20220412225253349.webp" alt="image-20220412225253349" style="zoom:67%;" />
 
 #### 2.3 流的API
 
@@ -28440,7 +28440,7 @@ public class ListFilesTest {
 
 - 由这四个类派生出来的子类名称都是以其父类名作为子类名后缀。
 
-![image-20220412230501953](assets/ch15_images/image-20220412230501953.jpg)
+![image-20220412230501953](assets/ch15_images/image-20220412230501953.webp)
 
 **常用的节点流：** 　
 
@@ -28621,7 +28621,7 @@ public class FileReaderWriterTest {
 
 不同实现方式的类比：
 
-![image-20220518095907714](assets/ch15_images/image-20220518095907714.jpg)
+![image-20220518095907714](assets/ch15_images/image-20220518095907714.webp)
 
 ##### 3.2.2 FileWriter
 
@@ -29021,7 +29021,7 @@ public class FOSWrite {
 
 提示：
 
- ![image-20220413002723838](assets/ch15_images/image-20220413002723838.jpg)
+ ![image-20220413002723838](assets/ch15_images/image-20220413002723838.webp)
 
 ```java
 /**
@@ -29141,11 +29141,11 @@ public class FileSecretTest {
 - 缓冲流的基本原理：在创建流对象时，内部会创建一个缓冲区数组（缺省使用`8192个字节(8Kb)`的缓冲区），通过缓冲区读写，减少系统IO次数，从而提高读写的效率。
 
 
-![image-20220413002314063](assets/ch15_images/image-20220413002314063.jpg)
+![image-20220413002314063](assets/ch15_images/image-20220413002314063.webp)
 
 
 
-<img src="assets/ch15_images/image-20220514183413011.jpg" alt="image-20220514183413011" style="zoom:80%;" />
+<img src="assets/ch15_images/image-20220514183413011.webp" alt="image-20220514183413011" style="zoom:80%;" />
 
 #### 5.1 构造器
 
@@ -29438,11 +29438,11 @@ public class Problem {
 
 **作用：转换流是字节与字符间的桥梁！**
 
-<img src="assets/ch15_images/2_zhuanhuan.jpg" style="zoom: 67%;" />
+<img src="assets/ch15_images/2_zhuanhuan.webp" style="zoom: 67%;" />
 
 具体来说：
 
-<img src="assets/ch15_images/image-20220412231533768.jpg" alt="image-20220412231533768" style="zoom:85%;" />
+<img src="assets/ch15_images/image-20220412231533768.webp" alt="image-20220412231533768" style="zoom:85%;" />
 
 #### 6.3 InputStreamReader 与 OutputStreamWriter
 
@@ -29627,11 +29627,11 @@ Unicode符号范围  | UTF-8编码方式
 0001 0000-0010 FFFF | 11110xxx 10xxxxxx 10xxxxxx 10xxxxxx
 ```
 
-![image-20220525164636164](assets/ch15_images/image-20220525164636164.jpg)
+![image-20220525164636164](assets/ch15_images/image-20220525164636164.webp)
 
 - 小结
 
-![字符集](assets/ch15_images/字符集.jpg)
+![字符集](assets/ch15_images/字符集.webp)
 
 > 注意：在中文操作系统上，ANSI（美国国家标准学会、AMERICAN NATIONAL STANDARDS INSTITUTE: ANSI）编码即为GBK；在英文操作系统上，ANSI编码即为ISO-8859-1。
 
@@ -29800,7 +29800,7 @@ ObjectInputStream ois = new ObjectInputStream(fis);
 
 - 反序列化过程：该字节序列还可以从文件中读取回来，重构对象，对它进行`反序列化`。`对象的数据`、`对象的类型`和`对象中存储的数据`信息，都可以用来在内存中创建对象。
 
-<img src="assets/ch15_images/image-20220503123328452.jpg" alt="image-20220503123328452" style="zoom:67%;" />
+<img src="assets/ch15_images/image-20220503123328452.webp" alt="image-20220503123328452" style="zoom:67%;" />
 
 **2、序列化机制的重要性**
 
@@ -29816,7 +29816,7 @@ ObjectInputStream ois = new ObjectInputStream(fis);
 - 反序列化：用ObjectInputStream类读取基本类型数据或对象的机制。方法为：
   - `public final Object readObject ()` : 读取一个对象。
 
-<img src="assets/ch15_images/3_xuliehua.jpg" style="zoom:70%;" />
+<img src="assets/ch15_images/3_xuliehua.webp" style="zoom:70%;" />
 
 #### 7.4 如何实现序列化机制
 
@@ -30074,7 +30074,7 @@ public class Employee implements Serializable {
   - 编写Save()方法保存对象到“save.bin”
   - 编写Load()方法获得对象，计算客户所需付款
 
-<img src="assets/ch15_images/image-20220503123603551.jpg" alt="image-20220503123603551" style="zoom:80%;" />
+<img src="assets/ch15_images/image-20220503123603551.webp" alt="image-20220503123603551" style="zoom:80%;" />
 
 ###  8. 其他流的使用
 
@@ -30171,7 +30171,7 @@ private static native void setErr0(PrintStream err);
 
 Create a program named MyInput.java: Contain the methods for reading int, double, float, boolean, short, byte and String values from the keyboard.
 
-<img src="assets/ch15_images/image-20220412232254819.jpg" alt="image-20220412232254819" style="zoom:80%;" />
+<img src="assets/ch15_images/image-20220412232254819.webp" alt="image-20220412232254819" style="zoom:80%;" />
 
 ```java
 package com.atguigu.java;
@@ -30241,9 +30241,9 @@ public class MyInput {
 - 打印流：`PrintStream`和`PrintWriter`
   - 提供了一系列重载的print()和println()方法，用于多种数据类型的输出
 
-    ![image-20220131021502089](assets/ch15_images/image-20220131021502089.jpg)
+    ![image-20220131021502089](assets/ch15_images/image-20220131021502089.webp)
 
-    ![image-20220131021528397](assets/ch15_images/image-20220131021528397.jpg)
+    ![image-20220131021528397](assets/ch15_images/image-20220131021528397.webp)
 
   - PrintStream和PrintWriter的输出不会抛出IOException异常
 
@@ -30415,7 +30415,7 @@ Apahce软件基金会属于第三方，（Oracle公司第一方，我们自己�
 - 在导入commons-io-2.5.jar包之后，内部的API都可以使用。
 
 
- ![image-20220416004246436](assets/ch15_images/image-20220416004246436.jpg)
+ ![image-20220416004246436](assets/ch15_images/image-20220416004246436.webp)
 
 - IOUtils类的使用
 
@@ -30501,7 +30501,7 @@ public class Test02 {
 
 ### 本章专题与脉络
 
-<img src="assets/ch16_images/第3阶段：Java高级应用-第16章.jpg" alt="第3阶段：Java高级应用-第16章" style="zoom: 50%;" />
+<img src="assets/ch16_images/第3阶段：Java高级应用-第16章.webp" alt="第3阶段：Java高级应用-第16章" style="zoom: 50%;" />
 
 ***
 
@@ -30515,11 +30515,11 @@ Java提供的网络类库，可以实现无痛的网络连接，联网的底层�
 
 - **C/S架构** ：全称为Client/Server结构，是指客户端和服务器结构。常见程序有QQ、美团app、360安全卫士等软件。
 
-<img src="assets/ch16_images/1_cs.jpg" style="zoom:67%;" />
+<img src="assets/ch16_images/1_cs.webp" style="zoom:67%;" />
 
 **B/S架构** ：全称为Browser/Server结构，是指浏览器和服务器结构。常见浏览器有IE、谷歌、火狐等。
 
-<img src="assets/ch16_images/2_bs.jpg" style="zoom:67%;" />
+<img src="assets/ch16_images/2_bs.webp" style="zoom:67%;" />
 
 两种架构各有优势，但是无论哪种架构，都离不开网络的支持。**网络编程**，就是在一定的协议下，实现两台计算机的通信的程序。
 
@@ -30535,7 +30535,7 @@ Java提供的网络类库，可以实现无痛的网络连接，联网的底层�
   - 问题2：如何定位主机上的特定的应用
   - 问题3：找到主机后，如何可靠、高效地进行数据传输
 
-<img src="assets/ch16_images/image-20220415001614195.jpg" alt="image-20220415001614195" style="zoom:67%;" />
+<img src="assets/ch16_images/image-20220415001614195.webp" alt="image-20220415001614195" style="zoom:67%;" />
 
 ### 2. 网络通信要素
 
@@ -30564,7 +30564,7 @@ Java提供的网络类库，可以实现无痛的网络连接，联网的底层�
 
   - 
 
-  <img src="assets/ch16_images/image-20220503145929568.jpg" alt="image-20220503145929568" style="zoom:80%;" />
+  <img src="assets/ch16_images/image-20220503145929568.webp" alt="image-20220503145929568" style="zoom:80%;" />
 
   - 这种方式最多可以表示42亿个。其中，30亿都在北美，亚洲4亿，中国2.9亿。2011年初已经用尽。
 
@@ -30572,7 +30572,7 @@ Java提供的网络类库，可以实现无痛的网络连接，联网的底层�
     - 网络地址：标识计算机或网络设备所在的网段
     - 主机地址：标识特定主机或网络设备
     
-    ![20220518_101503](assets/ch16_images/20220518_101503.jpg)
+    ![20220518_101503](assets/ch16_images/20220518_101503.webp)
     
     其中，E类用于科研。
 
@@ -30617,11 +30617,11 @@ Internet上的主机有两种方式表示地址：
 
 简单理解：
 
-<img src="assets/ch16_images/image-20220415003729013.jpg" alt="image-20220415003729013" style="zoom:80%;" />
+<img src="assets/ch16_images/image-20220415003729013.webp" alt="image-20220415003729013" style="zoom:80%;" />
 
 详细理解：
 
-![image-20220131125934581](assets/ch16_images/image-20220131125934581.jpg)
+![image-20220131125934581](assets/ch16_images/image-20220131125934581.webp)
 
 1. 在浏览器中输入www . qq .com 域名，操作系统会先检查自己本地的`hosts文件`是否有这个网址映射关系，如果有，就先调用这个IP地址映射，完成域名解析。
 2. 如果hosts里没有这个域名的映射，则查找`本地DNS解析器缓存`，是否有这个网址映射关系，如果有，直接返回，完成域名解析。
@@ -30645,7 +30645,7 @@ Internet上的主机有两种方式表示地址：
 
 如果端口号被另外一个服务或应用所占用，会导致当前程序启动失败。
 
-<img src="assets/ch16_images/image-20220415004400166.jpg" alt="image-20220415004400166" style="zoom:80%;" />
+<img src="assets/ch16_images/image-20220415004400166.webp" alt="image-20220415004400166" style="zoom:80%;" />
 
 #### 2.4 通信要素三：网络通信协议
 
@@ -30664,13 +30664,13 @@ Internet上的主机有两种方式表示地址：
 - OSI参考模型：模型过于理想化，未能在因特网上进行广泛推广
 - TCP/IP参考模型(或TCP/IP协议)：事实上的国际标准。
 
-![image-20220514172130459](assets/ch16_images/image-20220514172130459.jpg)
+![image-20220514172130459](assets/ch16_images/image-20220514172130459.webp)
 
 上图中，OSI参考模型：模型`过于理想化`，未能在因特网上进行广泛推广。 TCP/IP参考模型(或TCP/IP协议)：事实上的`国际标准`。
 
 - **TCP/IP协议：** 传输控制协议/因特网互联协议( Transmission Control Protocol/Internet Protocol)，TCP/IP 以其两个主要协议：传输控制协议(TCP)和网络互联协议(IP)而得名，实际上是一组协议，包括多个具有不同功能且互为关联的协议。是Internet最基本、最广泛的协议。
 
-  <img src="assets/ch16_images/image-20220512234904047.jpg" alt="image-20220512234904047" style="zoom:80%;" />
+  <img src="assets/ch16_images/image-20220512234904047.webp" alt="image-20220512234904047" style="zoom:80%;" />
 
 **TCP/IP协议中的四层介绍：**
 
@@ -30680,7 +30680,7 @@ Internet上的主机有两种方式表示地址：
 
 * `物理+数据链路层`：链路层是用于定义物理传输通道，通常是对某些网络连接设备的驱动协议，例如针对光纤、网线提供的驱动。
 
-![image-20220514172435398](assets/ch16_images/image-20220514172435398.jpg)
+![image-20220514172435398](assets/ch16_images/image-20220514172435398.webp)
 
 ### 2. 谈传输层协议：TCP与UDP协议
 
@@ -30723,7 +30723,7 @@ TCP协议中，在发送数据的准备阶段，客户端与服务器之间的�
 - 第二次握手，服务器端发送针对客户端TCP连接请求的确认
 - 第三次握手，客户端发送确认的确认
 
-<img src="assets/ch16_images/image-20220415010105484.jpg" alt="image-20220415010105484" style="zoom:80%;" />
+<img src="assets/ch16_images/image-20220415010105484.webp" alt="image-20220415010105484" style="zoom:80%;" />
 
 > 1、客户端会随机一个初始序列号seq=x，设置SYN=1 ，表示这是SYN握手报文。然后就可以把这个 SYN 报文发送给服务端了，表示向服务端发起连接，之后客户端处于`同步已发送`状态。
 >
@@ -30745,7 +30745,7 @@ TCP协议中，在发送数据结束后，释放连接时需要经过四次挥�
 * 第三次挥手：服务器发送完数据后，会给客户端`发送一个释放连接的报文`。那么客户端接收后就知道可以正式释放连接了。
 * 第四次挥手：客户端接收到服务器最后的释放连接报文后，要`回复一个彻底断开的报文`。这样服务器收到后才会彻底释放连接。这里客户端，发送完最后的报文后，会等待2MSL，因为有可能服务器没有收到最后的报文，那么服务器迟迟没收到，就会再次给客户端发送释放连接的报文，此时客户端在等待时间范围内接收到，会重新发送最后的报文，并重新计时。如果等待2MSL后，没有收到，那么彻底断开。
 
-<img src="assets/ch16_images/image-20220415010205891.jpg" alt="image-20220415010205891" style="zoom:80%;" />
+<img src="assets/ch16_images/image-20220415010205891.webp" alt="image-20220415010205891" style="zoom:80%;" />
 
 > 1、客户端打算断开连接，向服务器发送FIN报文(FIN标记位被设置为1，1表示为FIN，0表示不是)，FIN报文中会指定一个序列号，之后客户端进入FIN_WAIT_1状态。也就是客户端发出连接释放报文段(FIN报文)，指定序列号seq = u，主动关闭TCP连接，等待服务器的确认。
 >
@@ -30807,7 +30807,7 @@ public class TestInetAddress {
 }
 ```
 
-![1564024137998](assets/ch16_images/1564024137998.jpg)
+![1564024137998](assets/ch16_images/1564024137998.webp)
 
 #### 3.2 Socket类
 
@@ -30892,7 +30892,7 @@ public class TestInetAddress {
 
 Java语言的基于套接字TCP编程分为服务端编程和客户端编程，其通信模型如图所示：
 
-<img src="assets/ch16_images/image-20220514172833216.jpg" alt="image-20220514172833216" style="zoom:67%;" />
+<img src="assets/ch16_images/image-20220514172833216.webp" alt="image-20220514172833216" style="zoom:67%;" />
 
 #### 4.2 开发步骤
 
@@ -31037,7 +31037,7 @@ public class Client {
 * 当客户端输入“stop”时断开与服务器的连接
 * 多个客户端可以同时给服务器发送“词语”，服务器可以“同时”处理多个客户端的请求
 
-<img src="assets/ch16_images/image-20220514173031651.jpg" alt="image-20220514173031651" style="zoom:80%;" />
+<img src="assets/ch16_images/image-20220514173031651.webp" alt="image-20220514173031651" style="zoom:80%;" />
 
 **1、服务器端示例代码**
 
@@ -31374,7 +31374,7 @@ UDP协议没有拥塞控制，所以当网络出现的拥塞不会导致主机�
 
 因此UDP适用于一次只传送少量数据、对可靠性要求不高的应用环境，数据报大小限制在64K以下。
 
-![image-20220131144712460](assets/ch16_images/image-20220131144712460.jpg)
+![image-20220131144712460](assets/ch16_images/image-20220131144712460.webp)
 
 类 DatagramSocket 和 DatagramPacket 实现了基于 UDP 协议网络程序。
 
@@ -31567,7 +31567,7 @@ public class Receive {
 
 - URL类的构造器都声明抛出非运行时异常，必须要对这一异常进行处理，通常是用 try-catch 语句进行捕获。
 
-![image-20220415013546074](assets/ch16_images/image-20220415013546074.jpg)
+![image-20220415013546074](assets/ch16_images/image-20220415013546074.webp)
 
 #### 6.2 URL类常用方法
 
@@ -31642,7 +31642,7 @@ System.out.println("getQuery() :"+url.getQuery());
 
 ### 本章专题与脉络
 
-![第3阶段：Java高级应用-第17章](assets/ch17_images/第3阶段：Java高级应用-第17章.jpg)
+![第3阶段：Java高级应用-第17章](assets/ch17_images/第3阶段：Java高级应用-第17章.webp)
 
 ***
 
@@ -31666,11 +31666,11 @@ Reflection（反射）是被视为`动态语言`的关键，反射机制允许�
 
 加载完类之后，在堆内存的方法区中就产生了一个Class类型的对象（一个类只有一个Class对象），这个对象就包含了完整的类的结构信息。我们可以通过这个对象看到类的结构。`这个对象就像一面镜子，透过这个镜子看到类的结构，所以，我们形象的称之为：反射。`
 
-<img src="assets/ch17_images/image-20220417161529285.jpg" alt="image-20220417161529285" style="zoom:80%;" />
+<img src="assets/ch17_images/image-20220417161529285.webp" alt="image-20220417161529285" style="zoom:80%;" />
 
 **从内存加载上看反射：**
 
-![image-20220524101448625](assets/ch17_images/image-20220524101448625.jpg)
+![image-20220524101448625](assets/ch17_images/image-20220524101448625.webp)
 
 #### 1.3  Java反射机制研究及应用
 
@@ -31728,7 +31728,7 @@ public final Class getClass()
 
 以上的方法返回值的类型是一个Class类，此类是Java反射的源头，实际上所谓反射从程序的运行结果来看也很好理解，即：可以通过对象反射求出类的名称。
 
-<img src="assets/ch17_images/image-20220417162559217.jpg" alt="image-20220417162559217" style="zoom:80%;" />
+<img src="assets/ch17_images/image-20220417162559217.webp" alt="image-20220417162559217" style="zoom:80%;" />
 
 对象照镜子后可以得到的信息：某个类的属性、方法和构造器、某个类到底实现了哪些接口。对于每个类而言，JRE 都为其保留一个不变的 Class 类型的对象。一个 Class 对象包含了特定某个结构(class/interface/enum/annotation/primitive type/void/[])的有关信息。
 
@@ -31742,7 +31742,7 @@ public final Class getClass()
 
 ##### 2.1.2 内存结构上
 
-<img src="assets/ch17_images/image-20220514180100176.jpg" alt="image-20220514180100176" style="zoom:80%;" />
+<img src="assets/ch17_images/image-20220514180100176.webp" alt="image-20220514180100176" style="zoom:80%;" />
 
 说明：上图中字符串常量池在JDK6中存储在方法区；JDK7及以后，存储在堆空间。
 
@@ -31883,13 +31883,13 @@ System.out.println(name);
 
 类在内存中完整的生命周期：加载-->使用-->卸载。其中加载过程又分为：装载、链接、初始化三个阶段。
 
-![image-20220417173459849](assets/ch17_images/image-20220417173459849.jpg)
+![image-20220417173459849](assets/ch17_images/image-20220417173459849.webp)
 
 #### 3.2 类的加载过程
 
 当程序主动使用某个类时，如果该类还未被加载到内存中，系统会通过加载、链接、初始化三个步骤来对该类进行初始化。如果没有意外，JVM将会连续完成这三个步骤，所以有时也把这三个步骤统称为类加载。
 
-<img src="assets/ch17_images/image-20220417171411631.jpg" alt="image-20220417171411631" style="zoom: 50%;" />
+<img src="assets/ch17_images/image-20220417171411631.webp" alt="image-20220417171411631" style="zoom: 50%;" />
 
 类的加载又分为三个阶段：
 
@@ -31915,7 +31915,7 @@ System.out.println(name);
 
 #### 3.3 类加载器（classloader)
 
-<img src="assets/ch17_images/image-20220417173647473.jpg" alt="image-20220417173647473" style="zoom:67%;" />
+<img src="assets/ch17_images/image-20220417173647473.webp" alt="image-20220417173647473" style="zoom:67%;" />
 
 ##### 3.3.1 类加载器的作用
 
@@ -31923,7 +31923,7 @@ System.out.println(name);
 
 类缓存：标准的JavaSE类加载器可以按要求查找类，但一旦某个类被加载到类加载器中，它将维持加载（缓存）一段时间。不过JVM垃圾回收机制可以回收这些Class对象。
 
-<img src="assets/ch17_images/image-20220417173616344.jpg" alt="image-20220417173616344" style="zoom: 80%;" />
+<img src="assets/ch17_images/image-20220417173616344.webp" alt="image-20220417173616344" style="zoom: 80%;" />
 
 ##### 3.3.2 类加载器的分类(JDK8为例)
 
@@ -31931,7 +31931,7 @@ JVM支持两种类型的类加载器，分别为`引导类加载器（Bootstrap 
 
 从概念上来讲，自定义类加载器一般指的是程序中由开发人员自定义的一类类加载器，但是Java虚拟机规范却没有这么定义，而是将所有派生于抽象类ClassLoader的类加载器都划分为自定义类加载器。无论类加载器的类型如何划分，在程序中我们最常见的类加载器结构主要是如下情况：
 
-<img src="assets/ch17_images/image-20220417173819953.jpg" alt="image-20220417173819953" style="zoom:80%;" />
+<img src="assets/ch17_images/image-20220417173819953.webp" alt="image-20220417173819953" style="zoom:80%;" />
 
 
 
@@ -31950,7 +31950,7 @@ JVM支持两种类型的类加载器，分别为`引导类加载器（Bootstrap 
 - 父类加载器为启动类加载器
 - 从java.ext.dirs系统属性所指定的目录中加载类库，或从JDK的安装目录的jre/lib/ext子目录下加载类库。如果用户创建的JAR放在此目录下，也会自动由扩展类加载器加载。
 
-![image-20220417174032702](assets/ch17_images/image-20220417174032702.jpg)
+![image-20220417174032702](assets/ch17_images/image-20220417174032702.webp)
 
 **（3）应用程序类加载器（系统类加载器，AppClassLoader）**
 
@@ -32685,7 +32685,7 @@ public class TestField {
 
 ##### 4.3.2 调用指定的方法
 
-<img src="assets/ch17_images/image-20220417181700813.jpg" alt="image-20220417181700813" style="zoom:80%;" />
+<img src="assets/ch17_images/image-20220417181700813.webp" alt="image-20220417181700813" style="zoom:80%;" />
 
 （1）获取该类型的Class对象
 
@@ -33098,7 +33098,7 @@ com.atguigu.java1.Orange
 
 ### 本章专题与脉络
 
-![第3阶段：Java高级应用-第18章](assets/ch18_images/第3阶段：Java高级应用-第18章.jpg)
+![第3阶段：Java高级应用-第18章](assets/ch18_images/第3阶段：Java高级应用-第18章.webp)
 
 
 
@@ -33168,11 +33168,11 @@ LTS（Long-term Support）即长期支持。Oracle官网提供了对Oracle JDK�
 
 #### 1.3 各版本支持时间路线图
 
-![4428b288361296048](assets/ch18_images/4428b288361296048.jpg)
+![4428b288361296048](assets/ch18_images/4428b288361296048.webp)
 
 #### 1.4 各版本介绍
 
-![jdkxintexing](assets/ch18_images/jdkxintexing.jpg)
+![jdkxintexing](assets/ch18_images/jdkxintexing.webp)
 
 ##### jdk 9
 
@@ -33346,12 +33346,12 @@ https://openjdk.java.net/projects/jdk/17/
 https://www.oracle.com/java/technologies/downloads/archive/
 ```
 
-<img src="assets/ch18_images/image-20220525200441935.jpg" alt="image-20220525200441935" style="zoom:80%;" />
+<img src="assets/ch18_images/image-20220525200441935.webp" alt="image-20220525200441935" style="zoom:80%;" />
 
 > 链接：https://pan.baidu.com/s/15QrBUOvfE9vjlTzN_EeVLg 
 > 提取码：yyds 
 
-![image-20221213235332866](assets/ch18_images/image-20221213235332866.jpg)
+![image-20221213235332866](assets/ch18_images/image-20221213235332866.webp)
 
 #### 1.6 如何学习新特性
 
@@ -33384,7 +33384,7 @@ https://www.oracle.com/java/technologies/downloads/archive/
 
 Java 8 (又称为 JDK 8或JDK1.8) 是 Java 语言开发的一个主要版本。 Java 8 是oracle公司于2014年3月发布，可以看成是自Java 5 以来最具革命性的版本。Java 8为Java语言、编译器、类库、开发工具与JVM带来了大量新特性。
 
-<img src="assets/ch18_images/image-20220525201653599.jpg" alt="image-20220525201653599" style="zoom:80%;" />
+<img src="assets/ch18_images/image-20220525201653599.webp" alt="image-20220525201653599" style="zoom:80%;" />
 
 - 速度更快
 
@@ -33436,9 +33436,9 @@ public class UseFunctionalProgramming {
 
 #### 2.3 好用的lambda表达式
 
-<img src="assets/ch18_images/lambda表达式.jpg" alt="lambda表达式" style="zoom:67%;" />
+<img src="assets/ch18_images/lambda表达式.webp" alt="lambda表达式" style="zoom:67%;" />
 
-![image-20221111213355625](assets/ch18_images/image-20221111213355625.jpg)
+![image-20221111213355625](assets/ch18_images/image-20221111213355625.webp)
 
 #### 2.4 Lambda 及其使用举例
 
@@ -33446,11 +33446,11 @@ Lambda 是一个**匿名函数**，我们可以把 Lambda 表达式理解为是*
 
 - 从匿名类到 Lambda 的转换举例1
 
-<img src="assets/ch18_images/image-20220527101737072.jpg" alt="image-20220527101737072" style="zoom:67%;" />
+<img src="assets/ch18_images/image-20220527101737072.webp" alt="image-20220527101737072" style="zoom:67%;" />
 
 - 从匿名类到 Lambda 的转换举例2
 
-<img src="assets/ch18_images/image-20220527101814203.jpg" alt="image-20220527101814203" style="zoom:80%;" />
+<img src="assets/ch18_images/image-20220527101814203.webp" alt="image-20220527101814203" style="zoom:80%;" />
 
 #### 2.5 语法
 
@@ -33634,7 +33634,7 @@ public void test7(){
 
 在语法格式三 Lambda 表达式中的参数类型都是由编译器推断得出的。Lambda 表达式中无需指定类型，程序依然可以编译，这是因为 javac 根据程序的上下文，在后台推断出了参数的类型。Lambda 表达式的类型依赖于上下文环境，是由编译器推断出来的。这就是所谓的“`类型推断`”。
 
-<img src="assets/ch18_images/image-20220527103215741.jpg" alt="image-20220527103215741" style="zoom:67%;" />
+<img src="assets/ch18_images/image-20220527103215741.webp" alt="image-20220527103215741" style="zoom:67%;" />
 
 举例：
 
@@ -33662,7 +33662,7 @@ public void test() {
 
 #### 3.2 如何理解函数式接口
 
-![](assets/ch18_images/03-Overview.jpg)
+![](assets/ch18_images/03-Overview.webp)
 
 - Java从诞生日起就是一直倡导“一切皆对象”，在Java里面面向对象(OOP)编程是一切。但是随着python、scala等语言的兴起和新技术的挑战，Java不得不做出调整以便支持更加广泛的技术要求，即Java不但可以支持OOP还可以支持OOF（面向函数编程）
   - Java8引入了Lambda表达式之后，Java也开始支持函数式编程。
@@ -33678,15 +33678,15 @@ public void test() {
 
 举例1：
 
-<img src="assets/ch18_images/image-20220527111442115.jpg" alt="image-20220527111442115" style="zoom: 80%;" />
+<img src="assets/ch18_images/image-20220527111442115.webp" alt="image-20220527111442115" style="zoom: 80%;" />
 
 举例2：
 
-<img src="assets/ch18_images/image-20220527111621424.jpg" alt="image-20220527111621424" style="zoom:80%;" />
+<img src="assets/ch18_images/image-20220527111621424.webp" alt="image-20220527111621424" style="zoom:80%;" />
 
 作为参数传递 Lambda 表达式：
 
-<img src="assets/ch18_images/image-20220527111751485.jpg" alt="image-20220527111751485" style="zoom:80%;" />
+<img src="assets/ch18_images/image-20220527111751485.webp" alt="image-20220527111751485" style="zoom:80%;" />
 
 > 作为参数传递 Lambda 表达式：为了将 Lambda 表达式作为参数传递，接收Lambda 表达式的参数类型必须是与该 Lambda 表达式兼容的函数式接口的类型。
 
@@ -34576,7 +34576,7 @@ Stream 和 Collection 集合的区别：**Collection 是一种静态的内存数
 **3- 终止操作(终端操作)**
 终止操作的方法返回值类型就不再是Stream了，因此一旦执行终止操作，就结束整个Stream操作了。一旦执行终止操作，就执行中间操作链，最终产生结果并结束Stream。
 
-<img src="assets/ch18_images/image-20220514180803311.jpg" alt="image-20220514180803311" style="zoom: 50%;" />
+<img src="assets/ch18_images/image-20220514180803311.webp" alt="image-20220514180803311" style="zoom: 50%;" />
 
 ##### 5.4.1 创建Stream实例
 
@@ -35218,54 +35218,54 @@ Java 终于拥有了像Python 和 Scala 之类语言的REPL工具（交互式编
 - 调出jShell
 
 
- ![image-20220527205410620](assets/ch18_images/image-20220527205410620.jpg)
+ ![image-20220527205410620](assets/ch18_images/image-20220527205410620.webp)
 
 - 获取帮助
 
 
- ![image-20220527205418073](assets/ch18_images/image-20220527205418073.jpg)
+ ![image-20220527205418073](assets/ch18_images/image-20220527205418073.webp)
 
 - 基本使用
 
 
- ![image-20220527205429720](assets/ch18_images/image-20220527205429720.jpg)
+ ![image-20220527205429720](assets/ch18_images/image-20220527205429720.webp)
 
 - 导入指定的包
 
 
- ![image-20220527205440068](assets/ch18_images/image-20220527205440068.jpg)
+ ![image-20220527205440068](assets/ch18_images/image-20220527205440068.webp)
 
 - 默认已经导入如下的所有包：（包含java.lang包）
 
 
- ![image-20220527205445267](assets/ch18_images/image-20220527205445267.jpg)
+ ![image-20220527205445267](assets/ch18_images/image-20220527205445267.webp)
 
 - 只需按下 Tab 键，就能自动补全代码
 
 
- ![image-20220527205451352](assets/ch18_images/image-20220527205451352.jpg)
+ ![image-20220527205451352](assets/ch18_images/image-20220527205451352.webp)
 
 - 列出当前 session 里所有有效的代码片段
 
 
- ![image-20220527205458774](assets/ch18_images/image-20220527205458774.jpg)
+ ![image-20220527205458774](assets/ch18_images/image-20220527205458774.webp)
 
 - 查看当前 session 下所有创建过的变量
 
 
- ![image-20220527205506632](assets/ch18_images/image-20220527205506632.jpg)
+ ![image-20220527205506632](assets/ch18_images/image-20220527205506632.webp)
 
 - 查看当前 session 下所有创建过的方法
 
 
- ![image-20220527205513459](assets/ch18_images/image-20220527205513459.jpg)
+ ![image-20220527205513459](assets/ch18_images/image-20220527205513459.webp)
 
 > Tips：我们还可以重新定义相同方法名和参数列表的方法，即对现有方法的修改（或覆盖）。
 
 - 使用外部代码编辑器来编写 Java 代码
 
 
- ![image-20220527205519915](assets/ch18_images/image-20220527205519915.jpg)
+ ![image-20220527205519915](assets/ch18_images/image-20220527205519915.webp)
 
 从外部文件加载源代码【HelloWorld.java】
 
@@ -35283,12 +35283,12 @@ printHello();
 - 使用/open命令调用
 
 
- ![image-20220527205827712](assets/ch18_images/image-20220527205827712.jpg)
+ ![image-20220527205827712](assets/ch18_images/image-20220527205827712.webp)
 
 - 退出jShell
 
 
- ![image-20220527205904000](assets/ch18_images/image-20220527205904000.jpg)
+ ![image-20220527205904000](assets/ch18_images/image-20220527205904000.webp)
 
 #### 6.2 异常处理之try-catch资源关闭
 
@@ -35470,39 +35470,39 @@ var iterator = set.iterator();
 
 声明一个成员变量，并初始化值为null
 
- ![image-20220528155628337](assets/ch18_images/image-20220528155628337.jpg)
+ ![image-20220528155628337](assets/ch18_images/image-20220528155628337.webp)
 
 声明一个数组变量，并为数组静态初始化（省略new的情况下）
 
- ![image-20220528155436304](assets/ch18_images/image-20220528155436304.jpg)
+ ![image-20220528155436304](assets/ch18_images/image-20220528155436304.webp)
 
 没有初始化的方法内的局部变量声明
 
- ![image-20220528155525774](assets/ch18_images/image-20220528155525774.jpg)
+ ![image-20220528155525774](assets/ch18_images/image-20220528155525774.webp)
 
 方法的返回值类型
 
- ![image-20220528155537713](assets/ch18_images/image-20220528155537713.jpg)
+ ![image-20220528155537713](assets/ch18_images/image-20220528155537713.webp)
 
 方法的参数类型
 
- ![image-20220528155549303](assets/ch18_images/image-20220528155549303.jpg)
+ ![image-20220528155549303](assets/ch18_images/image-20220528155549303.webp)
 
 构造器的参数类型
 
- ![image-20220528155614708](assets/ch18_images/image-20220528155614708.jpg)
+ ![image-20220528155614708](assets/ch18_images/image-20220528155614708.webp)
 
 作为catch块中异常类型
 
- ![image-20220528155640498](assets/ch18_images/image-20220528155640498.jpg)
+ ![image-20220528155640498](assets/ch18_images/image-20220528155640498.webp)
 
 Lambda表达式中函数式接口的类型
 
- ![image-20220528155423180](assets/ch18_images/image-20220528155423180.jpg)
+ ![image-20220528155423180](assets/ch18_images/image-20220528155423180.webp)
 
 方法引用中函数式接口的类型
 
- ![image-20220528155429055](assets/ch18_images/image-20220528155429055.jpg)
+ ![image-20220528155429055](assets/ch18_images/image-20220528155429055.webp)
 
 **注意：**
 
@@ -36585,7 +36585,7 @@ System.out.println(_);
 
 但是，在java 9 中规定“_”不再可以单独命名标识符了，如果使用，会报错：
 
-![image-20220527233322495](assets/ch18_images/image-20220527233322495.jpg)
+![image-20220527233322495](assets/ch18_images/image-20220527233322495.webp)
 
 
 
@@ -36636,7 +36636,7 @@ G1最大的亮点就是可以尽量的避免full gc。但毕竟是“尽量”�
 
 **JDK12：Shenandoah GC：低停顿时间的GC**
 
-![image-20220528212254705](assets/ch18_images/image-20220528212254705.jpg)
+![image-20220528212254705](assets/ch18_images/image-20220528212254705.webp)
 
 Shenandoah 垃圾回收器是 Red Hat 在 2014 年宣布进行的一项垃圾收集器研究项目 Pauseless GC 的实现，旨在**针对 JVM 上的内存收回实现低停顿的需求**。
 
@@ -36648,7 +36648,7 @@ Shenandoah GC 主要目标是 99.9% 的暂停小于 10ms，暂停与堆大小无
 
 Shenandoah开发团队在实际应用中的测试数据：
 
-![image-20220528212323729](assets/ch18_images/image-20220528212323729.jpg)
+![image-20220528212323729](assets/ch18_images/image-20220528212323729.webp)
 
 **JDK15：Shenandoah垃圾回收算法转正**
 
@@ -36679,9 +36679,9 @@ ZGC的设计目标是：支持TB级内存容量，暂停时间低（<10ms），�
 - ZGC与Shenandoah目标高度相似，在尽可能对吞吐量影响不大的前提下，实现在任意堆内存大小下都可以把垃圾收集的停顿时间限制在`十毫秒以内`的低延迟。
 
 
-![image-20220528212414676](assets/ch18_images/image-20220528212414676.jpg)
+![image-20220528212414676](assets/ch18_images/image-20220528212414676.webp)
 
-![image-20220528212421319](assets/ch18_images/image-20220528212421319.jpg)
+![image-20220528212421319](assets/ch18_images/image-20220528212421319.webp)
 
 **JDK15：ZGC 功能转正**
 
